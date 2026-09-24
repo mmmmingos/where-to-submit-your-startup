@@ -6,9 +6,10 @@ Help keep the list useful by adding a site, correcting its details, or reporting
 
 | Section | What belongs here |
 | --- | --- |
-| [Directories & submission services](README.md#directories--submission-services) | Free and paid directories, company profiles, listings, reviews, Reddit communities, and submission services. Use Free? to distinguish pricing; put posting-rule limits in Notes. |
+| [Directories & submission services](README.md#directories--submission-services) | Free and paid directories, company profiles, listings, reviews, and submission services. Use Free? to distinguish pricing. |
+| [Reddit communities](README.md#reddit-communities) | Subreddits where founders can share a product under each community's rules. Keep posting limits in Notes. Do not mix these into the directories table. |
 | [Regional and specialist options](README.md#regional-and-specialist-options) | Opportunities limited to a region, audience, or purpose, such as beta testing or fundraising. |
-| [Reported submission problems](README.md#reported-submission-problems) | Broken submission forms, access failures, closed directories, or unrelated redirects. |
+| [Reported submission problems](README.md#reported-submission-problems) | Broken submission forms, access failures, closed directories, banned communities, or unrelated redirects. |
 
 Keep each table sorted A–Z. Update an existing entry instead of adding a duplicate. If pricing changes, update Free? and Notes in place. Move an entry only when its scope or submission status belongs in a different table; explain the change in your pull request.
 
@@ -22,6 +23,14 @@ Copy this Markdown row and replace every placeholder. Choose one value for Free?
 
 ```markdown
 | [Site name](SUBMISSION_URL) | Yes | Short submission notes. | YYYY-MM-DD |
+```
+
+### Reddit communities
+
+Keep the four columns in this order: **Community | Free? | Notes | Last checked**. Use the same Free? definitions. Link the subreddit; put promo and posting-rule limits in Notes.
+
+```markdown
+| [r/Example](https://www.reddit.com/r/example/) | Yes | Short posting-rule notes. | YYYY-MM-DD |
 ```
 
 ### Other options and reported problems
