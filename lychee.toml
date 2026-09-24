@@ -19,4 +19,16 @@ exclude = [
   '^https://www\.crunchbase\.com/',
   '^https://wellfound\.com/company/',
   '^https://www\.discovercloud\.com/program/',
+  # 2026-09-24, PR #5: CI receives 403, while Betabound opens with HTTP 200 in Chrome.
+  '^https://betabound\.com/$',
+  # 2026-09-24, PR #5: official help article is indexed; direct access shows a
+  # Cloudflare challenge (403). Keep the instructions linked; recheck manually.
+  '^https://support\.crunchbase\.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile$',
+  # 2026-09-24, PR #5: CI and manual browser/HTTP requests repeatedly timed out.
+  # Availability remains unconfirmed and is flagged in the README row.
+  '^https://arcticstartup\.com/$',
+  # Historical URL intentionally linked under Reported submission problems.
+  # 2026-09-24: TLS verification fails because its certificate has expired.
+  # Revisit manually; this exclusion does not mean the site is healthy.
+  '^https://www\.allstartups\.info/$',
 ]

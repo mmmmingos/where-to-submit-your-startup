@@ -26,49 +26,56 @@ Sorted A–Z. Names link to submission pages or official instructions where avai
 
 ## Other options
 
-These may suit a specific budget, region, or goal. Entries without linked sources reflect contributor review notes; supporting URLs are still needed. Confirm current terms before paying or submitting.
+Options for a specific budget, region, or goal. Check the linked site for current terms.
 
 ### Paid services
 
-| Site | Notes | Last checked |
-| --- | --- | --- |
-| AI Collection | A free form was available, followed by a reported $19 publishing fee. | 2026-09-24 |
-| All Top Startups | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
-| Appoid | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
-| AppsThunder | Paid package recorded at approximately $249. | 2026-09-24 |
-| Beta Testing | Paid tester marketplace for gathering product feedback. | 2026-09-24 |
+<table>
+<thead>
+  <tr><th align="left" scope="col">Site</th><th align="left" scope="col" width="9999">Notes</th><th align="left" scope="col">Last checked</th></tr>
+</thead>
+<tbody>
+  <tr><td><a href="https://thataicollection.com/submit/">AI Collection</a></td><td>A free form was available, followed by a reported $19 publishing fee.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://alltopstartups.com/submit-startup/">All Top Startups</a></td><td>Paid listing packages recorded at approximately $29 and $79.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://appiod.com/submit-app-for-review/">Appiod</a></td><td>Paid reviews recorded at approximately $29–$249.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://appsthunder.com/submit-your-app/">AppsThunder</a></td><td>Paid package recorded at approximately $249.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://betatesting.com/">Beta Testing</a></td><td>Paid tester marketplace for gathering product feedback.</td><td nowrap>2026-09-24</td></tr>
+</tbody>
+</table>
 
-Recorded prices use the original review's dollar symbol; currency and current pricing need source confirmation.
+Prices are recorded estimates; confirm currency and current pricing on the linked site.
 
 ### Regional and specialist options
 
-| Site | Best fit / eligibility | Last checked |
-| --- | --- | --- |
-| Arctic Startup | Editorial coverage of Nordic and Baltic startups. | 2026-09-24 |
-| Beta Bound | Beta announcements and tester recruitment. | 2026-09-24 |
-| BuiltInChicago | Chicago-focused editorial tips. | 2026-09-24 |
-| [GeekWire](https://www.geekwire.com/submit-startup/) | Startups headquartered in the Pacific Northwest; check the submission criteria. | 2026-09-24 |
-| Gust | Fundraising and company-building tools. | 2026-09-24 |
-| [Inc42](https://tally.so/r/w2poXD) | India-focused startup submissions. | 2026-09-24 |
+<table>
+<thead>
+  <tr><th align="left" scope="col">Site</th><th align="left" scope="col" width="9999">Notes</th><th align="left" scope="col">Last checked</th></tr>
+</thead>
+<tbody>
+  <tr><td><a href="https://arcticstartup.com/">Arctic Startup</a></td><td>Editorial coverage of Nordic and Baltic startups. Site access timed out during the latest check.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://betabound.com/">Beta Bound</a></td><td>Beta announcements and tester recruitment.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://www.builtinchicago.org/">BuiltInChicago</a></td><td>Chicago-focused editorial tips.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://www.geekwire.com/submit-startup/">GeekWire</a></td><td>Startups headquartered in the Pacific Northwest; check the submission criteria.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://gust.com/">Gust</a></td><td>Fundraising and company-building tools.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://tally.so/r/w2poXD">Inc42</a></td><td>India-focused startup submissions.</td><td nowrap>2026-09-24</td></tr>
+</tbody>
+</table>
 
 ## Reported submission problems
 
-These findings were recorded during the initial review. Supporting URLs or screenshots are still needed; a temporary failure does not establish that a site has permanently closed.
+Links point to the affected sites. Notes record previously reported issues; availability may change.
 
-| Site | Recorded finding | Last checked |
-| --- | --- | --- |
-| All Startups | A certificate error prevented access (`ERR_CERT_AUTHORITY_INVALID`). | 2026-09-24 |
-| Appvita | The former directory appeared to have been replaced by a personal portfolio. | 2026-09-24 |
-| Collaborizm | The former directory redirected to a Nestomir Substack page. | 2026-09-24 |
-| Getworm | A submission attempt failed with an “Unknown Error” / CORS error. | 2026-09-24 |
-
-## How entries are checked
-
-**Free?** refers to submitting or publishing a basic listing. Optional paid upgrades do not change a `Yes` to `Conditional`. Use `Conditional` for a requirement such as a reciprocal link, and `Unknown` when free eligibility has not been established. Free submission does not guarantee acceptance.
-
-**Last checked** records a contributor's review of the submission route and terms. It does not imply an accepted submission. Editorial changes and automated checks do not refresh this date. Backlink attributes and traffic outcomes are not assessed in this list.
-
-[Automated link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml) run weekly and when the README changes. They test URL availability, not submission eligibility or prices. Known bot-blocked URLs are documented in [lychee.toml](lychee.toml); a passing check does not mean those excluded URLs were tested.
+<table>
+<thead>
+  <tr><th align="left" scope="col">Site</th><th align="left" scope="col" width="9999">Notes</th><th align="left" scope="col">Last checked</th></tr>
+</thead>
+<tbody>
+  <tr><td><a href="https://www.allstartups.info/">All Startups</a></td><td>A certificate error prevented access (<code>ERR_CERT_AUTHORITY_INVALID</code>).</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://appvita.com/">Appvita</a></td><td>The former directory appeared to have been replaced by a personal portfolio.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://www.collaborizm.com/">Collaborizm</a></td><td>The former directory redirected to a Nestomir Substack page.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://getworm.com/">Getworm</a></td><td>A submission attempt failed with an “Unknown Error” / CORS error.</td><td nowrap>2026-09-24</td></tr>
+</tbody>
+</table>
 
 ## Contribute
 
