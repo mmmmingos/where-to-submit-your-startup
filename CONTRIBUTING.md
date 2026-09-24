@@ -6,7 +6,7 @@ Help keep the list useful by adding a site, correcting its details, or reporting
 
 | Section | What belongs here |
 | --- | --- |
-| [Directories & submission services](README.md#directories--submission-services) | Free and paid directories, company profiles, listings, reviews, and submission services. Use Free? to distinguish pricing. |
+| [Directories & submission services](README.md#directories--submission-services) | Free and paid directories, company profiles, listings, reviews, Reddit communities, and submission services. Use Free? to distinguish pricing; put posting-rule limits in Notes. |
 | [Regional and specialist options](README.md#regional-and-specialist-options) | Opportunities limited to a region, audience, or purpose, such as beta testing or fundraising. |
 | [Reported submission problems](README.md#reported-submission-problems) | Broken submission forms, access failures, closed directories, or unrelated redirects. |
 
