@@ -20,7 +20,7 @@ Sorted A–Z. Names link to submission pages or official instructions where avai
 | [eBool](https://www.ebool.com/submit) | Yes | Free submission; a review wait of roughly six months was reported. | 2026-09-24 |
 | [F6S](https://www.f6s.com/) | Yes | Company profile. Homepage link; a direct profile-creation route is still needed. | 2026-09-24 |
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
-| [GetApp](https://www.getapp.com/listing_guidelines/) | Unknown | Vendor listing route and free eligibility need confirmation. Link opens official listing guidelines. | 2026-09-24 |
+| [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Product page. Homepage link; a direct product-creation route is still needed. | 2026-09-24 |
 | [Wellfound](https://help.wellfound.com/article/720-how-can-i-create-a-new-company-or-access-an-existing-one) | Yes | Company profile; start with a personal account. Link opens setup instructions. | 2026-09-24 |
 
