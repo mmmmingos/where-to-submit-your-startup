@@ -51,7 +51,7 @@ Sorted A–Z. Free? is Yes, No, or Unknown. Names link to submission pages or of
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Product page. Homepage link; a direct product-creation route is still needed. | 2026-09-24 |
 | [LaunchIgniter](https://launchigniter.com/submit) | Yes | Free Launch ($0) after account signup; paid Basic (~$12) and Pro (~$15) optional. Confirm current pricing. | 2026-09-25 |
 | [Launching Next](https://www.launchingnext.com/submit/) | Yes | Free submission; optional ~$99 Fast-Track. Free queue wait reported around four months. | 2026-09-25 |
-| [Next Big What](https://nextbigwhat.com/) | No | Paid launch packages only (Lite/Pro via Stripe); no free directory path recorded. | 2026-09-25 |
+| [Next Big What](https://submit.nextbigwhat.com/) | No | Paid launch packages only (Lite/Pro via Stripe); no free directory path recorded. | 2026-09-25 |
 | [Wellfound](https://help.wellfound.com/article/720-how-can-i-create-a-new-company-or-access-an-existing-one) | Yes | Company profile; start with a personal account. Link opens setup instructions. | 2026-09-24 |
 
 Prices are recorded estimates; confirm currency and current pricing on the linked site.
