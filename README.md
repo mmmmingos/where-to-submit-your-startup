@@ -2,7 +2,7 @@
 
 # Where to Submit Your Startup
 
-Free and paid startup directories, company-profile sites, and submission services, with practical notes and dates last checked. Regional and specialist options and reported submission problems are listed separately below.
+Free and paid startup directories, company-profile sites, Reddit communities, and submission services, with practical notes and dates last checked. Regional and specialist options and reported submission problems are listed separately below.
 
 **Website: [submitmystartup.com](https://submitmystartup.com/)** — the same project, with submission checklists, curated bundles, and field notes from our own submission work. This repository is the open-source list behind the website.
 
@@ -25,7 +25,7 @@ The full curated list stays available here. Bundles add selection advice and rec
 
 ## Directories & submission services
 
-Sorted A–Z. Free? is Yes, No, or Unknown. Names link to submission pages or official instructions where available; notes identify homepage links and uncertain requirements.
+Sorted A–Z. Free? is Yes, No, or Unknown. Names link to submission pages, community hubs, or official instructions where available; notes identify homepage links, posting rules, and uncertain requirements. Reddit entries are free to post in, subject to each community's rules.
 
 | Site | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
@@ -46,6 +46,22 @@ Sorted A–Z. Free? is Yes, No, or Unknown. Names link to submission pages or of
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Product page. Homepage link; a direct product-creation route is still needed. | 2026-09-24 |
+| [r/AlphaandBetausers](https://www.reddit.com/r/alphaandbetausers/) | Yes | Reddit: recruit alpha/beta testers with a ready-to-test product, stage/system title tag, and product description. No waitlists-only or spam posts. | 2026-09-25 |
+| [r/buildinpublic](https://www.reddit.com/r/buildinpublic/) | Yes | Reddit: share progress, lessons, or feedback requests. Self-promotion without context and undisclosed paid/affiliate plugs are not allowed. | 2026-09-25 |
+| [r/Design_Critiques](https://www.reddit.com/r/design_critiques/) | Yes | Reddit: design critique only. Link the design and ask for constructive feedback; not a general product-ad venue. | 2026-09-25 |
+| [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/) | Yes | Reddit: no standalone promotion. Use designated weekly promo threads and contribute meaningfully first. | 2026-09-25 |
+| [r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/) | Yes | Reddit: transparent company-building stories welcome; no explicit promotion ban. Better for ride-along updates than bare ads. | 2026-09-25 |
+| [r/IMadeThis](https://www.reddit.com/r/IMadeThis/) | Yes | Reddit: makers are encouraged to show projects. Keep the post about what you built rather than a sales pitch. | 2026-09-25 |
+| [r/IndieBiz](https://www.reddit.com/r/indiebiz/) | Yes | Reddit: independent businesses and products welcome. Use tags such as [INTRO] or [OFFER]; MLM is prohibited. | 2026-09-25 |
+| [r/indiehackers](https://www.reddit.com/r/indiehackers/) | Yes | Reddit: one self-promotion post per user with Self Promotion flair, framed for feedback rather than ads. | 2026-09-25 |
+| [r/LadyBusiness](https://www.reddit.com/r/ladybusiness/) | Yes | Reddit: product plugs only in the monthly shameless-plug thread; posts outside it are removed. | 2026-09-25 |
+| [r/microsaas](https://www.reddit.com/r/microsaas/) | Yes | Reddit: product posts need backstory, stack, revenue (optional), or a lesson. Naked promotional links are removed. | 2026-09-25 |
+| [r/plugyourproduct](https://www.reddit.com/r/plugyourproduct/) | Yes | Reddit: explicit product-plug community. Posting is limited to approved users. | 2026-09-25 |
+| [r/RoastMyStartup](https://www.reddit.com/r/roastmystartup/) | Yes | Reddit: submit your own live startup for critique with a clickable real-domain link. No Product Hunt or Vercel links. | 2026-09-25 |
+| [r/SaaS](https://www.reddit.com/r/SaaS/) | Yes | Reddit: max 1 mention or 3 links per 60 days, with affiliation disclosed and useful context. Naked links are treated as spam. | 2026-09-25 |
+| [r/SideProject](https://www.reddit.com/r/SideProject/) | Yes | Reddit: sharing project links and constructive feedback is encouraged. Use “[Project name] - [Short description]” titles. | 2026-09-25 |
+| [r/SmallBusiness](https://www.reddit.com/r/smallbusiness/) | Yes | Reddit: no standalone promo posts. Use the weekly promote-your-business thread or relevant non-repeated replies. | 2026-09-25 |
+| [r/Startups](https://www.reddit.com/r/startups/) | Yes | Reddit: share your startup only in the monthly Share Your Startup thread; feedback/surveys use weekly threads. | 2026-09-25 |
 | [Wellfound](https://help.wellfound.com/article/720-how-can-i-create-a-new-company-or-access-an-existing-one) | Yes | Company profile; start with a personal account. Link opens setup instructions. | 2026-09-24 |
 
 Prices are recorded estimates; confirm currency and current pricing on the linked site.
@@ -83,6 +99,9 @@ Links point to the affected sites. Notes record previously reported issues; avai
   <tr><td><a href="https://appvita.com/">Appvita</a></td><td>The former directory appeared to have been replaced by a personal portfolio.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.collaborizm.com/">Collaborizm</a></td><td>The former directory redirected to a Nestomir Substack page.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://getworm.com/">Getworm</a></td><td>A submission attempt failed with an “Unknown Error” / CORS error.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/coupons/">r/Coupons</a></td><td>Coupon-only community; referral links, ads, and product promotion are disallowed.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/shamelessplug/">r/shamelessplug</a></td><td>Subreddit is banned / unavailable (Reddit 404).</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/thesidehustle/">r/thesidehustle</a></td><td>“No advertising” rule; direct product promotion is disallowed.</td><td nowrap>2026-09-25</td></tr>
 </tbody>
 </table>
 

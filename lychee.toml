@@ -31,4 +31,7 @@ exclude = [
   # 2026-09-24: TLS verification fails because its certificate has expired.
   # Revisit manually; this exclusion does not mean the site is healthy.
   '^https://www\.allstartups\.info/$',
+  # 2026-09-25: Reddit returns 403 to automated GET from CI; communities open in a
+  # normal browser. Manual rules review recorded in README Notes / problems rows.
+  '^https://www\.reddit\.com/',
 ]
