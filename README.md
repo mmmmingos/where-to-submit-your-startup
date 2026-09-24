@@ -52,7 +52,7 @@ Prices are recorded estimates; confirm currency and current pricing on the linke
   <tr><th align="left" scope="col">Site</th><th align="left" scope="col" width="9999">Notes</th><th align="left" scope="col">Last checked</th></tr>
 </thead>
 <tbody>
-  <tr><td><a href="https://arcticstartup.com/">Arctic Startup</a></td><td>Editorial coverage of Nordic and Baltic startups.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://arcticstartup.com/">Arctic Startup</a></td><td>Editorial coverage of Nordic and Baltic startups. Site access timed out during the latest check.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://betabound.com/">Beta Bound</a></td><td>Beta announcements and tester recruitment.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.builtinchicago.org/">BuiltInChicago</a></td><td>Chicago-focused editorial tips.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.geekwire.com/submit-startup/">GeekWire</a></td><td>Startups headquartered in the Pacific Northwest; check the submission criteria.</td><td nowrap>2026-09-24</td></tr>
