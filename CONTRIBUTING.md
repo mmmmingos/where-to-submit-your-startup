@@ -16,10 +16,10 @@ Copy this row for the main table, replacing the placeholders:
 | [Directory name](SUBMISSION_URL) | Yes / Conditional / Unknown | Submission requirements, wait time, and any limitations. | YYYY-MM-DD |
 ```
 
-Use this row for the three-column tables:
+The Other options and Reported submission problems tables share the headers **Site | Notes | Last checked**. They use HTML to fill the available README width on GitHub. Add a row inside the appropriate `<tbody>` and keep the existing header widths:
 
-```markdown
-| [Site name](SOURCE_URL) | Relevant service, eligibility, or recorded problem. | YYYY-MM-DD |
+```html
+<tr><td><a href="SOURCE_URL">Site name</a></td><td>Relevant service, eligibility, or recorded problem.</td><td nowrap>YYYY-MM-DD</td></tr>
 ```
 
 ## Free eligibility
@@ -38,9 +38,13 @@ If payment is required, use the Paid services table. Regional restrictions or a 
 - **Problems:** provide the affected URL and a dated observation or screenshot. One failed request is not proof that the site is permanently closed.
 - **Missing sources:** label gaps explicitly. Existing unsourced review notes are not a precedent for adding unsupported claims.
 
+## Verification dates
+
+Last checked records a contributor's review of the submission route and terms, not an accepted submission. Copy edits and automated link checks do not refresh it. Backlink attributes and traffic outcomes are not assessed in this list.
+
 ## Link checks
 
-GitHub Actions checks README.md and CONTRIBUTING.md with lychee. After installing lychee, you can run the same check locally:
+GitHub Actions checks README.md and CONTRIBUTING.md with lychee weekly and when either file changes. The check tests URL availability, not submission eligibility or prices. Excluded URLs in [lychee.toml](lychee.toml) are not tested, even when the run passes. After installing lychee, you can run the same check locally:
 
 ```sh
 lychee --config lychee.toml README.md CONTRIBUTING.md

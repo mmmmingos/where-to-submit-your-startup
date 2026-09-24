@@ -19,4 +19,8 @@ exclude = [
   '^https://www\.crunchbase\.com/',
   '^https://wellfound\.com/company/',
   '^https://www\.discovercloud\.com/program/',
+  # Historical URL intentionally linked under Reported submission problems.
+  # 2026-09-24: TLS verification fails because its certificate has expired.
+  # Revisit manually; this exclusion does not mean the site is healthy.
+  '^https://www\.allstartups\.info/$',
 ]
