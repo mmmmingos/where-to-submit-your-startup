@@ -5,7 +5,7 @@ Add directory entries directly to the README. Keep the list useful, current, and
 ## Add a directory
 
 1. Open the actual submission page and check the current eligibility and pricing terms.
-2. Choose the most relevant section. Add it to Start here only if you can explain why it deserves priority.
+2. Add or update the directory in the alphabetical Directories table (do not invent new category sections).
 3. Fill in the row below and add evidence in DIY submission notes. Replace the placeholders before submitting.
 4. Use the date you performed the review. If you only checked a URL's HTTP status, do not update Last checked.
 5. Open a pull request with your sources. Disclose any relationship to the directory.
@@ -13,7 +13,7 @@ Add directory entries directly to the README. Keep the list useful, current, and
 Copy this row:
 
 ```markdown
-| Directory name | [Submit](SUBMISSION_URL) | Yes / No / Conditional / Unknown | Amount + currency + billing period, or Unknown | Yes / No / Conditional / Unknown | — | Users / Backlink / Both | YYYY-MM-DD |
+| Directory name | [Submit](SUBMISSION_URL) | Yes / No / Conditional / Unknown | Amount + currency + billing period, or Unknown | YYYY-MM-DD |
 ```
 
 Add a corresponding notes row:
@@ -25,8 +25,6 @@ Add a corresponding notes row:
 ## Evidence to include
 
 - **Price:** distinguish free submission from optional promotion. Include currency, one-time vs recurring fees, and required reciprocal links.
-- **Dofollow:** link an example listing and record the outbound anchor's `rel` attributes and any redirects. Label publisher claims explicitly. An unchecked claim is not enough for the Free + dofollow section.
-- **DR:** use a dated Ahrefs measurement with a source, or leave `—`. Do not invent values or substitute DA.
 - **Approval time:** cite the publisher's estimate or label your own dated experience. Use `Unknown` if neither is available.
 - **Availability:** distinguish a reviewed public submission form, a login-only route, and an actual accepted submission. Do not imply you completed a submission if you only read the documentation.
 
