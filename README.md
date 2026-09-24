@@ -2,9 +2,9 @@
 
 # Where to Submit Your Startup
 
-A community resource for founders looking for places to share what they are building. We collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time.
+A community resource for founders looking for places to share what they are building. I collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time.
 
-**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**, where it is called SubmitMyStartup. The website adds checklists, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As we try submitting our own project, we will share what worked, what did not, and the visits we received.
+**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**. The website adds checklists, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As I try submitting my own project, I will share what worked, what did not, and the visits I received.
 
 Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help improve the list](CONTRIBUTING.md). Small discoveries and unsuccessful attempts are useful too.
 
@@ -12,15 +12,15 @@ Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help
 
 - [Browse the directory](#directories--submission-services) for submission links and practical notes.
 - [Browse Reddit communities](#reddit-communities) for places to share your project under each community's rules.
-- Overwhelmed? Explore our [free startup directories bundle](https://submitmystartup.com/bundles/free-startup-directories/) for a smaller list to work through.
-- [Read guides and updates](https://submitmystartup.com/blog/) for our approach and the lessons we will share as we try the sites.
+- Overwhelmed? Explore my [free startup directories bundle](https://submitmystartup.com/bundles/free-startup-directories/) for a smaller list to work through.
+- [Read guides and updates](https://submitmystartup.com/blog/) for my approach and the lessons I will share as I try the sites.
 - [Check reported problems](#reported-submission-problems) before spending time on a submission.
 
-## What we have checked so far
+## What I have checked so far
 
-**Last checked** means a contributor reviewed the submission details or community rules. It does not mean we submitted a project or received visitors. Free submission may still involve a review, a waiting list, or posting restrictions.
+**Last checked** means a contributor reviewed the submission details or community rules. It does not mean I submitted a project or received visitors. Free submission may still involve a review, a waiting list, or posting restrictions.
 
-Our own submission results are still to come. When we have them, the website will show when we submitted, what it cost, how long it took, and the visits we could track. [Here is how we plan to record those results](https://submitmystartup.com/blog/how-we-track-directory-results/).
+My own submission results are still to come. When I have them, the website will show when I submitted, what it cost, how long it took, and the visits I could track. [Here is how I plan to record those results](https://submitmystartup.com/blog/how-we-track-directory-results/).
 
 The full curated list stays here for everyone to use and improve. Experiences will always include their dates and context, so you can decide what is worth trying for your project.
 
