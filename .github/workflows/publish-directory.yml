@@ -1,0 +1,31 @@
+name: Publish directory website
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/publish-directory.yml
+  workflow_dispatch:
+
+permissions: {}
+
+concurrency:
+  group: publish-directory
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Rebuild Startup Submit from the latest README
+        env:
+          DEPLOY_HOOK: ${{ secrets.STARTUP_SUBMIT_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$DEPLOY_HOOK" ]; then
+            echo "Missing STARTUP_SUBMIT_DEPLOY_HOOK repository secret."
+            exit 1
+          fi
+          curl --fail --silent --show-error --max-time 60 \
+            --request POST "$DEPLOY_HOOK"
