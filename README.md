@@ -49,6 +49,9 @@ Sorted A–Z. Free? is Yes, No, or Unknown. Names link to submission pages or of
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Product page. Homepage link; a direct product-creation route is still needed. | 2026-09-24 |
+| [LaunchIgniter](https://launchigniter.com/submit) | Yes | Free Launch ($0) after account signup; paid Basic (~$12) and Pro (~$15) optional. Confirm current pricing. | 2026-09-25 |
+| [Launching Next](https://www.launchingnext.com/submit/) | Yes | Free submission; optional ~$99 Fast-Track. Free queue wait reported around four months. | 2026-09-25 |
+| [Next Big What](https://submit.nextbigwhat.com/) | No | Paid launch packages only (Lite/Pro via Stripe); no free directory path recorded. | 2026-09-25 |
 | [Wellfound](https://help.wellfound.com/article/720-how-can-i-create-a-new-company-or-access-an-existing-one) | Yes | Company profile; start with a personal account. Link opens setup instructions. | 2026-09-24 |
 
 Prices are recorded estimates; confirm currency and current pricing on the linked site.
@@ -109,6 +112,9 @@ Links point to the affected sites. Notes record previously reported issues; avai
   <tr><td><a href="https://appvita.com/">Appvita</a></td><td>The former directory appeared to have been replaced by a personal portfolio.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.collaborizm.com/">Collaborizm</a></td><td>The former directory redirected to a Nestomir Substack page.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://getworm.com/">Getworm</a></td><td>A submission attempt failed with an “Unknown Error” / CORS error.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://killerstartups.com/submit-startup/">Killer Startups</a></td><td>The submit page advertises a form, but no form fields rendered during the latest check.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://launched.io/SubmitStartup">Launched</a></td><td>Site unreachable (<code>ERR_TUNNEL_CONNECTION_FAILED</code>); appears down.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://app.loopinput.com/">Loop</a></td><td>Site DNS resolves but HTTP requests timed out; not usable as a directory.</td><td nowrap>2026-09-25</td></tr>
   <tr><td><a href="https://www.reddit.com/r/coupons/">r/Coupons</a></td><td>Coupon-only community; referral links, ads, and product promotion are disallowed.</td><td nowrap>2026-09-25</td></tr>
   <tr><td><a href="https://www.reddit.com/r/shamelessplug/">r/shamelessplug</a></td><td>Subreddit is banned / unavailable (Reddit 404).</td><td nowrap>2026-09-25</td></tr>
   <tr><td><a href="https://www.reddit.com/r/thesidehustle/">r/thesidehustle</a></td><td>“No advertising” rule; direct product promotion is disallowed.</td><td nowrap>2026-09-25</td></tr>

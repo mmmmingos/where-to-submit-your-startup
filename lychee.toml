@@ -34,4 +34,8 @@ exclude = [
   # 2026-09-25: Reddit returns 403 to automated GET from CI; communities open in a
   # normal browser. Manual rules review recorded in README Notes / problems rows.
   '^https://www\.reddit\.com/',
+  # 2026-09-25: intentionally linked under Reported submission problems; site unreachable from CI.
+  '^https://launched\.io/',
+  # 2026-09-25: intentionally linked under Reported submission problems; SSL certificate expired.
+  '^https://app\.loopinput\.com/',
 ]
