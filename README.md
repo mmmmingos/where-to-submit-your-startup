@@ -121,14 +121,14 @@ Record requirements before filling out forms. Keep login, CAPTCHA, and manual re
 | App Rater | Public add form fields | No account required | In review queue | [Add form](https://apprater.net/add) |
 | Awesome Indie | Product submission for free review | Free review; expect a long queue (months; one estimate ~Feb 2027 for a late-2026 submit) | Months | [awesomeindie.com](https://awesomeindie.com) · intended [product URL](https://awesomeindie.com/product/trillet) |
 | Discover Cloud | Vendor onboarding | Free basic vendor | ~3 days claimed | [Become a vendor](https://www.discovercloud.com/become-a-vendor) |
-| Indie Hackers | Product page fields | Free product page | Immediate when published | No |
+| Indie Hackers | Product page fields | Free product page | Immediate when published | [Trillet example](https://www.indiehackers.com/product/trillet) — Visit Website → `https://www.trillet.ai` with `rel="nofollow noopener"` (308 to trillet.ai), checked 2026-09-24 |
 | eBool | Submit form fields | Free plan | ~6 months claimed | [Submit](https://www.ebool.com/submit) |
 | Alternative To | Account + listing details | Email support path; hCaptcha | Parked pending support | support@alternativeto.net · signup ref AT-SU-25 |
 | Alternative.me | Account signup | Email verify pending | Parked | Directory signup flow |
 | CrozDesk | Vendor signup | Free vendor signup asks for a public phone number | Parked | Vendor signup requirements |
 | Capterra / G2 / GetApp | Vendor claim flows | GetApp often aliases into G2/Gartner | Unknown | [Capterra](https://www.capterra.com/) · [G2](https://www.g2.com/) (Trillet product pages exist; bot-blocked to link checker) |
 | Crunchbase | Org profile | Free basic org page | Unknown | [Crunchbase](https://www.crunchbase.com/) (Trillet org: `/organization/trillet-ai`) |
-| F6S | Company profile | Free | Unknown | No |
+| F6S | Company profile | Free | Unknown | [F6S](https://www.f6s.com/) (Trillet: `/trillet-ai`) — listing link `https://trillet.ai/` with `rel="noopener noreferrer nofollow"`, checked 2026-09-24 |
 
 Prepare your product name, website URL, short tagline, description, logo, screenshots, category, pricing model, and contact email. Individual sites may ask for more.
 
