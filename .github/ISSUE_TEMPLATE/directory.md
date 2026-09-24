@@ -10,7 +10,7 @@ title: "[Directory] "
 
 ## Addition or change
 
-<!-- Include pricing, link type, eligibility, or what stopped working. -->
+<!-- Include the relevant README section, pricing, eligibility, submission requirements, or what stopped working. -->
 
 ## Evidence and date checked
 
