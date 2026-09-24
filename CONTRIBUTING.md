@@ -54,7 +54,7 @@ Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and 
 
 A free submission does not guarantee acceptance. Do not add DR, dofollow, or traffic claims; the current tables do not assess them.
 
-This is the open-source directory for **Where to Submit Your Startup**, hosted at [submitmystartup.com](https://submitmystartup.com/). The website, SubmitMyStartup, shares bundles, guides, and the maintainer's own submission experiences. Reviewed listing details and completed submissions are recorded separately. Do not change Last checked merely because a new traffic report or blog article was published.
+This is the open-source directory for **Where to Submit Your Startup**, hosted at [submitmystartup.com](https://submitmystartup.com/). The website shares bundles, guides, and my own submission experiences. Reviewed listing details and completed submissions are recorded separately. Do not change Last checked merely because a new traffic report or blog article was published.
 
 ## Include evidence
 
