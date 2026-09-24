@@ -2,7 +2,7 @@
 timeout = 30
 max_retries = 2
 max_concurrency = 4
-exclude_mail = true
+include_mail = false
 
 # Contribution examples are placeholders, not real destinations.
 include_verbatim = false
