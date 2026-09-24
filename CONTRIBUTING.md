@@ -45,6 +45,8 @@ Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and 
 
 A free submission does not guarantee acceptance. Do not add DR, dofollow, or traffic claims; the current tables do not assess them.
 
+This is the open-source directory for **Where to Submit Your Startup**, hosted at [submitmystartup.com](https://submitmystartup.com/). The website's bundles and field notes keep the maintainer's submission results separate from these source facts. Do not change Last checked merely because a new traffic report or blog article was published.
+
 ## Include evidence
 
 Link official submission instructions, pricing, or eligibility rules in your pull request. Add a source in Notes when the site's main link does not support a material claim.
