@@ -36,10 +36,10 @@ A focused shortlist of directories worth considering first.
 
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wellfound | [Submit](https://wellfound.com/) | Yes | Free company profile |  Unknown  | — | Both | 2026-09-24 |
-| Indie Hackers | [Submit](https://www.indiehackers.com/) | Yes | Free product page |  No  | — | Both | 2026-09-24 |
-| G2 | [Submit](https://www.g2.com/) | Yes | Free vendor listing (claim/edit may need vendor account) |  Unknown  | — | Both | 2026-09-24 |
-| Crunchbase | [Submit](https://www.crunchbase.com/) | Conditional | Free basic org page; paid for extras |  Unknown  | — | Backlink | 2026-09-24 |
+| Wellfound | [Submit](https://wellfound.com/) | Yes | Free company profile | Unknown | — | Both | 2026-09-24 |
+| Indie Hackers | [Submit](https://www.indiehackers.com/) | Yes | Free product page | No | — | Both | 2026-09-24 |
+| G2 | [Submit](https://www.g2.com/) | Yes | Free vendor listing (claim/edit may need vendor account) | Unknown | — | Both | 2026-09-24 |
+| Crunchbase | [Submit](https://www.crunchbase.com/) | Conditional | Free basic org page; paid for extras | Unknown | — | Backlink | 2026-09-24 |
 
 ## Free + dofollow
 
@@ -56,11 +56,11 @@ Places to launch, get feedback, and meet early users.
 
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Indie Hackers | [Submit](https://www.indiehackers.com/) | Yes | Free product page | Unknown | — | Users | 2026-09-24 |
-| 10words | [Submit](https://10words.io) | Yes | Free SaaS submit |  Unknown  | — | Users | 2026-09-24 |
-| Awesome Indie | [Submit](https://awesomeindie.com) | Yes | Free review queue (often many months) |  Unknown  | — | Users | 2026-09-24 |
-| App Rater | [Submit](https://apprater.net/add) | Yes | Free public form; no account |  Unknown  | — | Users | 2026-09-24 |
-| All My Faves | [Submit](https://allmyfaves.com/) | Conditional | Free editorial request by email; featured ~$79 skipped |  Unknown  | — | Users | 2026-09-24 |
+| Indie Hackers | [Submit](https://www.indiehackers.com/) | Yes | Free product page | No | — | Users | 2026-09-24 |
+| 10words | [Submit](https://10words.io) | Yes | Free SaaS submit | Unknown | — | Users | 2026-09-24 |
+| Awesome Indie | [Submit](https://awesomeindie.com) | Yes | Free review queue (often many months) | Unknown | — | Users | 2026-09-24 |
+| App Rater | [Submit](https://apprater.net/add) | Yes | Free public form; no account | Unknown | — | Users | 2026-09-24 |
+| All My Faves | [Submit](https://allmyfaves.com/) | Conditional | Free editorial request by email; featured ~$79 skipped | Unknown | — | Users | 2026-09-24 |
 
 ## Evergreen discovery and alternatives
 
@@ -69,13 +69,13 @@ Directories for ongoing discovery and product comparisons.
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Wellfound | [Submit](https://wellfound.com/) | Yes | Free company profile (prefer wellfound.com over angel.co) | Unknown | — | Both | 2026-09-24 |
-| Capterra | [Submit](https://www.capterra.com/) | Yes | Free vendor listing |  Unknown  | — | Both | 2026-09-24 |
+| Capterra | [Submit](https://www.capterra.com/) | Yes | Free vendor listing | Unknown | — | Both | 2026-09-24 |
 | G2 | [Submit](https://www.g2.com/) | Yes | Free vendor listing | Unknown | — | Both | 2026-09-24 |
-| GetApp | [Submit](https://www.getapp.com/) | Conditional | Often routes into the Gartner/G2 ecosystem; may not keep a separate product page |  Unknown  | — | Both | 2026-09-24 |
-| F6S | [Submit](https://www.f6s.com/) | Yes | Free company profile |  No  | — | Both | 2026-09-24 |
+| GetApp | [Submit](https://www.getapp.com/) | Conditional | Often routes into the Gartner/G2 ecosystem; may not keep a separate product page | Unknown | — | Both | 2026-09-24 |
+| F6S | [Submit](https://www.f6s.com/) | Yes | Free company profile | No | — | Both | 2026-09-24 |
 | Crunchbase | [Submit](https://www.crunchbase.com/) | Conditional | Free basic; paid upgrades | Unknown | — | Backlink | 2026-09-24 |
-| Discover Cloud | [Submit](https://www.discovercloud.com/become-a-vendor) | Yes | Free basic vendor |  Unknown  | — | Both | 2026-09-24 |
-| eBool | [Submit](https://www.ebool.com/submit) | Yes | Free plan; long review queue (~6 months claimed) |  Unknown  | — | Backlink | 2026-09-24 |
+| Discover Cloud | [Submit](https://www.discovercloud.com/become-a-vendor) | Yes | Free basic vendor | Unknown | — | Both | 2026-09-24 |
+| eBool | [Submit](https://www.ebool.com/submit) | Yes | Free plan; long review queue (~6 months claimed) | Unknown | — | Backlink | 2026-09-24 |
 
 ## AI, SaaS, and side-project niches
 
@@ -121,14 +121,14 @@ Record requirements before filling out forms. Keep login, CAPTCHA, and manual re
 | App Rater | Public add form fields | No account required | In review queue | [Add form](https://apprater.net/add) |
 | Awesome Indie | Product submission for free review | Free review; expect a long queue (months; one estimate ~Feb 2027 for a late-2026 submit) | Months | [awesomeindie.com](https://awesomeindie.com) · intended [product URL](https://awesomeindie.com/product/trillet) |
 | Discover Cloud | Vendor onboarding | Free basic vendor | ~3 days claimed | [Become a vendor](https://www.discovercloud.com/become-a-vendor) |
-| Indie Hackers | Product page fields | Free product page | Immediate when published | [Trillet example](https://www.indiehackers.com/product/trillet) — Visit Website → `https://www.trillet.ai` with `rel="nofollow noopener"` (308 to trillet.ai), checked 2026-09-24 |
+| Indie Hackers | Product page fields | Free product page | Immediate when published | No |
 | eBool | Submit form fields | Free plan | ~6 months claimed | [Submit](https://www.ebool.com/submit) |
 | Alternative To | Account + listing details | Email support path; hCaptcha | Parked pending support | support@alternativeto.net · signup ref AT-SU-25 |
 | Alternative.me | Account signup | Email verify pending | Parked | Directory signup flow |
 | CrozDesk | Vendor signup | Free vendor signup asks for a public phone number | Parked | Vendor signup requirements |
 | Capterra / G2 / GetApp | Vendor claim flows | GetApp often aliases into G2/Gartner | Unknown | [Capterra](https://www.capterra.com/) · [G2](https://www.g2.com/) (Trillet product pages exist; bot-blocked to link checker) |
 | Crunchbase | Org profile | Free basic org page | Unknown | [Crunchbase](https://www.crunchbase.com/) (Trillet org: `/organization/trillet-ai`) |
-| F6S | Company profile | Free | Unknown | [F6S](https://www.f6s.com/) (Trillet: `/trillet-ai`) — listing link `https://trillet.ai/` with `rel="noopener noreferrer nofollow"`, checked 2026-09-24 |
+| F6S | Company profile | Free | Unknown | No |
 
 Prepare your product name, website URL, short tagline, description, logo, screenshots, category, pricing model, and contact email. Individual sites may ask for more.
 
