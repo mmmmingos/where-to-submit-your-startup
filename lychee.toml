@@ -6,3 +6,16 @@ include_mail = false
 
 # Contribution examples are placeholders, not real destinations.
 include_verbatim = false
+
+# Bot walls / auth gates investigated 2026-09-24 on PR #1.
+# Manual review: these directories are live; automated GET is blocked (403/401/405).
+# Re-check periodically; remove an exclusion only after lychee gets a clean 2xx.
+exclude = [
+  '^https://www\\.g2\\.com/',
+  '^https://www\\.capterra\\.com/',
+  '^https://www\\.getapp\\.com/',
+  '^https://www\\.f6s\\.com/',
+  '^https://www\\.crunchbase\\.com/',
+  '^https://wellfound\\.com/company/',
+  '^https://www\\.discovercloud\\.com/program/',
+]
