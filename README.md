@@ -1,6 +1,25 @@
-# Where to submit your startup
+<img src="assets/logo.svg" width="40" height="40" alt="">
+
+# Where to Submit Your Startup
 
 Free and paid startup directories, company-profile sites, and submission services, with practical notes and dates last checked. Regional and specialist options and reported submission problems are listed separately below.
+
+**Website: [submitmystartup.com](https://submitmystartup.com/)** — the same project, with submission checklists, curated bundles, and field notes from our own submission work. This repository is the open-source list behind the website.
+
+## Choose where to start
+
+- [Browse the directory](#directories--submission-services) for submission links and practical requirements.
+- [Explore free startup directories](https://submitmystartup.com/bundles/free-startup-directories/) for a focused shortlist and a personal checklist.
+- [Read guides and field notes](https://submitmystartup.com/blog/) for our approach and, as observations become available, dated submission results.
+- [Review reported problems](#reported-submission-problems) before spending time on a submission.
+
+## What is checked, and what is measured?
+
+**Last checked** is when a contributor reviewed a site's submission route or terms. It is not proof that we submitted a product, were accepted, or received visitors. Free submission does not guarantee free publication or acceptance; read each site's conditions.
+
+Our website keeps those source facts separate from our own submission experience. We are preparing to record publication dates, fees, time spent, and referral traffic sent to our website. No referral-performance results have been published yet. [Read how we track directory results](https://submitmystartup.com/blog/how-we-track-directory-results/).
+
+The full curated list stays available here. Bundles add selection advice and recorded experience; any traffic figures describe our product and observation period, not a promise of results for yours.
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
