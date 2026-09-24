@@ -4,7 +4,7 @@ Find places that still accept startup submissions — and see what you actually 
 Free vs paid. Dofollow vs nofollow. Users, backlinks, or both.
 Every listing includes a submission link and a last-checked date.
 
-**The list is being built. Directory entries are coming soon.**
+First batch of entries sourced from Trillet’s live submission work (batches 1–3, reviewed 2026-09-24). Dofollow is `Unknown` until an outbound listing link is inspected. DR is `—` until a dated Ahrefs measurement is added.
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
@@ -32,38 +32,60 @@ Every listing includes a submission link and a last-checked date.
 
 ## Start here
 
-A focused shortlist of directories worth considering first. Entries coming soon.
+A focused shortlist of directories worth considering first.
 
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wellfound | [Submit](https://wellfound.com/) | Yes | Free company profile | Unknown | — | Both | 2026-09-24 |
+| Indie Hackers | [Submit](https://www.indiehackers.com/) | Yes | Free product page | Unknown | — | Both | 2026-09-24 |
+| G2 | [Submit](https://www.g2.com/) | Yes | Free vendor listing (claim/edit may need vendor account) | Unknown | — | Both | 2026-09-24 |
+| Crunchbase | [Submit](https://www.crunchbase.com/) | Conditional | Free basic org page; paid for extras | Unknown | — | Backlink | 2026-09-24 |
 
 ## Free + dofollow
 
 Include only listings with evidence for a free submission and a dofollow link. State any conditions in the submission notes.
+
+No entries yet — outbound `rel` attributes still need manual checks for the free directories below.
 
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
 ## Launch-day discovery
 
-Places to launch, get feedback, and meet early users. Entries coming soon.
+Places to launch, get feedback, and meet early users.
 
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Indie Hackers | [Submit](https://www.indiehackers.com/) | Yes | Free product page | Unknown | — | Users | 2026-09-24 |
+| 10words | [Submit](https://10words.io) | Yes | Free SaaS submit | Unknown | — | Users | 2026-09-24 |
+| Awesome Indie | [Submit](https://awesomeindie.com) | Yes | Free review queue (often many months) | Unknown | — | Users | 2026-09-24 |
+| App Rater | [Submit](https://apprater.net/add/) | Yes | Free public form; no account | Unknown | — | Users | 2026-09-24 |
+| All My Faves | [Submit](https://www.allmyfaves.com/) | Conditional | Free editorial request by email; featured ~$79 skipped | Unknown | — | Users | 2026-09-24 |
 
 ## Evergreen discovery and alternatives
 
-Directories for ongoing discovery and product comparisons. Entries coming soon.
+Directories for ongoing discovery and product comparisons.
 
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wellfound | [Submit](https://wellfound.com/) | Yes | Free company profile (prefer wellfound.com over angel.co) | Unknown | — | Both | 2026-09-24 |
+| Capterra | [Submit](https://www.capterra.com/) | Yes | Free vendor listing | Unknown | — | Both | 2026-09-24 |
+| G2 | [Submit](https://www.g2.com/) | Yes | Free vendor listing | Unknown | — | Both | 2026-09-24 |
+| GetApp | [Submit](https://www.getapp.com/) | Conditional | Often routes into the Gartner/G2 ecosystem; may not keep a separate product page | Unknown | — | Both | 2026-09-24 |
+| F6S | [Submit](https://www.f6s.com/) | Yes | Free company profile | Unknown | — | Both | 2026-09-24 |
+| Crunchbase | [Submit](https://www.crunchbase.com/) | Conditional | Free basic; paid upgrades | Unknown | — | Backlink | 2026-09-24 |
+| Discover Cloud | [Submit](https://www.discovercloud.com/become-a-vendor) | Yes | Free basic vendor | Unknown | — | Both | 2026-09-24 |
+| eBool | [Submit](https://www.ebool.com/submit) | Yes | Free plan; long review queue (~6 months claimed) | Unknown | — | Backlink | 2026-09-24 |
 
 ## AI, SaaS, and side-project niches
 
-Specialist directories where audience fit matters. Entries coming soon.
+Specialist directories where audience fit matters.
 
 | Name | Submit URL | Free? | Price | Dofollow? | DR | Best for | Last checked |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| 10words | [Submit](https://10words.io) | Yes | Free SaaS submit | Unknown | — | Users | 2026-09-24 |
+| Awesome Indie | [Submit](https://awesomeindie.com) | Yes | Free review; long queue | Unknown | — | Users | 2026-09-24 |
+| Discover Cloud | [Submit](https://www.discovercloud.com/become-a-vendor) | Yes | Free basic | Unknown | — | Both | 2026-09-24 |
 
 ## Skip these
 
@@ -71,6 +93,21 @@ Document why a listing is unsuitable and link the evidence. A nofollow link alon
 
 | Name | What changed / why skip | Evidence | Last checked |
 | --- | --- | --- | --- |
+| All Startups | Bad TLS (`ERR_CERT_AUTHORITY_INVALID`); treat as broken | Site TLS failure when opening the directory | 2026-09-24 |
+| Collaborizm | Dormant; redirects to Nestomir Substack | Live redirect off the old directory | 2026-09-24 |
+| Appvita | Directory gone; personal portfolio remains | Former directory URL no longer lists products | 2026-09-24 |
+| Getworm | Submit form broken (Unknown Error / CORS) | Failed public submit attempt | 2026-09-24 |
+| Geek Wire | PNW HQ geo restriction — not a general product directory | [Submit startup](https://www.geekwire.com/submit-startup/) | 2026-09-24 |
+| Inc 42 | India-focused submissions | [Tally form](https://tally.so/r/w2poXD) | 2026-09-24 |
+| Arctic Startup | Nordic/Baltic PR desk, not a product directory | Editorial/geo focus | 2026-09-24 |
+| BuiltInChicago | Chicago tip form, not a product directory | Local tip submission only | 2026-09-24 |
+| Beta Bound | Beta announce board only | Not a lasting directory listing | 2026-09-24 |
+| Beta Testing | Paid tester marketplace, not an SEO/listing directory | Paid tester packages | 2026-09-24 |
+| Gust | Fundraising / Launch tooling; weak as a discovery directory | Product positioning | 2026-09-24 |
+| All Top Startups | Paid-only listing packages | ~$29 / $79 packages | 2026-09-24 |
+| Appoid | Paid review only | ~$29–$249 | 2026-09-24 |
+| AppsThunder | Paid package | ~$249 | 2026-09-24 |
+| AI Collection | Free form exists but publish requires paid step we skip for a free list | ~$19 publish fee after form | 2026-09-24 |
 
 ## DIY submission notes
 
@@ -78,6 +115,20 @@ Record requirements before filling out forms. Keep login, CAPTCHA, and manual re
 
 | Directory | Required fields / assets | Account or other requirements | Approval time | Evidence |
 | --- | --- | --- | --- | --- |
+| 10words | Product name, URL, short pitch (SaaS-oriented) | Free SaaS submit; review queue | Unknown (in review as of 2026-09-24) | [Submission receipt](https://portal.10words.io/submissions/submitted/31744) |
+| All My Faves | Editorial pitch by email | Free editorial path; paid featured ~$79 optional | Unknown until published | [allmyfaves.com](https://www.allmyfaves.com/) |
+| Wellfound | Company profile fields | Free company profile | Immediate when profile is complete | [Trillet example](https://wellfound.com/company/trillet-ai) |
+| App Rater | Public add form fields | No account required | In review queue | [Add form](https://apprater.net/add/) |
+| Awesome Indie | Product submission for free review | Free review; expect a long queue (months; one estimate ~Feb 2027 for a late-2026 submit) | Months | [awesomeindie.com](https://awesomeindie.com) · intended [product URL](https://awesomeindie.com/product/trillet) |
+| Discover Cloud | Vendor onboarding | Free basic vendor | ~3 days claimed | [Vendor program example](https://www.discovercloud.com/program/basic-company/27023) |
+| Indie Hackers | Product page fields | Free product page | Immediate when published | [Trillet example](https://www.indiehackers.com/product/trillet) |
+| eBool | Submit form fields | Free plan | ~6 months claimed | [Submit](https://www.ebool.com/submit) |
+| Alternative To | Account + listing details | Email support path; hCaptcha | Parked pending support | support@alternativeto.net · signup ref AT-SU-25 |
+| Alternative.me | Account signup | Email verify pending | Parked | Directory signup flow |
+| CrozDesk | Vendor signup | Free vendor signup asks for a public phone number | Parked | Vendor signup requirements |
+| Capterra / G2 / GetApp | Vendor claim flows | GetApp often aliases into G2/Gartner | Unknown | [Capterra](https://www.capterra.com/p/10040374/Trillet/) · [G2](https://www.g2.com/products/trillet/reviews) |
+| Crunchbase | Org profile | Free basic org page | Unknown | [Trillet org](https://www.crunchbase.com/organization/trillet-ai) |
+| F6S | Company profile | Free | Unknown | [Trillet](https://www.f6s.com/trillet-ai) |
 
 Prepare your product name, website URL, short tagline, description, logo, screenshots, category, pricing model, and contact email. Individual sites may ask for more.
 
