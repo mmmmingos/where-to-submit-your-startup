@@ -2,25 +2,27 @@
 
 # Where to Submit Your Startup
 
-Free and paid startup directories, company-profile sites, and submission services, with practical notes and dates last checked. Reddit communities, regional and specialist options, and reported submission problems are listed in their own sections below.
+A community resource for founders looking for places to share what they are building. We collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time.
 
-**Website: [submitmystartup.com](https://submitmystartup.com/)** — the same project, with submission checklists, curated bundles, and field notes from our own submission work. This repository is the open-source list behind the website.
+**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**, where it is called SubmitMyStartup. The website adds checklists, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As we try submitting our own project, we will share what worked, what did not, and the visits we received.
 
-## Choose where to start
+Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help improve the list](CONTRIBUTING.md). Small discoveries and unsuccessful attempts are useful too.
 
-- [Browse the directory](#directories--submission-services) for submission links and practical requirements.
-- [Browse Reddit communities](#reddit-communities) for subreddits where product posts are allowed under community rules.
-- [Explore free startup directories](https://submitmystartup.com/bundles/free-startup-directories/) for a focused shortlist and a personal checklist.
-- [Read guides and field notes](https://submitmystartup.com/blog/) for our approach and, as observations become available, dated submission results.
-- [Review reported problems](#reported-submission-problems) before spending time on a submission.
+## Find a place to start
 
-## What is checked, and what is measured?
+- [Browse the directory](#directories--submission-services) for submission links and practical notes.
+- [Browse Reddit communities](#reddit-communities) for places to share your project under each community's rules.
+- Overwhelmed? Explore our [free startup directories bundle](https://submitmystartup.com/bundles/free-startup-directories/) for a smaller list to work through.
+- [Read guides and updates](https://submitmystartup.com/blog/) for our approach and the lessons we will share as we try the sites.
+- [Check reported problems](#reported-submission-problems) before spending time on a submission.
 
-**Last checked** is when a contributor reviewed a site's submission route or terms. It is not proof that we submitted a product, were accepted, or received visitors. Free submission does not guarantee free publication or acceptance; read each site's conditions.
+## What we have checked so far
 
-Our website keeps those source facts separate from our own submission experience. We are preparing to record publication dates, fees, time spent, and referral traffic sent to our website. No referral-performance results have been published yet. [Read how we track directory results](https://submitmystartup.com/blog/how-we-track-directory-results/).
+**Last checked** means a contributor reviewed the submission details or community rules. It does not mean we submitted a project or received visitors. Free submission may still involve a review, a waiting list, or posting restrictions.
 
-The full curated list stays available here. Bundles add selection advice and recorded experience; any traffic figures describe our product and observation period, not a promise of results for yours.
+Our own submission results are still to come. When we have them, the website will show when we submitted, what it cost, how long it took, and the visits we could track. [Here is how we plan to record those results](https://submitmystartup.com/blog/how-we-track-directory-results/).
+
+The full curated list stays here for everyone to use and improve. Experiences will always include their dates and context, so you can decide what is worth trying for your project.
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
@@ -115,7 +117,7 @@ Links point to the affected sites. Notes record previously reported issues; avai
 
 ## Contribute
 
-Add a directory or correct an entry through a pull request using the [contribution guide](CONTRIBUTING.md). Include a source and the date you checked it. You can also [report a changed price, broken link, or missing source](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose).
+Help the next founder: suggest a site, correct a detail, or share what happened when you tried one. Use the [contribution guide](CONTRIBUTING.md) to open a pull request, or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose). Include the date and a link or other evidence so others can follow your findings.
 
 ## License
 

@@ -1,6 +1,6 @@
 # Contributing
 
-Help keep the list useful by adding a site, correcting its details, or reporting a submission problem. Edit [README.md](README.md) and open a pull request, or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose) with your findings.
+This is a shared resource for founders. Help keep it useful by adding a site, correcting a detail, or sharing what happened when you tried one. You do not need a success story: a long wait, a confusing form, or a rejected submission can help someone else. Edit [README.md](README.md) and open a pull request, or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose) with your findings.
 
 ## Choose the right table
 
@@ -54,7 +54,7 @@ Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and 
 
 A free submission does not guarantee acceptance. Do not add DR, dofollow, or traffic claims; the current tables do not assess them.
 
-This is the open-source directory for **Where to Submit Your Startup**, hosted at [submitmystartup.com](https://submitmystartup.com/). The website's bundles and field notes keep the maintainer's submission results separate from these source facts. Do not change Last checked merely because a new traffic report or blog article was published.
+This is the open-source directory for **Where to Submit Your Startup**, hosted at [submitmystartup.com](https://submitmystartup.com/). The website, SubmitMyStartup, shares bundles, guides, and the maintainer's own submission experiences. Reviewed listing details and completed submissions are recorded separately. Do not change Last checked merely because a new traffic report or blog article was published.
 
 ## Include evidence
 
