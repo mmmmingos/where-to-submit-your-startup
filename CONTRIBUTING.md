@@ -6,18 +6,17 @@ Help keep the list useful by adding a site, correcting its details, or reporting
 
 | Section | What belongs here |
 | --- | --- |
-| [Directories](README.md#directories) | Free startup directories and company-profile sites. Mark unresolved free eligibility as Unknown. |
-| [Paid services](README.md#paid-services) | Listings, reviews, or related services that require payment. |
+| [Directories & submission services](README.md#directories--submission-services) | Free and paid directories, company profiles, listings, reviews, and submission services. Use Free? to distinguish pricing. |
 | [Regional and specialist options](README.md#regional-and-specialist-options) | Opportunities limited to a region, audience, or purpose, such as beta testing or fundraising. |
 | [Reported submission problems](README.md#reported-submission-problems) | Broken submission forms, access failures, closed directories, or unrelated redirects. |
 
-Keep each table sorted A–Z. Update an existing entry instead of adding a duplicate. If its status changes, move it to the appropriate table and explain the change in your pull request.
+Keep each table sorted A–Z. Update an existing entry instead of adding a duplicate. If pricing changes, update Free? and Notes in place. Move an entry only when its scope or submission status belongs in a different table; explain the change in your pull request.
 
 ## Use the existing format
 
-### Directories
+### Directories & submission services
 
-Keep the four columns in this order: **Directory | Free? | Notes | Last checked**.
+Keep the four columns in this order: **Site | Free? | Notes | Last checked**.
 
 Copy this Markdown row and replace every placeholder. Choose one value for Free? using the definitions below.
 
@@ -27,7 +26,7 @@ Copy this Markdown row and replace every placeholder. Choose one value for Free?
 
 ### Other options and reported problems
 
-All three tables use **Site | Notes | Last checked**, with Notes in the second column.
+Both tables use **Site | Notes | Last checked**, with Notes in the second column.
 
 Add this HTML row inside the relevant `<tbody>`. Keep the existing `<thead>`, the Notes header's `width="9999"`, and the date cell's `nowrap` attribute so the tables retain their layout.
 
@@ -40,7 +39,7 @@ Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and 
 ## Fill in the fields
 
 - **Site name:** always link it. Prefer the direct submission page or official instructions. If only the homepage is available, say so in Notes. For reported problems, link the affected site or page.
-- **Free?:** use `Yes` when basic submission or listing is free, even if optional upgrades exist. Use `Conditional` for an extra requirement such as a reciprocal link, and explain it. Use `Unknown` when free eligibility is unconfirmed. Required payment belongs under Paid services.
+- **Free?:** use `Yes` when basic submission or listing is free, even if optional upgrades exist. Use `No` when payment is required and `Unknown` when free eligibility is unconfirmed. Describe any conditions for a free listing, such as a reciprocal link, in Notes. Free and paid entries belong in the same table.
 - **Notes:** write one or two short, factual sentences covering requirements, fees, wait times, regional restrictions, or the observed problem. Include currency and one-time versus recurring charges. Label estimates and optional upgrades clearly.
 - **Last checked:** use the date you manually reviewed the submission route and terms, in `YYYY-MM-DD` format. Keep the existing date for formatting-only edits or automated link checks.
 
