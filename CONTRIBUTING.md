@@ -1,53 +1,70 @@
 # Contributing
 
-Add entries directly to the README. Keep notes short, practical, and supported by sources.
+Help keep the list useful by adding a site, correcting its details, or reporting a submission problem. Edit [README.md](README.md) and open a pull request, or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose) with your findings.
 
-## Add or update an entry
+## Choose the right table
 
-1. Review the submission route, eligibility, and current fees.
-2. Add free directories and company-profile sites to the A–Z Directories table. Place paid services and regional or specialist opportunities in the corresponding Other options table. Record access or submission failures under Reported submission problems.
-3. Link the directory name to its submission page or official instructions. If only a homepage is available, say so in Notes. Add source links in Notes for pricing or requirements not covered by the main link.
-4. Use the date you reviewed the entry. Do not refresh Last checked for copy edits or automated HTTP checks.
-5. Open a pull request with your sources and disclose any relationship to the site.
+| Section | What belongs here |
+| --- | --- |
+| [Directories](README.md#directories) | Free startup directories and company-profile sites. Mark unresolved free eligibility as Unknown. |
+| [Paid services](README.md#paid-services) | Listings, reviews, or related services that require payment. |
+| [Regional and specialist options](README.md#regional-and-specialist-options) | Opportunities limited to a region, audience, or purpose, such as beta testing or fundraising. |
+| [Reported submission problems](README.md#reported-submission-problems) | Broken submission forms, access failures, closed directories, or unrelated redirects. |
 
-Copy this row for the main table, replacing the placeholders:
+Keep each table sorted A–Z. Update an existing entry instead of adding a duplicate. If its status changes, move it to the appropriate table and explain the change in your pull request.
+
+## Use the existing format
+
+### Directories
+
+Keep the four columns in this order: **Directory | Free? | Notes | Last checked**.
+
+Copy this Markdown row and replace every placeholder. Choose one value for Free? using the definitions below.
 
 ```markdown
-| [Directory name](SUBMISSION_URL) | Yes / Conditional / Unknown | Submission requirements, wait time, and any limitations. | YYYY-MM-DD |
+| [Site name](SUBMISSION_URL) | Yes | Short submission notes. | YYYY-MM-DD |
 ```
 
-The Other options and Reported submission problems tables share the headers **Site | Notes | Last checked**. They use HTML to fill the available README width on GitHub. Add a row inside the appropriate `<tbody>` and keep the existing header widths:
+### Other options and reported problems
+
+All three tables use **Site | Notes | Last checked**, with Notes in the second column.
+
+Add this HTML row inside the relevant `<tbody>`. Keep the existing `<thead>`, the Notes header's `width="9999"`, and the date cell's `nowrap` attribute so the tables retain their layout.
 
 ```html
-<tr><td><a href="SOURCE_URL">Site name</a></td><td>Relevant service, eligibility, or recorded problem.</td><td nowrap>YYYY-MM-DD</td></tr>
+<tr><td><a href="SITE_OR_SUBMISSION_URL">Site name</a></td><td>Short notes about the service, eligibility, or problem.</td><td nowrap>YYYY-MM-DD</td></tr>
 ```
 
-## Free eligibility
+Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and `<` as `&lt;` in text.
 
-- **Yes:** a basic submission or listing is free. Optional paid promotion, normal account registration, and editorial approval do not make it Conditional.
-- **Conditional:** a free listing requires something extra, such as a reciprocal link. Explain the condition.
-- **Unknown:** current free eligibility has not been established. Describe what still needs checking.
+## Fill in the fields
 
-If payment is required, use the Paid services table. Regional restrictions or a specialist audience belong under Regional and specialist options; they do not make a site broken.
+- **Site name:** always link it. Prefer the direct submission page or official instructions. If only the homepage is available, say so in Notes. For reported problems, link the affected site or page.
+- **Free?:** use `Yes` when basic submission or listing is free, even if optional upgrades exist. Use `Conditional` for an extra requirement such as a reciprocal link, and explain it. Use `Unknown` when free eligibility is unconfirmed. Required payment belongs under Paid services.
+- **Notes:** write one or two short, factual sentences covering requirements, fees, wait times, regional restrictions, or the observed problem. Include currency and one-time versus recurring charges. Label estimates and optional upgrades clearly.
+- **Last checked:** use the date you manually reviewed the submission route and terms, in `YYYY-MM-DD` format. Keep the existing date for formatting-only edits or automated link checks.
 
-## Evidence
+A free submission does not guarantee acceptance. Do not add DR, dofollow, or traffic claims; the current tables do not assess them.
 
-- **Fees:** link the current pricing or submission page. Include currency and whether the charge is one-time or recurring. Identify optional upgrades separately.
-- **Queues:** cite the publisher's estimate or label a dated contributor report. Do not present a reported wait as a guarantee.
-- **Availability:** distinguish reading public instructions, opening a form, and completing a submission. Record login or bot-protection barriers accurately.
-- **Problems:** provide the affected URL and a dated observation or screenshot. One failed request is not proof that the site is permanently closed.
-- **Missing sources:** label gaps explicitly. Existing unsourced review notes are not a precedent for adding unsupported claims.
+## Include evidence
 
-## Verification dates
+Link official submission instructions, pricing, or eligibility rules in your pull request. Add a source in Notes when the site's main link does not support a material claim.
 
-Last checked records a contributor's review of the submission route and terms, not an accepted submission. Copy edits and automated link checks do not refresh it. Backlink attributes and traffic outcomes are not assessed in this list.
+Say whether you read public instructions, opened the form, or completed a submission. For errors, include the affected URL, date, and observed message or screenshot. A temporary failure does not prove a site has permanently closed.
 
-## Link checks
+Mark missing information explicitly rather than guessing. Disclose if you own, work for, or earn commission from the site.
 
-GitHub Actions checks README.md and CONTRIBUTING.md with lychee weekly and when either file changes. The check tests URL availability, not submission eligibility or prices. Excluded URLs in [lychee.toml](lychee.toml) are not tested, even when the run passes. After installing lychee, you can run the same check locally:
+## Before submitting
+
+- Check that the entry is in the right table and alphabetical position.
+- Confirm the site name is linked and every placeholder is replaced.
+- Preview the README to check column order, links, and formatting.
+- Include sources and preserve review dates unless you performed a new manual review.
+
+GitHub Actions runs lychee on README.md and CONTRIBUTING.md weekly and when either file changes. It checks URL availability, not pricing or submission eligibility. You can also run it locally after installing lychee:
 
 ```sh
 lychee --config lychee.toml README.md CONTRIBUTING.md
 ```
 
-Review the Actions run summary or download its `link-check-report` artifact. Authentication and bot protection can cause failures; exclusions must be narrow, documented, and periodically reviewed. Do not exclude a failed URL solely to make the check pass.
+Review the Actions summary or its `link-check-report` artifact. URLs excluded in [lychee.toml](lychee.toml) are not tested. Investigate failures before adding an exclusion; any exception must identify the exact affected URL, the date, and the reason, and unresolved availability should be clear in the entry.
