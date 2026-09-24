@@ -1,0 +1,8 @@
+# A failed request needs investigation; do not count 403/429 as successful checks.
+timeout = 30
+max_retries = 2
+max_concurrency = 4
+exclude_mail = true
+
+# Contribution examples are placeholders, not real destinations.
+include_verbatim = false
