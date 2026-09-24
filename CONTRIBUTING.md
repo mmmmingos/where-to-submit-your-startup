@@ -6,26 +6,20 @@ Add directory entries directly to the README. Keep the list useful, current, and
 
 1. Open the actual submission page and check the current eligibility and pricing terms.
 2. Add or update the directory in the alphabetical Directories table (do not invent new category sections).
-3. Fill in the row below and add evidence in DIY submission notes. Replace the placeholders before submitting.
-4. Use the date you performed the review. If you only checked a URL's HTTP status, do not update Last checked.
-5. Open a pull request with your sources. Disclose any relationship to the directory.
+3. Use the date you performed the review. If you only checked a URL's HTTP status, do not update Last checked.
+4. Open a pull request with your sources. Disclose any relationship to the directory.
 
 Copy this row:
 
 ```markdown
-| Directory name | [Submit](SUBMISSION_URL) | Yes / No / Conditional / Unknown | Amount + currency + billing period, or Unknown | YYYY-MM-DD |
+| [Directory name](SUBMISSION_URL) | Yes / No / Conditional / Unknown | Amount + currency + billing period, or Unknown | YYYY-MM-DD |
 ```
 
-Add a corresponding notes row:
-
-```markdown
-| Directory name | Required fields and assets | Account, eligibility, reciprocal link, or other requirements | Published estimate or Unknown | [Submission rules](SOURCE_URL) |
-```
 
 ## Evidence to include
 
 - **Price:** distinguish free submission from optional promotion. Include currency, one-time vs recurring fees, and required reciprocal links.
-- **Approval time:** cite the publisher's estimate or label your own dated experience. Use `Unknown` if neither is available.
+- **Long queues:** if review can take months, say so in Price (for example "Free review queue; often many months").
 - **Availability:** distinguish a reviewed public submission form, a login-only route, and an actual accepted submission. Do not imply you completed a submission if you only read the documentation.
 
 ## Correct or remove a listing

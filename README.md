@@ -12,7 +12,6 @@ First batch of entries reviewed 2026-09-24.
 
 - [Directories](#directories) — one list, sorted A–Z
 - [Skip these](#skip-these) — closed submissions, dead links, and changed terms
-- [DIY submission notes](#diy-submission-notes) — fields, requirements, and approval times
 
 ## How to read the list
 
@@ -22,21 +21,21 @@ First batch of entries reviewed 2026-09-24.
 
 ## Directories
 
-| Name | Submit URL | Free? | Price | Last checked |
-| --- | --- | --- | --- | --- |
-| 10words | [Submit](https://10words.io) | Yes | Free SaaS submit | 2026-09-24 |
-| All My Faves | [Submit](https://allmyfaves.com/) | Conditional | Free editorial request by email; featured ~$79 skipped | 2026-09-24 |
-| App Rater | [Submit](https://apprater.net/add) | Yes | Free public form; no account | 2026-09-24 |
-| Awesome Indie | [Submit](https://awesomeindie.com) | Yes | Free review queue (often many months) | 2026-09-24 |
-| Capterra | [Submit](https://www.capterra.com/) | Yes | Free vendor listing | 2026-09-24 |
-| Crunchbase | [Submit](https://www.crunchbase.com/) | Conditional | Free basic org page; paid for extras | 2026-09-24 |
-| Discover Cloud | [Submit](https://www.discovercloud.com/become-a-vendor) | Yes | Free basic vendor | 2026-09-24 |
-| eBool | [Submit](https://www.ebool.com/submit) | Yes | Free plan; long review queue (~6 months claimed) | 2026-09-24 |
-| F6S | [Submit](https://www.f6s.com/) | Yes | Free company profile | 2026-09-24 |
-| G2 | [Submit](https://www.g2.com/) | Yes | Free vendor listing (claim/edit may need vendor account) | 2026-09-24 |
-| GetApp | [Submit](https://www.getapp.com/) | Conditional | Often routes into the Gartner/G2 ecosystem; may not keep a separate product page | 2026-09-24 |
-| Indie Hackers | [Submit](https://www.indiehackers.com/) | Yes | Free product page | 2026-09-24 |
-| Wellfound | [Submit](https://wellfound.com/) | Yes | Free company profile (prefer wellfound.com over angel.co) | 2026-09-24 |
+| Name | Free? | Price | Last checked |
+| --- | --- | --- | --- |
+| [10words](https://10words.io) | Yes | Free SaaS submit | 2026-09-24 |
+| [All My Faves](https://allmyfaves.com/) | Conditional | Free editorial request by email; featured ~$79 skipped | 2026-09-24 |
+| [App Rater](https://apprater.net/add) | Yes | Free public form; no account | 2026-09-24 |
+| [Awesome Indie](https://awesomeindie.com) | Yes | Free review queue (often many months) | 2026-09-24 |
+| [Capterra](https://www.capterra.com/) | Yes | Free vendor listing | 2026-09-24 |
+| [Crunchbase](https://www.crunchbase.com/) | Conditional | Free basic org page; paid for extras | 2026-09-24 |
+| [Discover Cloud](https://www.discovercloud.com/become-a-vendor) | Yes | Free basic vendor | 2026-09-24 |
+| [eBool](https://www.ebool.com/submit) | Yes | Free plan; long review queue (~6 months claimed) | 2026-09-24 |
+| [F6S](https://www.f6s.com/) | Yes | Free company profile | 2026-09-24 |
+| [G2](https://www.g2.com/) | Yes | Free vendor listing (claim/edit may need vendor account) | 2026-09-24 |
+| [GetApp](https://www.getapp.com/) | Conditional | Often routes into the Gartner/G2 ecosystem; may not keep a separate product page | 2026-09-24 |
+| [Indie Hackers](https://www.indiehackers.com/) | Yes | Free product page | 2026-09-24 |
+| [Wellfound](https://wellfound.com/) | Yes | Free company profile (prefer wellfound.com over angel.co) | 2026-09-24 |
 
 ## Skip these
 
@@ -59,29 +58,6 @@ Document why a listing is unsuitable and link the evidence. A nofollow link alon
 | Appoid | Paid review only | ~$29–$249 | 2026-09-24 |
 | AppsThunder | Paid package | ~$249 | 2026-09-24 |
 | AI Collection | Free form exists but publish requires paid step we skip for a free list | ~$19 publish fee after form | 2026-09-24 |
-
-## DIY submission notes
-
-Record requirements before filling out forms. Keep login, CAPTCHA, and manual review steps explicit; check each site's rules before automating submissions.
-
-| Directory | Required fields / assets | Account or other requirements | Approval time | Evidence |
-| --- | --- | --- | --- | --- |
-| 10words | Product name, URL, short pitch (SaaS-oriented) | Free SaaS submit; review queue | Unknown (in review as of 2026-09-24) | [Submission receipt](https://portal.10words.io/submissions/submitted/31744) |
-| All My Faves | Editorial pitch by email | Free editorial path; paid featured ~$79 optional | Unknown until published | [allmyfaves.com](https://allmyfaves.com/) |
-| Wellfound | Company profile fields | Free company profile | Immediate when profile is complete | [Wellfound](https://wellfound.com/) [Example listing](https://wellfound.com/company/trillet-ai) |
-| App Rater | Public add form fields | No account required | In review queue | [Add form](https://apprater.net/add) |
-| Awesome Indie | Product submission for free review | Free review; expect a long queue (months; one estimate ~Feb 2027 for a late-2026 submit) | Months | [awesomeindie.com](https://awesomeindie.com) · intended [product URL](https://awesomeindie.com/product/trillet) |
-| Discover Cloud | Vendor onboarding | Free basic vendor | ~3 days claimed | [Become a vendor](https://www.discovercloud.com/become-a-vendor) |
-| Indie Hackers | Product page fields | Free product page | Immediate when published | [Example listing](https://www.indiehackers.com/product/trillet) |
-| eBool | Submit form fields | Free plan | ~6 months claimed | [Submit](https://www.ebool.com/submit) |
-| Alternative To | Account + listing details | Email support path; hCaptcha | Parked pending support | support@alternativeto.net · signup ref AT-SU-25 |
-| Alternative.me | Account signup | Email verify pending | Parked | Directory signup flow |
-| CrozDesk | Vendor signup | Free vendor signup asks for a public phone number | Parked | Vendor signup requirements |
-| Capterra / G2 / GetApp | Vendor claim flows | GetApp often aliases into G2/Gartner | Unknown | [Capterra](https://www.capterra.com/) · [G2](https://www.g2.com/) (Product pages exist; bot-blocked to link checker) |
-| Crunchbase | Org profile | Free basic org page | Unknown | [Crunchbase](https://www.crunchbase.com/) [Example listing](https://www.crunchbase.com/organization/trillet-ai) |
-| F6S | Company profile | Free | Unknown | [F6S](https://www.f6s.com/) [Example listing](https://www.f6s.com/trillet-ai) |
-
-Prepare your product name, website URL, short tagline, description, logo, screenshots, category, pricing model, and contact email. Individual sites may ask for more.
 
 ## Add or update a directory
 
