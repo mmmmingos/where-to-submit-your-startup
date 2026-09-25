@@ -1,6 +1,6 @@
 # Where to Submit Your Startup
 
-A free public resource for founders looking for places to share what they are building. I collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time. I re-check entries with real submissions so the list stays useful.
+A free public resource for founders looking for places to get visibility and users, not only to share what they are building. I collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time. I re-check entries with real submissions so the list stays useful.
 
 **Explore the list at [submitmystartup.com](https://submitmystartup.com/)**. The website adds checklists, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As I submit my own project, I share what worked, what did not, and the visits I received.
 
