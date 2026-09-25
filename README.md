@@ -19,7 +19,7 @@ Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
-**Yes* / Free*** means a free listing path exists, but there is a material catch founders should know before submitting (homepage badge, long free queue, niche/geo gate, or paid skip/sponsor to jump the free path). It is not “paid only”; paid-only stays **No** / not free.
+Yes* means a free listing path exists, but there is a material catch founders should know (homepage badge, long free queue, niche/geo gate, or paid skip/sponsor). Paid-only stays No.
 
 | Site | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
@@ -39,8 +39,8 @@ Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Maker community product page. Free after account signup (Google SSO works). Product page goes live immediately; completing the remaining product form fields is what gets it listed in the products directory. No paid skip observed. | 2026-09-25 |
-| [LaunchIgniter](https://launchigniter.com/submit) | Yes* | Free* Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
-| [Launching Next](https://www.launchingnext.com/submit/) | Yes* | Free* submit with a ~4 month free queue. Optional Fast-Track ~$99. Observed 2026-09-25. | 2026-09-25 |
+| [LaunchIgniter](https://launchigniter.com/submit) | Yes* | Free Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
+| [Launching Next](https://www.launchingnext.com/submit/) | Yes* | Free* submit with a reported ~4 month wait. Optional Fast-Track ~$99. Observed 2026-09-25. | 2026-09-25 |
 | [Next Big What](https://submit.nextbigwhat.com/) | No | Paid launch packages only (Lite/Pro via Stripe); no free directory path recorded. | 2026-09-25 |
 | [Wellfound](https://help.wellfound.com/article/720-how-can-i-create-a-new-company-or-access-an-existing-one) | Yes | Company profile; start with a personal account. Link opens setup instructions. | 2026-09-24 |
 
