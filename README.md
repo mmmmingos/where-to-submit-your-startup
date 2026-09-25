@@ -39,7 +39,7 @@ Yes* means free to submit, but effectively unusable without paying.
 | [F6S](https://www.f6s.com/) | Yes | Company profile. Homepage link; a direct profile-creation route is still needed. | 2026-09-24 |
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
-| [Indie Hackers](https://www.indiehackers.com/) | Yes | Product page. Homepage link; a direct product-creation route is still needed. | 2026-09-24 |
+| [Indie Hackers](https://www.indiehackers.com/) | Yes | Maker community product page. Free after account signup (Google SSO works). Product page goes live immediately; completing the remaining product form fields is what gets it listed in the products directory. No paid skip observed. | 2026-09-25 |
 | [LaunchIgniter](https://launchigniter.com/submit) | Yes | Free Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
 | [Launching Next](https://www.launchingnext.com/submit/) | Yes | Free submission; estimated wait ~4 months (observed 2026-09-25). Optional Fast-Track ~$99. | 2026-09-25 |
 | [Next Big What](https://submit.nextbigwhat.com/) | No | Paid launch packages only (Lite/Pro via Stripe); no free directory path recorded. | 2026-09-25 |
