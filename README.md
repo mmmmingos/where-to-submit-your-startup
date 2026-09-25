@@ -1,8 +1,8 @@
 # Where to Submit Your Startup
 
-A community resource for founders looking for places to share what they are building. I collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time.
+A free public resource for founders looking for places to share what they are building. I collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time. I re-check entries with real submissions so the list stays useful.
 
-**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**. The website adds checklists, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As I try submitting my own project, I will share what worked, what did not, and the visits I received.
+**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**. The website adds checklists, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As I submit my own project, I share what worked, what did not, and the visits I received.
 
 Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help improve the list](CONTRIBUTING.md). Small discoveries and unsuccessful attempts are useful too.
 
@@ -18,7 +18,7 @@ Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help
 
 **Last checked** means a contributor reviewed the submission details or community rules. It does not mean I submitted a project or received visitors. Free submission may still involve a review, a waiting list, or posting restrictions.
 
-My own submission results are still to come. When I have them, the website will show when I submitted, what it cost, how long it took, and the visits I could track. [Here is how I plan to record those results](https://submitmystartup.com/blog/how-we-track-directory-results/).
+I have started recording my own submissions on the website (status, cost, time, and visits when I can track them). See the [10words experience](https://submitmystartup.com/bundles/free-startup-directories/#10words) and [how I record those results](https://submitmystartup.com/blog/how-we-track-directory-results/).
 
 The full curated list stays here for everyone to use and improve. Experiences will always include their dates and context, so you can decide what is worth trying for your project.
 
