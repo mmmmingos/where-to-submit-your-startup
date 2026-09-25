@@ -34,6 +34,7 @@ Yes* means free to submit, but effectively unusable without paying.
 | [Beta Testing](https://betatesting.com/) | No | Paid tester marketplace for gathering product feedback. | 2026-09-24 |
 | [Capterra](https://www.capterra.com/vendors/) | Yes | Basic vendor listing. Start with “Get Your Product Listed” on the vendor page. | 2026-09-24 |
 | [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Basic company profile; registration and social authentication required. Link opens setup instructions. | 2026-09-24 |
+| [Discover Cloud](https://www.discovercloud.com/become-a-vendor) | Yes | Vendor listing after account signup. Free path requires email verification; that verify email may never arrive, which blocks completing a listing. Observed 2026-09-25. | 2026-09-25 |
 | [eBool](https://www.ebool.com/submit) | Yes* | Classic directory. Free* submit with a reported ~6 month standard review queue. Optional one-time: Premium $47 USD; Pro $117 USD; Super $197 USD. Observed 2026-09-25. | 2026-09-25 |
 | [F6S](https://www.f6s.com/) | Yes | Company profile. Homepage link; a direct profile-creation route is still needed. | 2026-09-24 |
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
@@ -101,6 +102,7 @@ Links point to the affected sites. Notes record previously reported issues; avai
   <tr><td><a href="https://www.allstartups.info/">All Startups</a></td><td>A certificate error prevented access (<code>ERR_CERT_AUTHORITY_INVALID</code>).</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://appvita.com/">Appvita</a></td><td>The former directory appeared to have been replaced by a personal portfolio.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.collaborizm.com/">Collaborizm</a></td><td>The former directory redirected to a Nestomir Substack page.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://www.discovercloud.com/become-a-vendor">Discover Cloud</a></td><td>Email verification did not work; the verification email was never delivered, so the free listing path is blocked.</td><td nowrap>2026-09-25</td></tr>
   <tr><td><a href="https://getworm.com/">Getworm</a></td><td>A submission attempt failed with an “Unknown Error” / CORS error.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://killerstartups.com/submit-startup/">Killer Startups</a></td><td>The submit page advertises a form, but no form fields rendered during the latest check.</td><td nowrap>2026-09-25</td></tr>
   <tr><td><a href="https://launched.io/SubmitStartup">Launched</a></td><td>Site unreachable (<code>ERR_TUNNEL_CONNECTION_FAILED</code>); appears down.</td><td nowrap>2026-09-25</td></tr>
