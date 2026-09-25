@@ -30,7 +30,7 @@ Yes* means free to submit, but effectively unusable without paying.
 | [App Rater](https://apprater.net/add) | Yes | Free public form; no account. Optional Quarterly promotion $35 USD / 3 months; optional $5 homepage bids. Optional badge for faster approval after submit (not required for free path). | 2026-09-25 |
 | [Appiod](https://appiod.com/submit-app-for-review/) | No | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
 | [AppsThunder](https://appsthunder.com/submit-your-app/) | No | Paid package recorded at approximately $249. | 2026-09-24 |
-| [Awesome Indie](https://awesomeindie.com/submit) | Yes | Free review queue reported; waits can take months. Confirm the current queue when submitting. | 2026-09-24 |
+| [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead; estimated launch window Feb 11–18, 2027 observed 2026-09-25). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
 | [Beta Testing](https://betatesting.com/) | No | Paid tester marketplace for gathering product feedback. | 2026-09-24 |
 | [Capterra](https://www.capterra.com/vendors/) | Yes | Basic vendor listing. Start with “Get Your Product Listed” on the vendor page. | 2026-09-24 |
 | [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Basic company profile; registration and social authentication required. Link opens setup instructions. | 2026-09-24 |
