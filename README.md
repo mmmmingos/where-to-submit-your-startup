@@ -30,7 +30,7 @@ Sorted A–Z. Free? is Yes, No, or Unknown. Names link to submission pages or of
 
 | Site | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
-| [10words](https://app.10words.io/submit) | Yes | Describe your app or startup in 10 words. Submission starts with account registration. | 2026-09-24 |
+| [10words](https://app.10words.io/submit) | Yes | Short 10-word pitch for startups. Free path shows estimated feature date 2,519 days out (observed 2026-09-25); paid CTA: Skip the line + get featured next week! Account registration required. | 2026-09-25 |
 | [AI Collection](https://thataicollection.com/submit/) | No | A free form was available, followed by a reported $19 publishing fee. | 2026-09-24 |
 | [All My Faves](https://allmyfaves.com/) | Yes | Editorial consideration by email; paid featuring is optional. Homepage link; submission instructions need a source. | 2026-09-24 |
 | [All Top Startups](https://alltopstartups.com/submit-startup/) | No | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
