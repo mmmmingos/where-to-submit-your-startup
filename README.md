@@ -40,7 +40,7 @@ Yes* means free to submit, but effectively unusable without paying.
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Product page. Homepage link; a direct product-creation route is still needed. | 2026-09-24 |
-| [LaunchIgniter](https://launchigniter.com/submit) | Yes | Free Launch ($0) after account signup; paid Basic (~$12) and Pro (~$15) optional. Confirm current pricing. | 2026-09-25 |
+| [LaunchIgniter](https://launchigniter.com/submit) | Yes | Free Launch ($0) after account signup; homepage badge required for the free path. Pending review queue; listing schedule Week 5, 2027 (Feb 1-7) observed 2026-09-25. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
 | [Launching Next](https://www.launchingnext.com/submit/) | Yes | Free submission; estimated wait ~4 months (observed 2026-09-25). Optional Fast-Track ~$99. | 2026-09-25 |
 | [Next Big What](https://submit.nextbigwhat.com/) | No | Paid launch packages only (Lite/Pro via Stripe); no free directory path recorded. | 2026-09-25 |
 | [Wellfound](https://help.wellfound.com/article/720-how-can-i-create-a-new-company-or-access-an-existing-one) | Yes | Company profile; start with a personal account. Link opens setup instructions. | 2026-09-24 |
