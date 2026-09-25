@@ -13,20 +13,13 @@ Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help
 - Overwhelmed? Explore my [free startup directories bundle](https://submitmystartup.com/bundles/free-startup-directories/) for a smaller list to work through.
 - [Read guides and updates](https://submitmystartup.com/blog/) for my approach and the lessons I will share as I try the sites.
 - [Check reported problems](#reported-submission-problems) before spending time on a submission.
-
-## What I have checked so far
-
-**Last checked** means a contributor reviewed the submission details or community rules. It does not mean I submitted a project or received visitors. Free submission may still involve a review, a waiting list, or posting restrictions.
-
-I have started recording my own submissions on the website (status, cost, time, and visits when I can track them). See the [10words experience](https://submitmystartup.com/bundles/free-startup-directories/#10words) and [how I record those results](https://submitmystartup.com/blog/how-we-track-directory-results/).
-
-The full curated list stays here for everyone to use and improve. Experiences will always include their dates and context, so you can decide what is worth trying for your project.
-
-[![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
+- See my [lived submission results](https://submitmystartup.com/bundles/free-startup-directories/#10words) on the website (status, cost, time, visits when tracked).
 
 ## Directories & submission services
 
-Sorted A-Z. Free? is Yes, No, Unknown, or Yes* (free to submit, but effectively unusable without paying). Names link to submission pages or official instructions where available; notes identify homepage links and uncertain requirements.
+[![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
+
+Yes* means free to submit, but effectively unusable without paying.
 
 | Site | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
@@ -56,7 +49,7 @@ Prices are recorded estimates; confirm currency and current pricing on the linke
 
 ## Reddit communities
 
-Sorted A–Z. Separate from website directories (same split as [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)). Free? is Yes when posting is free under each community's rules; Notes cover promo limits. Banned or ad-disallowed communities stay under [Reported submission problems](#reported-submission-problems).
+Separate from website directories (same split as [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)). Banned or ad-disallowed communities are under [Reported submission problems](#reported-submission-problems).
 
 | Community | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
