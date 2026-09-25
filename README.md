@@ -27,7 +27,7 @@ Yes* means free to submit, but effectively unusable without paying.
 | [AI Collection](https://thataicollection.com/submit/) | No | A free form was available, followed by a reported $19 publishing fee. | 2026-09-24 |
 | [All My Faves](https://allmyfaves.com/) | Yes | Editorial consideration by email; paid featuring is optional. Homepage link; submission instructions need a source. | 2026-09-24 |
 | [All Top Startups](https://alltopstartups.com/submit-startup/) | No | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
-| [App Rater](https://apprater.net/add) | Yes | Public submission form; no account required. | 2026-09-24 |
+| [App Rater](https://apprater.net/add) | Yes | Free public form; no account. Optional Quarterly promotion $35 USD / 3 months; optional $5 homepage bids. Optional badge for faster approval after submit (not required for free path). | 2026-09-25 |
 | [Appiod](https://appiod.com/submit-app-for-review/) | No | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
 | [AppsThunder](https://appsthunder.com/submit-your-app/) | No | Paid package recorded at approximately $249. | 2026-09-24 |
 | [Awesome Indie](https://awesomeindie.com/submit) | Yes | Free review queue reported; waits can take months. Confirm the current queue when submitting. | 2026-09-24 |
