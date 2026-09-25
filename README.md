@@ -49,7 +49,7 @@ Prices are recorded estimates; confirm currency and current pricing on the linke
 
 ## Reddit communities
 
-Separate from website directories (same split as [PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup)). Banned or ad-disallowed communities are under [Reported submission problems](#reported-submission-problems).
+Banned or ad-disallowed communities are under [Reported submission problems](#reported-submission-problems).
 
 | Community | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
