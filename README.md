@@ -35,7 +35,7 @@ Yes* means free to submit, but effectively unusable without paying.
 | [Capterra](https://www.capterra.com/vendors/) | Yes | Basic vendor listing. Start with “Get Your Product Listed” on the vendor page. | 2026-09-24 |
 | [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Basic company profile; registration and social authentication required. Link opens setup instructions. | 2026-09-24 |
 | [Discover Cloud](https://www.discovercloud.com/become-a-vendor) | Yes | Basic vendor listing. | 2026-09-24 |
-| [eBool](https://www.ebool.com/submit) | Yes | Free submission; a review wait of roughly six months was reported. | 2026-09-24 |
+| [eBool](https://www.ebool.com/submit) | Yes* | Classic directory. Free* submit with a reported ~6 month standard review queue. Optional one-time: Premium $47 USD; Pro $117 USD; Super $197 USD. Observed 2026-09-25. | 2026-09-25 |
 | [F6S](https://www.f6s.com/) | Yes | Company profile. Homepage link; a direct profile-creation route is still needed. | 2026-09-24 |
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
