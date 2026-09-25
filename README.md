@@ -19,18 +19,18 @@ Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
-Yes* means free to submit, but effectively unusable without paying.
+**Yes* / Free*** means a free listing path exists, but there is a material catch founders should know before submitting (homepage badge, long free queue, niche/geo gate, or paid skip/sponsor to jump the free path). It is not “paid only”; paid-only stays **No** / not free.
 
 | Site | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
-| [10words](https://app.10words.io/submit) | Yes* | Free* to submit, but the free queue is about 2,519 days (~7 years), so there is no point unless you pay. Skip the line: $19 USD. Full-week sponsorship: $150 USD. Account registration required. Observed 2026-09-25. | 2026-09-25 |
+| [10words](https://app.10words.io/submit) | Yes* | Free* to submit, with a free queue of about 2,519 days (~7 years). Skip the line: $19 USD. Full-week sponsorship: $150 USD. Account registration required. Observed 2026-09-25. | 2026-09-25 |
 | [AI Collection](https://thataicollection.com/submit/) | No | A free form was available, followed by a reported $19 publishing fee. | 2026-09-24 |
 | [All My Faves](https://allmyfaves.com/) | Yes | Editorial consideration by email; paid featuring is optional. Homepage link; submission instructions need a source. | 2026-09-24 |
 | [All Top Startups](https://alltopstartups.com/submit-startup/) | No | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
 | [App Rater](https://apprater.net/add) | Yes | Free public form; no account. Optional Quarterly promotion $35 USD / 3 months; optional $5 homepage bids. Optional badge for faster approval after submit (not required for free path). | 2026-09-25 |
 | [Appiod](https://appiod.com/submit-app-for-review/) | No | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
 | [AppsThunder](https://appsthunder.com/submit-your-app/) | No | Paid package recorded at approximately $249. | 2026-09-24 |
-| [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead; estimated launch window Feb 11–18, 2027 observed 2026-09-25). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
+| [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
 | [Beta Testing](https://betatesting.com/) | No | Paid tester marketplace for gathering product feedback. | 2026-09-24 |
 | [Capterra](https://www.capterra.com/vendors/) | Yes | Basic vendor listing. Start with “Get Your Product Listed” on the vendor page. | 2026-09-24 |
 | [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Basic company profile; registration and social authentication required. Link opens setup instructions. | 2026-09-24 |
@@ -39,8 +39,8 @@ Yes* means free to submit, but effectively unusable without paying.
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Maker community product page. Free after account signup (Google SSO works). Product page goes live immediately; completing the remaining product form fields is what gets it listed in the products directory. No paid skip observed. | 2026-09-25 |
-| [LaunchIgniter](https://launchigniter.com/submit) | Yes | Free Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
-| [Launching Next](https://www.launchingnext.com/submit/) | Yes | Free submission; estimated wait ~4 months (observed 2026-09-25). Optional Fast-Track ~$99. | 2026-09-25 |
+| [LaunchIgniter](https://launchigniter.com/submit) | Yes* | Free* Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
+| [Launching Next](https://www.launchingnext.com/submit/) | Yes* | Free* submit with a ~4 month free queue. Optional Fast-Track ~$99. Observed 2026-09-25. | 2026-09-25 |
 | [Next Big What](https://submit.nextbigwhat.com/) | No | Paid launch packages only (Lite/Pro via Stripe); no free directory path recorded. | 2026-09-25 |
 | [Wellfound](https://help.wellfound.com/article/720-how-can-i-create-a-new-company-or-access-an-existing-one) | Yes | Company profile; start with a personal account. Link opens setup instructions. | 2026-09-24 |
 
