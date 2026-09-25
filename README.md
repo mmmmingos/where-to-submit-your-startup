@@ -26,11 +26,11 @@ The full curated list stays here for everyone to use and improve. Experiences wi
 
 ## Directories & submission services
 
-Sorted A–Z. Free? is Yes, No, or Unknown. Names link to submission pages or official instructions where available; notes identify homepage links and uncertain requirements.
+Sorted A-Z. Free? is Yes, No, Unknown, or Yes* (free to submit, but effectively unusable without paying). Names link to submission pages or official instructions where available; notes identify homepage links and uncertain requirements.
 
 | Site | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
-| [10words](https://app.10words.io/submit) | Yes | Short 10-word pitch for startups. Free path shows estimated feature date 2,519 days out (observed 2026-09-25). Paid skip the line: $19 USD. Full-week sponsorship: $150 USD. Account registration required. | 2026-09-25 |
+| [10words](https://app.10words.io/submit) | Yes* | Free* to submit, but the free queue is about 2,519 days (~7 years), so there is no point unless you pay. Skip the line: $19 USD. Full-week sponsorship: $150 USD. Account registration required. Observed 2026-09-25. | 2026-09-25 |
 | [AI Collection](https://thataicollection.com/submit/) | No | A free form was available, followed by a reported $19 publishing fee. | 2026-09-24 |
 | [All My Faves](https://allmyfaves.com/) | Yes | Editorial consideration by email; paid featuring is optional. Homepage link; submission instructions need a source. | 2026-09-24 |
 | [All Top Startups](https://alltopstartups.com/submit-startup/) | No | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
