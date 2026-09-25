@@ -1,5 +1,3 @@
-<img src="assets/logo.svg" width="40" height="40" alt="">
-
 # Where to Submit Your Startup
 
 A community resource for founders looking for places to share what they are building. I collect and review startup directories, Reddit communities, and other useful sites, with practical notes to save the next founder some time.
