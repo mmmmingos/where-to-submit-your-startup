@@ -38,6 +38,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [F6S](https://www.f6s.com/) | Yes | Company profile. Homepage link; a direct profile-creation route is still needed. | 2026-09-24 |
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
 | [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
+| [Gust](https://gust.com/) | Yes* | Free company profile after signup. Material catch: Overview stays unpublished and the website field is not editable until the company profile is more complete, so there is no public listing from a partial setup (observed 2026-09-26). Homepage link. | 2026-09-26 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Maker community product page. Free after account signup (Google SSO works). Product page goes live immediately; completing the remaining product form fields is what gets it listed in the products directory. No paid skip observed. | 2026-09-25 |
 | [LaunchIgniter](https://launchigniter.com/submit) | Yes* | Free Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
 | [Launching Next](https://www.launchingnext.com/submit/) | Yes* | Free* submit with a reported ~4 month wait. Optional Fast-Track ~$99. Observed 2026-09-25. | 2026-09-25 |
@@ -84,7 +85,6 @@ Options for a specific region, audience, or goal. Check the linked site for curr
   <tr><td><a href="https://betabound.com/">Beta Bound</a></td><td>Beta announcements and tester recruitment.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.builtinchicago.org/">BuiltInChicago</a></td><td>Chicago-focused editorial tips.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.geekwire.com/submit-startup/">GeekWire</a></td><td>Startups headquartered in the Pacific Northwest; check the submission criteria.</td><td nowrap>2026-09-24</td></tr>
-  <tr><td><a href="https://gust.com/">Gust</a></td><td>Fundraising and company-building tools.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://tally.so/r/w2poXD">Inc42</a></td><td>India-focused startup submissions.</td><td nowrap>2026-09-24</td></tr>
 </tbody>
 </table>
