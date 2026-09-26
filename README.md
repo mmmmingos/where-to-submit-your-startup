@@ -33,7 +33,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
 | [Beta Testing](https://betatesting.com/) | No | Paid tester marketplace for gathering product feedback. | 2026-09-24 |
 | [Capterra](https://www.capterra.com/vendors/) | Yes | Basic vendor listing. Start with “Get Your Product Listed” on the vendor page. | 2026-09-24 |
-| [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Basic company profile; registration and social authentication required. Link opens setup instructions. | 2026-09-24 |
+| [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Free basic company profile after account signup (social authentication). Profile can go live the same day. Logo upload was unavailable in the free create flow (observed 2026-09-26). Link opens setup instructions. | 2026-09-26 |
 | [eBool](https://www.ebool.com/submit) | Yes* | Classic directory. Free* submit with a reported ~6 month standard review queue. Optional one-time: Premium $47 USD; Pro $117 USD; Super $197 USD. Observed 2026-09-25. | 2026-09-25 |
 | [F6S](https://www.f6s.com/) | Yes | Company profile. Homepage link; a direct profile-creation route is still needed. | 2026-09-24 |
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
