@@ -31,6 +31,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [Appiod](https://appiod.com/submit-app-for-review/) | No | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
 | [AppsThunder](https://appsthunder.com/submit-your-app/) | No | Paid package recorded at approximately $249. | 2026-09-24 |
 | [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
+| [Beta Bound](https://betabound.com/) | Yes* | Free path for beta announcements / tester recruitment. Material catch: eligibility is for unreleased or beta products; a live publicly available directory product does not qualify (observed 2026-09-26). | 2026-09-26 |
 | [Beta Testing](https://betatesting.com/) | No | Paid tester marketplace for gathering product feedback. | 2026-09-24 |
 | [Capterra](https://www.capterra.com/vendors/) | Yes | Basic vendor listing. Start with “Get Your Product Listed” on the vendor page. | 2026-09-24 |
 | [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Free basic company profile after account signup (social authentication). Profile can go live the same day. Logo upload was unavailable in the free create flow (observed 2026-09-26). Link opens setup instructions. | 2026-09-26 |
@@ -82,7 +83,6 @@ Options for a specific region, audience, or goal. Check the linked site for curr
 </thead>
 <tbody>
   <tr><td><a href="https://arcticstartup.com/">Arctic Startup</a></td><td>Editorial coverage of Nordic and Baltic startups. Site access timed out during the latest check.</td><td nowrap>2026-09-24</td></tr>
-  <tr><td><a href="https://betabound.com/">Beta Bound</a></td><td>Beta announcements and tester recruitment.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.builtinchicago.org/">BuiltInChicago</a></td><td>Chicago-focused editorial tips.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.geekwire.com/submit-startup/">GeekWire</a></td><td>Startups headquartered in the Pacific Northwest; check the submission criteria.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://tally.so/r/w2poXD">Inc42</a></td><td>India-focused startup submissions.</td><td nowrap>2026-09-24</td></tr>
