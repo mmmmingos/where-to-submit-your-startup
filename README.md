@@ -37,7 +37,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [eBool](https://www.ebool.com/submit) | Yes* | Classic directory. Free* submit with a reported ~6 month standard review queue. Optional one-time: Premium $47 USD; Pro $117 USD; Super $197 USD. Observed 2026-09-25. | 2026-09-25 |
 | [F6S](https://www.f6s.com/) | Yes | Company profile. Homepage link; a direct profile-creation route is still needed. | 2026-09-24 |
 | [G2](https://sell.g2.com/create-a-profile) | Yes | Basic vendor listing; submit a profile request, then claim the listing to manage it. | 2026-09-24 |
-| [GetApp](https://www.getapp.com/) | Yes | Free basic profile via G2 claim flow; paid PPC optional | 2026-09-24 |
+| [GetApp](https://www.getapp.com/) | Yes* | Free basic profile via G2 claim flow; paid PPC optional. Material catch: Get listed can hit a G2 “Access is temporarily restricted” gate with no form submit possible (observed 2026-09-26). | 2026-09-26 |
 | [Gust](https://gust.com/) | Yes* | Free company profile after signup. Material catch: Overview stays unpublished and the website field is not editable until the company profile is more complete, so there is no public listing from a partial setup (observed 2026-09-26). Homepage link. | 2026-09-26 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Maker community product page. Free after account signup (Google SSO works). Product page goes live immediately; completing the remaining product form fields is what gets it listed in the products directory. No paid skip observed. | 2026-09-25 |
 | [LaunchIgniter](https://launchigniter.com/submit) | Yes* | Free Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
