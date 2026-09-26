@@ -25,7 +25,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | --- | --- | --- | --- |
 | [10words](https://app.10words.io/submit) | Yes* | Free* to submit, with a free queue of about 2,519 days (~7 years). Skip the line: $19 USD. Full-week sponsorship: $150 USD. Account registration required. Observed 2026-09-25. | 2026-09-25 |
 | [AI Collection](https://thataicollection.com/submit/) | No | A free form was available, followed by a reported $19 publishing fee. | 2026-09-24 |
-| [All My Faves](https://allmyfaves.com/) | Yes | Editorial consideration by email; paid featuring is optional. Homepage link; submission instructions need a source. | 2026-09-24 |
+| [All My Faves](https://allmyfaves.com/) | Yes | Free path is a suggestion email to info@allmyfaves.com (editorial consideration; no public submit form observed). Paid featuring is optional. Homepage link. | 2026-09-26 |
 | [All Top Startups](https://alltopstartups.com/submit-startup/) | No | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
 | [App Rater](https://apprater.net/add) | Yes | Free public form; no account. Optional Quarterly promotion $35 USD / 3 months; optional $5 homepage bids. Optional badge for faster approval after submit (not required for free path). | 2026-09-25 |
 | [Appiod](https://appiod.com/submit-app-for-review/) | No | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
