@@ -19,7 +19,7 @@ Keep each table sorted A–Z. Update an existing entry instead of adding a dupli
 
 Keep the four columns in this order: **Site | Free? | Notes | Last checked**.
 
-Copy this Markdown row and replace every placeholder. Choose one value for Free? using the definitions below.
+Copy this Markdown row and replace every placeholder. Choose one value for Free?: `Yes`, `Yes*`, `No`, or `Unknown`, using the definitions below.
 
 ```markdown
 | [Site name](SUBMISSION_URL) | Yes | Short submission notes. | YYYY-MM-DD |
@@ -48,8 +48,8 @@ Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and 
 ## Fill in the fields
 
 - **Site name:** always link it. Prefer the direct submission page or official instructions. If only the homepage is available, say so in Notes. For reported problems, link the affected site or page.
-- **Free?:** use `Yes` when basic submission or listing is free, even if optional upgrades exist. Use `No` when payment is required and `Unknown` when free eligibility is unconfirmed. Describe any conditions for a free listing, such as a reciprocal link, in Notes. Free and paid entries belong in the same table.
-- **Notes:** write one or two short, factual sentences covering requirements, fees, wait times, regional restrictions, or the observed problem. Include currency and one-time versus recurring charges. Label estimates and optional upgrades clearly.
+- **Free?:** use `Yes` when a free listing path has no material catch. Optional paid upgrades alone are not enough for `Yes*`. Use `No` when payment is required and `Unknown` when free eligibility is unconfirmed. `Yes*` means a free listing path exists, but there is a material catch founders should know (homepage badge, long free queue, niche/geo gate, or paid skip/sponsor). Paid-only stays `No`. Describe any conditions for a free listing, such as a reciprocal link, in Notes. Free and paid entries belong in the same table.
+- **Notes:** public Notes are directory facts only (free path and any catch). Write one or two short, factual sentences covering requirements, fees, queue length or other wait the directory itself advertises, regional restrictions, or the observed problem. Do not include a personal launch window, pending-review status, or other submission scheduling. Include currency and one-time versus recurring charges. Label estimates and optional upgrades clearly.
 - **Last checked:** use the date you manually reviewed the submission route and terms, in `YYYY-MM-DD` format. Keep the existing date for formatting-only edits or automated link checks.
 
 A free submission does not guarantee acceptance. Do not add DR, dofollow, or traffic claims; the current tables do not assess them.
