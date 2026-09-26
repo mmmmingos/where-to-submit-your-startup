@@ -98,17 +98,17 @@ Links point to the affected sites. Notes record previously reported issues; avai
   <tr><th align="left" scope="col">Site</th><th align="left" scope="col" width="9999">Notes</th><th align="left" scope="col">Last checked</th></tr>
 </thead>
 <tbody>
-  <tr><td><a href="https://www.allstartups.info/">All Startups</a></td><td>A certificate error prevented access (<code>ERR_CERT_AUTHORITY_INVALID</code>).</td><td nowrap>2026-09-24</td></tr>
-  <tr><td><a href="https://appvita.com/">Appvita</a></td><td>The former directory appeared to have been replaced by a personal portfolio.</td><td nowrap>2026-09-24</td></tr>
-  <tr><td><a href="https://www.collaborizm.com/">Collaborizm</a></td><td>The former directory redirected to a Nestomir Substack page.</td><td nowrap>2026-09-24</td></tr>
-  <tr><td><a href="https://www.discovercloud.com/become-a-vendor">Discover Cloud</a></td><td>Email verification did not work; the verification email was never delivered, so the free listing path is blocked.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://getworm.com/">Getworm</a></td><td>A submission attempt failed with an “Unknown Error” / CORS error.</td><td nowrap>2026-09-24</td></tr>
-  <tr><td><a href="https://killerstartups.com/submit-startup/">Killer Startups</a></td><td>The submit page advertises a form, but no form fields rendered during the latest check.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://launched.io/SubmitStartup">Launched</a></td><td>Site unreachable (<code>ERR_TUNNEL_CONNECTION_FAILED</code>); appears down.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://app.loopinput.com/">Loop</a></td><td>Site DNS resolves but HTTP requests timed out; not usable as a directory.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/coupons/">r/Coupons</a></td><td>Coupon-only community; referral links, ads, and product promotion are disallowed.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/shamelessplug/">r/shamelessplug</a></td><td>Subreddit is banned / unavailable (Reddit 404).</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/thesidehustle/">r/thesidehustle</a></td><td>“No advertising” rule; direct product promotion is disallowed.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.allstartups.info/">All Startups</a></td><td>Certificate error prevents access (<code>ERR_CERT_AUTHORITY_INVALID</code>); DigiCert leaf expired 2023-10-01.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://appvita.com/">Appvita</a></td><td>Former directory redirects (301) to Dave Onkels’ personal portfolio at onk.io — not a startup directory.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://www.collaborizm.com/">Collaborizm</a></td><td>Former directory is a soft stub (HTTP 200) linking to The Nestomir’s Substack — not an HTTP redirect.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://www.discovercloud.com/become-a-vendor">Discover Cloud</a></td><td>Email verification did not work; the verification email was never delivered, so the free listing path is blocked.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://getworm.com/">Getworm</a></td><td>Homepage and submit route load, but submit is not usable: no usable form on homepage; <code>api.getworm.com</code> returns Cloudflare 525. Prior CORS/Unknown Error may still apply if the SPA hits the API.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://killerstartups.com/submit-startup/">Killer Startups</a></td><td>Submit page advertises a form; an embedded widget shows an empty email field and “Get Started,” but a full startup-listing form still does not render.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://launched.io/SubmitStartup">Launched</a></td><td>Site unreachable (<code>ERR_TUNNEL_CONNECTION_FAILED</code>; DNS NS REFUSED for launched.io) — appears down.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://app.loopinput.com/">Loop</a></td><td>DNS resolves but TLS certificate is invalid/expired (<code>ERR_CERT_AUTHORITY_INVALID</code>; leaf expired Dec 2021). Not a timeout.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/coupons/">r/Coupons</a></td><td>Coupon-only community; referral links, ads, and product promotion are disallowed.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/shamelessplug/">r/shamelessplug</a></td><td>Subreddit is banned (Reddit: excessive copyright removals) — unavailable for promotion.</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/thesidehustle/">r/thesidehustle</a></td><td>“No advertising” rule; direct product promotion is disallowed.</td><td nowrap>2026-09-26</td></tr>
 </tbody>
 </table>
 
