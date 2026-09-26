@@ -85,7 +85,7 @@ Options for a specific region, audience, or goal. Check the linked site for curr
   <tr><td><a href="https://arcticstartup.com/">Arctic Startup</a></td><td>Editorial coverage of Nordic and Baltic startups. Site access timed out during the latest check.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.builtinchicago.org/">BuiltInChicago</a></td><td>Chicago-focused editorial tips.</td><td nowrap>2026-09-24</td></tr>
   <tr><td><a href="https://www.geekwire.com/submit-startup/">GeekWire</a></td><td>Yes*. Pacific Northwest HQ required (Washington, Oregon, Idaho, or British Columbia).</td><td nowrap>2026-09-26</td></tr>
-  <tr><td><a href="https://tally.so/r/w2poXD">Inc42</a></td><td>India-focused startup submissions.</td><td nowrap>2026-09-24</td></tr>
+  <tr><td><a href="https://tally.so/r/w2poXD">Inc42</a></td><td>Yes*. India-focused Spotlight (HQ India or majority India workforce). Free Tally apply path; editorial select.</td><td nowrap>2026-09-26</td></tr>
 </tbody>
 </table>
 
