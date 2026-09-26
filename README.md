@@ -33,7 +33,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
 | [Beta Bound](https://betabound.com/) | Yes* | Free path for beta announcements / tester recruitment. Material catch: eligibility is for unreleased or beta products; a live publicly available directory product does not qualify (observed 2026-09-26). | 2026-09-26 |
 | [Beta Testing](https://betatesting.com/) | No | Paid tester marketplace for gathering product feedback. | 2026-09-24 |
-| [Capterra](https://www.capterra.com/vendors/) | Yes | Basic vendor listing. Start with “Get Your Product Listed” on the vendor page. | 2026-09-24 |
+| [Capterra](https://www.capterra.com/vendors/) | Yes* | Free vendor CTA (“Get Your Product Listed”) routes to G2 product create (g2.com/products/new). Material catch: G2 “Access is temporarily restricted” can block the free path, and no separate non-G2 free form was found (observed 2026-09-27). Same class of gate as GetApp. | 2026-09-27 |
 | [Crunchbase](https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile) | Yes | Free basic company profile after account signup (social authentication). Profile can go live the same day. Logo upload was unavailable in the free create flow (observed 2026-09-26). Link opens setup instructions. | 2026-09-26 |
 | [eBool](https://www.ebool.com/submit) | Yes* | Classic directory. Free* submit with a reported ~6 month standard review queue. Optional one-time: Premium $47 USD; Pro $117 USD; Super $197 USD. Observed 2026-09-25. | 2026-09-25 |
 | [F6S](https://www.f6s.com/submitmystartup.com) | Yes* | Free company profile Create after account signup. If the exact company name already has a third-party page, unclaimed create for that name is unavailable (a claim path exists); create under another available name instead. No paid skip observed. | 2026-09-26 |
@@ -59,15 +59,15 @@ Banned or ad-disallowed communities are under [Reported submission problems](#re
 | [r/Design_Critiques](https://www.reddit.com/r/design_critiques/) | Yes | Design critique only. Link the design and ask for constructive feedback; not a general product-ad venue. | 2026-09-25 |
 | [r/Entrepreneur](https://www.reddit.com/r/Entrepreneur/) | Yes | No standalone promotion. Use designated weekly promo threads and contribute meaningfully first. | 2026-09-25 |
 | [r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/) | Yes | Transparent company-building stories welcome; no explicit promotion ban. Better for ride-along updates than bare ads. | 2026-09-25 |
-| [r/IMadeThis](https://www.reddit.com/r/IMadeThis/) | Yes | Makers are encouraged to show projects. Keep the post about what you built rather than a sales pitch. | 2026-09-25 |
+| [r/IMadeThis](https://www.reddit.com/r/IMadeThis/) | Yes | Makers are encouraged to show projects. Keep the post about what you built rather than a sales pitch. | 2026-09-27 |
 | [r/IndieBiz](https://www.reddit.com/r/indiebiz/) | Yes | Independent businesses and products welcome. Use tags such as [INTRO] or [OFFER]; MLM is prohibited. | 2026-09-25 |
 | [r/indiehackers](https://www.reddit.com/r/indiehackers/) | Yes | One self-promotion post per user with Self Promotion flair, framed for feedback rather than ads. | 2026-09-25 |
 | [r/LadyBusiness](https://www.reddit.com/r/ladybusiness/) | Yes | Product plugs only in the monthly shameless-plug thread; posts outside it are removed. | 2026-09-25 |
 | [r/microsaas](https://www.reddit.com/r/microsaas/) | Yes | Product posts need backstory, stack, revenue (optional), or a lesson. Naked promotional links are removed. | 2026-09-25 |
 | [r/plugyourproduct](https://www.reddit.com/r/plugyourproduct/) | Yes | Explicit product-plug community. Posting is limited to approved users. | 2026-09-25 |
-| [r/RoastMyStartup](https://www.reddit.com/r/roastmystartup/) | Yes | Submit your own live startup for critique with a clickable real-domain link. No Product Hunt or Vercel links. | 2026-09-25 |
+| [r/RoastMyStartup](https://www.reddit.com/r/roastmystartup/) | Yes | Submit your own live startup for critique with a required clickable real-domain (own-domain) link. No Product Hunt or Vercel links. | 2026-09-27 |
 | [r/SaaS](https://www.reddit.com/r/SaaS/) | Yes | Max 1 mention or 3 links per 60 days, with affiliation disclosed and useful context. Naked links are treated as spam. | 2026-09-25 |
-| [r/SideProject](https://www.reddit.com/r/SideProject/) | Yes | Sharing project links and constructive feedback is encouraged. Use “[Project name] - [Short description]” titles. | 2026-09-25 |
+| [r/SideProject](https://www.reddit.com/r/SideProject/) | Yes | Sharing project links and constructive feedback is encouraged. Use “[Project name] - [Short description]” titles. | 2026-09-27 |
 | [r/SmallBusiness](https://www.reddit.com/r/smallbusiness/) | Yes | No standalone promo posts. Use the weekly promote-your-business thread or relevant non-repeated replies. | 2026-09-25 |
 | [r/Startups](https://www.reddit.com/r/startups/) | Yes | Share your startup only in the monthly Share Your Startup thread; feedback/surveys use weekly threads. | 2026-09-25 |
 
