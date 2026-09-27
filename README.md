@@ -65,7 +65,7 @@ Banned or ad-disallowed communities are under [Reported submission problems](#re
 | [r/LadyBusiness](https://www.reddit.com/r/ladybusiness/) | Yes | Product plugs only in the monthly shameless-plug thread; posts outside it are removed. | 2026-09-25 |
 | [r/microsaas](https://www.reddit.com/r/microsaas/) | Yes | Product posts need backstory, stack, revenue (optional), or a lesson. Naked promotional links are removed. | 2026-09-25 |
 | [r/plugyourproduct](https://www.reddit.com/r/plugyourproduct/) | Yes | Explicit product-plug community. Posting is limited to approved users. | 2026-09-25 |
-| [r/RoastMyStartup](https://www.reddit.com/r/roastmystartup/) | Yes | Submit your own live startup for critique with a required clickable real-domain (own-domain) link. No Product Hunt or Vercel links. | 2026-09-27 |
+| [r/RoastMyStartup](https://www.reddit.com/r/roastmystartup/) | Yes* | Submit your own live startup for critique with a required clickable real-domain (own-domain) link. No Product Hunt or Vercel links. Material catch: Reddit automated filters may remove posts even when community rules are followed (observed 2026-09-28). | 2026-09-28 |
 | [r/SaaS](https://www.reddit.com/r/SaaS/) | Yes | Max 1 mention or 3 links per 60 days, with affiliation disclosed and useful context. Naked links are treated as spam. | 2026-09-25 |
 | [r/SideProject](https://www.reddit.com/r/SideProject/) | Yes | Sharing project links and constructive feedback is encouraged. Use “[Project name] - [Short description]” titles. | 2026-09-27 |
 | [r/SmallBusiness](https://www.reddit.com/r/smallbusiness/) | Yes | No standalone promo posts. Use the weekly promote-your-business thread or relevant non-repeated replies. | 2026-09-25 |
