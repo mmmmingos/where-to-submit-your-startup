@@ -28,6 +28,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [All My Faves](https://allmyfaves.com/) | Yes | Free path is a suggestion email to info@allmyfaves.com (editorial consideration; no public submit form observed). Paid featuring is optional. Homepage link. | 2026-09-26 |
 | [All Top Startups](https://alltopstartups.com/submit-startup/) | No | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
 | [App Rater](https://apprater.net/add) | Yes | Free public form; no account. Optional Quarterly promotion $35 USD / 3 months; optional $5 homepage bids. Optional badge for faster approval after submit (not required for free path). | 2026-09-25 |
+| [IndexFlow](https://indexflow.tech) | Yes | Free to submit. Automates Google Indexing API to get your startup pages crawled immediately instead of waiting weeks. | 2026-09-28 |
 | [Appiod](https://appiod.com/submit-app-for-review/) | No | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
 | [AppsThunder](https://appsthunder.com/submit-your-app/) | No | Paid package recorded at approximately $249. | 2026-09-24 |
 | [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
