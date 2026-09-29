@@ -28,7 +28,6 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [All My Faves](https://allmyfaves.com/) | Yes | Free path is a suggestion email to info@allmyfaves.com (editorial consideration; no public submit form observed). Paid featuring is optional. Homepage link. | 2026-09-26 |
 | [All Top Startups](https://alltopstartups.com/submit-startup/) | No | Paid listing packages recorded at approximately $29 and $79. | 2026-09-24 |
 | [App Rater](https://apprater.net/add) | Yes | Free public form; no account. Optional Quarterly promotion $35 USD / 3 months; optional $5 homepage bids. Optional badge for faster approval after submit (not required for free path). | 2026-09-25 |
-| [IndexFlow](https://indexflow.tech) | Yes | Free to submit. Automates Google Indexing API to get your startup pages crawled immediately instead of waiting weeks. | 2026-09-28 |
 | [Appiod](https://appiod.com/submit-app-for-review/) | No | Paid reviews recorded at approximately $29–$249. | 2026-09-24 |
 | [AppsThunder](https://appsthunder.com/submit-your-app/) | No | Paid package recorded at approximately $249. | 2026-09-24 |
 | [Awesome Indie](https://awesomeindie.com/submit) | Yes* | Indie directory. Free* submit with a long free queue (2,766 ahead). Optional: Skip the Line $9.99 USD; Boost Launch $29.99 USD; Premium Launch $49.99 USD. | 2026-09-25 |
@@ -41,6 +40,7 @@ Yes* means a free listing path exists, but there is a material catch founders sh
 | [G2](https://sell.g2.com/create-a-profile) | Yes* | B2B software review marketplace. Material catch: listings target B2B products; B2C products such as a public founder directory are not a fit (observed 2026-09-28). A free basic profile path may also hit a G2 access gate. | 2026-09-28 |
 | [GetApp](https://www.getapp.com/) | Yes* | Get listed routes to G2 (no standalone free GetApp path). Material catch: same G2 family as Capterra; treat as a dead end for products that cannot or will not use G2 (observed 2026-09-28). | 2026-09-28 |
 | [Gust](https://gust.com/) | Yes* | Free company profile after signup. Material catch: Overview stays unpublished and the website field is not editable until the company profile is more complete, so there is no public listing from a partial setup (observed 2026-09-26). Homepage link. | 2026-09-26 |
+| [IndexFlow](https://indexflow.tech/submit) | Yes | Free public submission form; startups and tools reviewed and listed in the Deal Finder & Tools Directory. Manual review within 48h. | 2026-09-29 |
 | [Indie Hackers](https://www.indiehackers.com/) | Yes | Maker community product page. Free after account signup (Google SSO works). Product page goes live immediately; completing the remaining product form fields is what gets it listed in the products directory. No paid skip observed. | 2026-09-25 |
 | [LaunchIgniter](https://launchigniter.com/submit) | Yes* | Free Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional. | 2026-09-25 |
 | [Launching Next](https://www.launchingnext.com/submit/) | Yes* | Free* submit with a reported ~4 month wait. Optional Fast-Track ~$99. Observed 2026-09-25. | 2026-09-25 |
