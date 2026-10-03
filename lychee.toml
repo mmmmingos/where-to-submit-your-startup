@@ -50,4 +50,9 @@ exclude = [
   # 2026-10-04: intentionally linked under Reported submission problems; every page returned Cloudflare 526
   # (invalid origin certificate). This does not mean the site is healthy.
   '^https://www\.slant\.co/',
+  # 2026-10-04: CI receives 403, while the submit page worked in a browser the same night (we submitted).
+  '^https://startupbuffer\.com/',
+  # 2026-10-04: intentionally linked under Reported submission problems; it redirects to a Substack that
+  # answers CI with 403. This does not mean the site is healthy.
+  '^https://www\.vator\.tv/',
 ]
