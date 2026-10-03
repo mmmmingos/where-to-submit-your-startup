@@ -55,4 +55,11 @@ exclude = [
   # 2026-10-04: intentionally linked under Reported submission problems; it redirects to a Substack that
   # answers CI with 403. This does not mean the site is healthy.
   '^https://www\.vator\.tv/',
+  # 2026-10-04: intentionally linked under Reported submission problems; these domains do not resolve or
+  # close every connection. This does not mean the sites are healthy.
+  '^https://coolstartups\.io/',
+  '^https://demos\.co/',
+  '^https://softwareselecthq\.com/',
+  '^https://aidirectory\.wiki/',
+  '^https://aidir\.wiki/',
 ]
