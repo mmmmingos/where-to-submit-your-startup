@@ -41,4 +41,10 @@ exclude = [
   # 2026-10-03: intentionally linked under Reported submission problems; the domain is hijacked
   # (it serves a casino page) and answers CI with 403. This does not mean the site is healthy.
   '^https://sideprojectstack\.com/',
+  # 2026-10-03: intentionally linked under Reported submission problems; the server closes every
+  # connection (also on 2026-10-01). This does not mean the site is healthy.
+  '^https://toolfinder\.wiki/',
+  # 2026-10-03: intentionally linked under Reported submission problems; the domain redirects
+  # through ad networks to a casino sign-up page. This does not mean the site is healthy.
+  '^https://startuptoolslist\.com/',
 ]
