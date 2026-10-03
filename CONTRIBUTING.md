@@ -8,7 +8,7 @@ This is a shared resource for founders. Help keep it useful by adding a site, co
 | --- | --- |
 | [Directories & submission services](README.md#directories--submission-services) | Free and paid directories, company profiles, listings, reviews, and submission services. Use Free? to distinguish pricing. |
 | [Reddit communities](README.md#reddit-communities) | Subreddits where founders can share a product under each community's rules. Keep posting limits in Notes. Do not mix these into the directories table. |
-| [Regional and specialist options](README.md#regional-and-specialist-options) | Opportunities limited to a region, audience, or purpose, such as beta testing or fundraising. |
+| [Only for some startups](README.md#only-for-some-startups) | Places limited to a region, an audience, a purpose such as beta testing or fundraising, or a type of startup such as AI products. |
 | [Reported submission problems](README.md#reported-submission-problems) | Broken submission forms, access failures, closed directories, banned communities, or unrelated redirects. |
 
 Keep each table sorted A–Z. Update an existing entry instead of adding a duplicate. If pricing changes, update Free? and Notes in place. Move an entry only when its scope or submission status belongs in a different table; explain the change in your pull request.
