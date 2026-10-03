@@ -62,6 +62,7 @@ exclude = [
   '^https://softwareselecthq\.com/',
   '^https://aidirectory\.wiki/',
   '^https://aidir\.wiki/',
+  '^https://startuplift\.com/',
   # 2026-10-04: CI receives 429 (NoCode.Tech) and 403 (Toolify), while both sites opened in a browser
   # the same night during the attempt.
   '^https://www\.nocode\.tech/',
