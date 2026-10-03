@@ -85,9 +85,9 @@ Banned or ad-disallowed communities are under [Reported submission problems](#re
 
 ## Other options
 
-Options for a specific region, audience, or goal. Check the linked site for current terms.
+Places that only take some startups: a specific region, audience, or goal, or a type of product such as AI. Check the linked site for current terms.
 
-### Regional and specialist options
+### Only for some startups
 
 <table>
 <thead>
