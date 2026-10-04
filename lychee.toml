@@ -67,4 +67,10 @@ exclude = [
   # the same night during the attempt.
   '^https://www\.nocode\.tech/',
   '^https://www\.toolify\.ai/',
+  # 2026-10-04: intentionally linked under Reported submission problems; builders.to has no address
+  # record (www.builders.to is NXDOMAIN). This does not mean the site is healthy.
+  '^https://builders\.to/',
+  # 2026-10-04: abandoned (listed under Reported submission problems); CI got a 500 that a browser
+  # request seconds later didn't. This does not mean the site is healthy.
+  '^https://www\.startuptabs\.com/',
 ]
