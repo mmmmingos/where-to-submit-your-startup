@@ -2,16 +2,24 @@
 
 A free public resource for founders looking for places to get visibility and users. I review the details by submitting myself and share my submission experiences as I go. Together with contributors, I keep this list as up to date as possible. Have information to share or a directory you’d like added? [Contribute](CONTRIBUTING.md) or [open an issue on GitHub](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new).
 
-**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**. The website adds checklists, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As I submit my own project, I share what worked, what did not, and the visits I received.
+**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**. The website adds checklists, a planner, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As I submit my own project, I share what worked, what did not, and the visits each listing sends once I can measure them.
 
 Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help improve the list](CONTRIBUTING.md). Small discoveries and unsuccessful attempts are useful too.
+
+## Use it from your AI assistant or the planner
+
+You don't have to read the tables. The same list, with structured facts on cost, eligibility, requirements, and wait, is available in three more ways. All are free and need no sign-up.
+
+- **MCP server:** [https://submitmystartup.com/mcp](https://submitmystartup.com/mcp). Add it to your AI assistant and ask where to submit your startup; it searches this list for you. In Claude, open Settings, then Connectors, choose Add custom connector, and paste the URL. In Claude Code, run `claude mcp add --transport http submitmystartup https://submitmystartup.com/mcp`.
+- **JSON API:** [submitmystartup.com/api/](https://submitmystartup.com/api/) documents the endpoints and how to add the MCP server to other clients.
+- **Planner:** [submitmystartup.com/planner/](https://submitmystartup.com/planner/) asks three questions (what you're launching, your budget, and whether you can add a badge) and shows the places that fit. Your answers stay in your browser.
 
 ## Find a place to start
 
 - [Browse the directory](#directories--submission-services) for submission links and practical notes.
 - [Browse Reddit communities](#reddit-communities) for places to share your project under each community's rules.
-- Overwhelmed? Explore my [free startup directories bundle](https://submitmystartup.com/bundles/free-startup-directories/) for a smaller list to work through.
-- [Read guides and updates](https://submitmystartup.com/blog/) for my approach and the lessons I will share as I try the sites.
+- Overwhelmed? Answer three questions in the [planner](https://submitmystartup.com/planner/), or explore my [free startup directories bundle](https://submitmystartup.com/bundles/free-startup-directories/) for a smaller list to work through.
+- [Read guides and updates](https://submitmystartup.com/blog/) for my approach and what I've learned trying the sites.
 - [Check reported problems](#reported-submission-problems) before spending time on a submission.
 - See my [lived submission results](https://submitmystartup.com/bundles/free-startup-directories/#10words) on the website (status, cost, time, visits when tracked).
 
