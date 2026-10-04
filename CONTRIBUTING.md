@@ -15,35 +15,27 @@ Keep each table sorted A–Z. Update an existing entry instead of adding a dupli
 
 ## Use the existing format
 
-### Directories & submission services
+Every table is an HTML table with the same columns and widths, so they line up on GitHub (Markdown tables can't set widths). Keep each table's `<thead>` as it is, including the `width` attributes, and add rows inside its `<tbody>` in alphabetical order.
 
-Keep the four columns in this order: **Site | Free? | Notes | Last checked**.
+### Directories, Reddit communities, and Only for some startups
 
-Copy this Markdown row and replace every placeholder. Choose one value for Free?: `Yes`, `Yes*`, `No`, or `Unknown`, using the definitions below.
-
-```markdown
-| [Site name](SUBMISSION_URL) | Yes | Short submission notes. | YYYY-MM-DD |
-```
-
-### Reddit communities
-
-Keep the four columns in this order: **Community | Free? | Notes | Last checked**. Use the same Free? definitions. Link the subreddit; put promo and posting-rule limits in Notes.
-
-```markdown
-| [r/Example](https://www.reddit.com/r/example/) | Yes | Short posting-rule notes. | YYYY-MM-DD |
-```
-
-### Other options and reported problems
-
-Both tables use **Site | Notes | Last checked**, with Notes in the second column.
-
-Add this HTML row inside the relevant `<tbody>`. Keep the existing `<thead>`, the Notes header's `width="9999"`, and the date cell's `nowrap` attribute so the tables retain their layout.
+Four cells in this order: **Site | Free? | Notes | Last checked** (the Reddit table's first column is headed Community). Copy this row and replace every placeholder. Choose one value for Free?: `Yes`, `Yes*`, `No`, or `Unknown`, using the definitions below. Keep the date cell's `nowrap`.
 
 ```html
-<tr><td><a href="SITE_OR_SUBMISSION_URL">Site name</a></td><td>Short notes about the service, eligibility, or problem.</td><td nowrap>YYYY-MM-DD</td></tr>
+<tr><td><a href="SUBMISSION_URL">Site name</a></td><td>Yes</td><td>Short submission notes.</td><td nowrap>YYYY-MM-DD</td></tr>
 ```
 
-Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and `<` as `&lt;` in text.
+For a Reddit community, link the subreddit and put promo and posting-rule limits in Notes. In Only for some startups, a free path is `Yes*`: the gate itself (a region, an audience, a kind of product) is the catch.
+
+### Reported submission problems
+
+Three cells: **Site | Notes | Last checked**. There is no Free? cell, because it means nothing for a site whose submission path doesn't work.
+
+```html
+<tr><td><a href="AFFECTED_URL">Site name</a></td><td>What stopped working, and the date you saw it.</td><td nowrap>YYYY-MM-DD</td></tr>
+```
+
+Use HTML links inside rows, not Markdown links. Escape `&` as `&amp;` and `<` as `&lt;` in text.
 
 ## Fill in the fields
 
