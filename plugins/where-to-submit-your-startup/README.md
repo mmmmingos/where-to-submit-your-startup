@@ -1,6 +1,6 @@
 # Where to Submit Your Startup
 
-This plugin helps Claude pick places to submit or launch your startup: directories, launch sites, communities, review sites, and editorial sites. It uses my free list at [submitmystartup.com](https://submitmystartup.com/), where I try each place by submitting my own site to it and write down what happened: what it costs and the catch, what the free path needs (an account, a badge, an email on your own domain, upvotes), how long the listing takes to go live, and which products and regions it takes.
+This plugin helps Claude pick places to submit or launch your startup: directories, launch sites, communities, review sites, and editorial sites. It uses my free list at [submitmystartup.com](https://submitmystartup.com/), where I try places by submitting my own site to them and write down what happened: what it costs and the catch, what the free path needs (an account, a badge, an email on your own domain, upvotes), how long the listing takes to go live, and which products and regions it takes.
 
 It has two parts:
 
