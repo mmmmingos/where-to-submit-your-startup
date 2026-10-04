@@ -73,4 +73,10 @@ exclude = [
   # 2026-10-04: abandoned (listed under Reported submission problems); CI got a 500 that a browser
   # request seconds later didn't. This does not mean the site is healthy.
   '^https://www\.startuptabs\.com/',
+  # 2026-10-04: every page, homepages included, answers automated requests with 429 and a Vercel bot
+  # challenge (X-Vercel-Mitigated: challenge), while each site worked in a browser the same day (we submitted
+  # to Startup.sx and FindThatSoftware, and signed in to LaunchPact).
+  '^https://www\.launchpact\.io/',
+  '^https://www\.startup\.sx/',
+  '^https://findthatsoftware\.com/',
 ]
