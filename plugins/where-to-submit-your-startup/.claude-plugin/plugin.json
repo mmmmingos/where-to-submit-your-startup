@@ -1,0 +1,11 @@
+{
+  "name": "where-to-submit-your-startup",
+  "displayName": "Where to Submit Your Startup",
+  "version": "1.0.0",
+  "description": "Pick places to submit or launch a startup from a free, kept-fresh list where each place is tried by submitting to it: the cost and catch, what the free path needs, the wait, and who it takes.",
+  "author": { "name": "mmmmingos", "url": "https://github.com/mmmmingos" },
+  "homepage": "https://submitmystartup.com/api/",
+  "repository": "https://github.com/mmmmingos/where-to-submit-your-startup",
+  "license": "MIT",
+  "keywords": ["startup", "directories", "launch", "product-launch", "marketing", "mcp"]
+}
