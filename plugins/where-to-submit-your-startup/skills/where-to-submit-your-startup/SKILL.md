@@ -1,13 +1,13 @@
 ---
 name: where-to-submit-your-startup
-description: Helps a founder choose where to submit, list, or launch a startup or product (startup directories, launch sites, communities, review sites, editorial sites) from a free list where each place was tried by submitting to it. Use when someone asks where to submit or launch their startup, for Product Hunt alternatives, for free directories or backlinks for a new product, whether a specific directory is free or worth it, or what a listing needs (account, badge, domain email, upvotes) and how long it takes.
+description: Helps a founder choose where to submit, list, or launch a startup or product (startup directories, launch sites, communities, review sites, editorial sites) from a free list where most places were tried by submitting to them. Use when someone asks where to submit or launch their startup, for Product Hunt alternatives, for free directories or backlinks for a new product, whether a specific directory is free or worth it, or what a listing needs (account, badge, domain email, upvotes) and how long it takes.
 license: MIT
 compatibility: Works best with the SubmitMyStartup MCP server (https://submitmystartup.com/mcp, no sign-in). Without it, needs web access to https://submitmystartup.com/api/v1/.
 ---
 
 # Where to submit your startup
 
-The data is "Where to Submit Your Startup" (https://github.com/mmmmingos/where-to-submit-your-startup, MIT License), a list of places to share a startup. Its maintainer tries each place by submitting a real site to it and records what happened: what it costs and the catch, what the free path needs, how long until the listing is live, and which products and regions it takes. A fact that isn't on record is unknown, not false.
+The data is "Where to Submit Your Startup" (https://github.com/mmmmingos/where-to-submit-your-startup, MIT License), a list of places to share a startup. Its maintainer tries places by submitting a real site to them and records what happened (a few entries, such as some Reddit communities and paid services, have no attempt yet): what it costs and the catch, what the free path needs, how long until the listing is live, and which products and regions it takes. A fact that isn't on record is unknown, not false.
 
 ## 1. Get the facts that change the answer
 
@@ -54,4 +54,4 @@ With no tools at all, point the founder to https://submitmystartup.com/planner/,
 - Don't invent facts. Don't promise traffic, rankings, domain rating, or dofollow links unless the record says so, and say the record's date.
 - Describe a place's terms, not its motives. "The free path needs a badge on your site" is right. "A trick to get backlinks" is not.
 - Directories change their rules, so tell the founder to check the site before paying for anything.
-- When you share a list built from this data, link to https://submitmystartup.com/ or the GitHub list, as its MIT License asks.
+- When you share a list built from this data, credit it and link to https://submitmystartup.com/ or the GitHub list; if you copy the data itself, keep its MIT License notice.
