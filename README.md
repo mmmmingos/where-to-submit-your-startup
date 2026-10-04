@@ -1,33 +1,29 @@
 # Where to Submit Your Startup
 
-A free public resource for founders looking for places to get visibility and users. I review the details by submitting myself and share my submission experiences as I go. Together with contributors, I keep this list as up to date as possible. Have information to share or a directory you’d like added? [Contribute](CONTRIBUTING.md) or [open an issue on GitHub](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new).
+[![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
-**Explore the list at [submitmystartup.com](https://submitmystartup.com/)**. The website adds checklists, a planner, shortlists of sites (bundles), and guides. This repository is the open-source list behind it. As I submit my own project, I share what worked, what did not, and the visits each listing sends once I can measure them.
+A free, open-source list of places to submit a startup: directories, launch sites, Reddit communities, and places that only take some startups, with real submission results. I keep it current by submitting my own site to the places on it and writing down what happened: whether the listing is really free, the catch, the fees, and the wait. Rows I haven't tried yet carry what the site itself says, and contributors add what they find.
 
-Found a useful site, a changed rule, or a broken link? Tried one yourself? [Help improve the list](CONTRIBUTING.md). Small discoveries and unsuccessful attempts are useful too.
+This list is the data behind [submitmystartup.com](https://submitmystartup.com/). To filter it, or to ask an AI assistant where to submit, use the website: it has a planner and an MCP server, and it shows what happened on each of my submissions.
 
-## Use it from your AI assistant or the planner
+Found a site, a changed rule, or a broken link? Tried one yourself? [Contribute](CONTRIBUTING.md) or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose). Unsuccessful attempts are useful too.
 
-You don't have to read the tables. The same list, with structured facts on cost, eligibility, requirements, and wait, is available in three more ways. All are free and need no sign-up.
+## How to read a row
 
-- **MCP server:** [https://submitmystartup.com/mcp](https://submitmystartup.com/mcp). Add it to your AI assistant and ask where to submit your startup; it searches this list for you. In Claude, open Settings, then Connectors, choose Add custom connector, and paste the URL. In Claude Code, run `claude mcp add --transport http submitmystartup https://submitmystartup.com/mcp`.
-- **JSON API:** [submitmystartup.com/api/](https://submitmystartup.com/api/) documents the endpoints and how to add the MCP server to other clients.
-- **Planner:** [submitmystartup.com/planner/](https://submitmystartup.com/planner/) asks three questions (what you're launching, your budget, and whether you can add a badge) and shows the places that fit. Your answers stay in your browser.
+Every row has the site, whether it is free, notes, and when it was last checked.
 
-## Find a place to start
+| Free? | Meaning |
+| --- | --- |
+| Yes | A free listing path with no material catch. |
+| Yes* | A free listing path with a catch you should know about: a badge on your homepage, a long free queue, a niche or regional gate, or a paid skip. |
+| No | Paid only. Prices in Notes are what the site showed on the date checked. |
+| Unknown | Free eligibility not confirmed. |
 
-- [Browse the directory](#directories--submission-services) for submission links and practical notes.
-- [Browse Reddit communities](#reddit-communities) for places to share your project under each community's rules.
-- Overwhelmed? Answer three questions in the [planner](https://submitmystartup.com/planner/), or explore my [free startup directories bundle](https://submitmystartup.com/bundles/free-startup-directories/) for a smaller list to work through.
-- [Read guides and updates](https://submitmystartup.com/blog/) for my approach and what I've learned trying the sites.
-- [Check reported problems](#reported-submission-problems) before spending time on a submission.
-- See my [lived submission results](https://submitmystartup.com/bundles/free-startup-directories/#10words) on the website (status, cost, time, visits when tracked).
+Notes hold listing facts only: the free path and its catch, posting rules, eligibility, and fees. Last checked is the date someone reviewed the submission route and terms by hand. A free path is not a promise of acceptance, and rules change, so check the site before you rely on a row or pay for anything.
 
 ## Directories & submission services
 
-[![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
-
-Yes* means a free listing path exists, but there is a material catch founders should know (homepage badge, long free queue, niche/geo gate, or paid skip/sponsor). Paid-only stays No.
+Free and paid directories, launch sites, company profiles, review sites, and submission services, A to Z. Paid-only sites are marked No.
 
 | Site | Free? | Notes | Last checked |
 | --- | --- | --- | --- |
@@ -258,5 +254,4 @@ Help the next founder: suggest a site, correct a detail, or share what happened 
 
 ## License
 
-[MIT](LICENSE).
-
+[MIT](LICENSE). Use the list, copy it, and build on it; keep the license notice with any substantial copy.

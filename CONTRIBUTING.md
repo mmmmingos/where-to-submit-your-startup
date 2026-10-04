@@ -54,7 +54,7 @@ Use HTML links inside these rows, not Markdown links. Escape `&` as `&amp;` and 
 
 A free submission does not guarantee acceptance. Do not add DR, dofollow, or traffic claims; the current tables do not assess them.
 
-This is the open-source directory for **Where to Submit Your Startup**, hosted at [submitmystartup.com](https://submitmystartup.com/). The website shares bundles, guides, a planner, and my own submission experiences, and serves this list as a [JSON API and an MCP server](https://submitmystartup.com/api/) for AI assistants. Reviewed listing details and completed submissions are recorded separately. Do not change Last checked merely because a new traffic report or blog article was published.
+This list is the data behind [submitmystartup.com](https://submitmystartup.com/), which rebuilds when `main` changes. My own submission results are recorded there, not in this README. Do not change Last checked merely because a new traffic report or blog article was published.
 
 ## Include evidence
 
