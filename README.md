@@ -2,30 +2,30 @@
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
-A free, open-source list of places to submit a startup: directories, launch sites, Reddit communities, and places that only take some startups, with real submission results. I keep it current by submitting my own site to the places on it and writing down what happened: whether the listing is really free, the catch, the fees, and the wait. Rows I haven't tried yet carry what the site itself says, and contributors add what they find.
+An open-source library of places to submit your startup: 200+ directories, launch sites, Reddit communities, and niche or regional sites, plus 100+ that are dead, broken, or closed, flagged so you can skip them. It's the most comprehensive list of its kind I've found.
 
-This list is the data behind [submitmystartup.com](https://submitmystartup.com/). To filter it, or to ask an AI assistant where to submit, use the website: it has a planner and an MCP server, and it shows what happened on each of my submissions.
+I submit my own site to these places and write down what really happened: whether it's actually free, the catch, the fees, and the wait. Rows I haven't tried yet say what the site itself claims.
 
-Found a site, a changed rule, or a broken link? Tried one yourself? [Contribute](CONTRIBUTING.md) or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose). Unsuccessful attempts are useful too.
+To filter the list, plan a launch, or ask an AI assistant where to submit, use [submitmystartup.com](https://submitmystartup.com/) (planner and MCP server).
 
-## How to read a row
+**Jump to:** [Directories](#directories--submission-services) · [Only for some startups](#only-for-some-startups) · [Reddit](#reddit-communities) · [Problems](#reported-submission-problems) · [Contribute](#contribute)
 
-Every row has the site, whether it is free, notes, and when it was last checked.
+## How to read the list
 
 | Free? | Meaning |
 | --- | --- |
-| Yes | A free listing path with no material catch. |
-| Yes* | A free listing path with a catch you should know about: a badge on your homepage, a long free queue, a niche or regional gate, or a paid skip. |
-| No | Paid only. Prices in Notes are what the site showed on the date checked. |
-| Unknown | Free eligibility not confirmed. |
+| Yes | Free, with no real catch. |
+| Yes* | Free, with a catch: a badge on your site, a long queue, a gate on who can apply, or a paid skip. |
+| No | Paid only. |
+| Unknown | Not confirmed yet. |
 
-In Only for some startups, a free path is Yes*: the gate itself (a region, an audience, a kind of product) is the catch. Reported submission problems have no Free? column, because it means nothing for a site whose submission path doesn't work.
-
-Notes hold listing facts only: the free path and its catch, posting rules, eligibility, and fees. Last checked is the date someone reviewed the submission route and terms by hand. A free path is not a promise of acceptance, and rules change, so check the site before you rely on a row or pay for anything.
+- **Notes:** the free path and its catch, the rules, and the fees. Prices are what the site showed on the date checked.
+- **Last checked:** the last time someone reviewed the site by hand.
+- Free doesn't mean accepted, and rules change. Check the site before you rely on a row or pay for anything.
 
 ## Directories & submission services
 
-Free and paid directories, launch sites, company profiles, review sites, and submission services, A to Z. Paid-only sites are marked No.
+Directories, launch sites, company profiles, review sites, and submission services, A to Z.
 
 <table>
 <thead>
@@ -162,41 +162,9 @@ Free and paid directories, launch sites, company profiles, review sites, and sub
 </tbody>
 </table>
 
-Prices are recorded estimates; confirm currency and current pricing on the linked site.
-
-## Reddit communities
-
-Banned or ad-disallowed communities are under [Reported submission problems](#reported-submission-problems).
-
-<table>
-<thead>
-  <tr><th align="left" scope="col" width="230">Community</th><th align="left" scope="col" width="80">Free?</th><th align="left" scope="col" width="9999">Notes</th><th align="left" scope="col" width="120">Last checked</th></tr>
-</thead>
-<tbody>
-  <tr><td><a href="https://www.reddit.com/r/alphaandbetausers/">r/AlphaandBetausers</a></td><td>Yes</td><td>Recruit alpha/beta testers with a ready-to-test product, stage/system title tag, and product description. No waitlists-only or spam posts.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/buildinpublic/">r/buildinpublic</a></td><td>Yes</td><td>Share progress, lessons, or feedback requests. Self-promotion without context and undisclosed paid/affiliate plugs are not allowed.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/design_critiques/">r/Design_Critiques</a></td><td>Yes</td><td>Design critique only. Link the design and ask for constructive feedback; not a general product-ad venue.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/Entrepreneur/">r/Entrepreneur</a></td><td>Yes</td><td>No standalone promotion. Use designated weekly promo threads and contribute meaningfully first.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/EntrepreneurRideAlong/">r/EntrepreneurRideAlong</a></td><td>Yes</td><td>Transparent company-building stories welcome; no explicit promotion ban. Better for ride-along updates than bare ads.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/IMadeThis/">r/IMadeThis</a></td><td>Yes</td><td>Makers are encouraged to show projects. Keep the post about what you built rather than a sales pitch.</td><td nowrap>2026-09-27</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/indiebiz/">r/IndieBiz</a></td><td>Yes</td><td>Independent businesses and products welcome. Use tags such as [INTRO] or [OFFER]; MLM is prohibited.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/indiehackers/">r/indiehackers</a></td><td>Yes</td><td>One self-promotion post per user with Self Promotion flair, framed for feedback rather than ads.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/ladybusiness/">r/LadyBusiness</a></td><td>Yes</td><td>Product plugs only in the monthly shameless-plug thread; posts outside it are removed.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/microsaas/">r/microsaas</a></td><td>Yes</td><td>Product posts need backstory, stack, revenue (optional), or a lesson. Naked promotional links are removed.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/plugyourproduct/">r/plugyourproduct</a></td><td>Yes</td><td>Explicit product-plug community. Posting is limited to approved users.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/roastmystartup/">r/RoastMyStartup</a></td><td>Yes*</td><td>Submit your own live startup for critique with a required clickable real-domain (own-domain) link. No Product Hunt or Vercel links. Material catch: Reddit automated filters may remove posts even when community rules are followed (observed 2026-09-28).</td><td nowrap>2026-09-28</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/SaaS/">r/SaaS</a></td><td>Yes</td><td>Max 1 mention or 3 links per 60 days, with affiliation disclosed and useful context. Naked links are treated as spam.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/SideProject/">r/SideProject</a></td><td>Yes</td><td>Sharing project links and constructive feedback is encouraged. Use “[Project name] - [Short description]” titles.</td><td nowrap>2026-09-27</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/smallbusiness/">r/SmallBusiness</a></td><td>Yes</td><td>No standalone promo posts. Use the weekly promote-your-business thread or relevant non-repeated replies.</td><td nowrap>2026-09-25</td></tr>
-  <tr><td><a href="https://www.reddit.com/r/startups/">r/Startups</a></td><td>Yes</td><td>Share your startup only in the monthly Share Your Startup thread; feedback/surveys use weekly threads.</td><td nowrap>2026-09-25</td></tr>
-</tbody>
-</table>
-
-## Other options
-
-Places that only take some startups: a specific region, audience, or goal, or a type of product such as AI. Check the linked site for current terms.
-
 ### Only for some startups
+
+Places limited to a region, an audience, or a kind of product such as AI. The gate is the catch, so a free path here is Yes*.
 
 <table>
 <thead>
@@ -290,9 +258,37 @@ Places that only take some startups: a specific region, audience, or goal, or a 
 </tbody>
 </table>
 
+## Reddit communities
+
+Communities that ban promotion or ads are under [Reported submission problems](#reported-submission-problems).
+
+<table>
+<thead>
+  <tr><th align="left" scope="col" width="230">Community</th><th align="left" scope="col" width="80">Free?</th><th align="left" scope="col" width="9999">Notes</th><th align="left" scope="col" width="120">Last checked</th></tr>
+</thead>
+<tbody>
+  <tr><td><a href="https://www.reddit.com/r/alphaandbetausers/">r/AlphaandBetausers</a></td><td>Yes</td><td>Recruit alpha/beta testers with a ready-to-test product, stage/system title tag, and product description. No waitlists-only or spam posts.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/buildinpublic/">r/buildinpublic</a></td><td>Yes</td><td>Share progress, lessons, or feedback requests. Self-promotion without context and undisclosed paid/affiliate plugs are not allowed.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/design_critiques/">r/Design_Critiques</a></td><td>Yes</td><td>Design critique only. Link the design and ask for constructive feedback; not a general product-ad venue.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/Entrepreneur/">r/Entrepreneur</a></td><td>Yes</td><td>No standalone promotion. Use designated weekly promo threads and contribute meaningfully first.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/EntrepreneurRideAlong/">r/EntrepreneurRideAlong</a></td><td>Yes</td><td>Transparent company-building stories welcome; no explicit promotion ban. Better for ride-along updates than bare ads.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/IMadeThis/">r/IMadeThis</a></td><td>Yes</td><td>Makers are encouraged to show projects. Keep the post about what you built rather than a sales pitch.</td><td nowrap>2026-09-27</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/indiebiz/">r/IndieBiz</a></td><td>Yes</td><td>Independent businesses and products welcome. Use tags such as [INTRO] or [OFFER]; MLM is prohibited.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/indiehackers/">r/indiehackers</a></td><td>Yes</td><td>One self-promotion post per user with Self Promotion flair, framed for feedback rather than ads.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/ladybusiness/">r/LadyBusiness</a></td><td>Yes</td><td>Product plugs only in the monthly shameless-plug thread; posts outside it are removed.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/microsaas/">r/microsaas</a></td><td>Yes</td><td>Product posts need backstory, stack, revenue (optional), or a lesson. Naked promotional links are removed.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/plugyourproduct/">r/plugyourproduct</a></td><td>Yes</td><td>Explicit product-plug community. Posting is limited to approved users.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/roastmystartup/">r/RoastMyStartup</a></td><td>Yes*</td><td>Submit your own live startup for critique with a required clickable real-domain (own-domain) link. No Product Hunt or Vercel links. Material catch: Reddit automated filters may remove posts even when community rules are followed (observed 2026-09-28).</td><td nowrap>2026-09-28</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/SaaS/">r/SaaS</a></td><td>Yes</td><td>Max 1 mention or 3 links per 60 days, with affiliation disclosed and useful context. Naked links are treated as spam.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/SideProject/">r/SideProject</a></td><td>Yes</td><td>Sharing project links and constructive feedback is encouraged. Use “[Project name] - [Short description]” titles.</td><td nowrap>2026-09-27</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/smallbusiness/">r/SmallBusiness</a></td><td>Yes</td><td>No standalone promo posts. Use the weekly promote-your-business thread or relevant non-repeated replies.</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://www.reddit.com/r/startups/">r/Startups</a></td><td>Yes</td><td>Share your startup only in the monthly Share Your Startup thread; feedback/surveys use weekly threads.</td><td nowrap>2026-09-25</td></tr>
+</tbody>
+</table>
+
 ## Reported submission problems
 
-Links point to the affected sites. Notes record previously reported issues; availability may change.
+Dead sites, broken forms, and communities closed to promotion, so you can skip them. Things change, so a site here may come back.
 
 <table>
 <thead>
@@ -416,8 +412,8 @@ Links point to the affected sites. Notes record previously reported issues; avai
 
 ## Contribute
 
-Help the next founder: suggest a site, correct a detail, or share what happened when you tried one. Use the [contribution guide](CONTRIBUTING.md) to open a pull request, or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose). Include the date and a link or other evidence so others can follow your findings.
+Found a new site, a changed rule, or a dead link? Tried one yourself, even unsuccessfully? Follow the [contribution guide](CONTRIBUTING.md) to open a pull request, or [open an issue](https://github.com/mmmmingos/where-to-submit-your-startup/issues/new/choose). Include the date and a link or other evidence.
 
 ## License
 
-[MIT](LICENSE). Use the list, copy it, and build on it; keep the license notice with any substantial copy.
+[MIT](LICENSE). Use it, copy it, and build on it; keep the license notice with any substantial copy.
