@@ -167,4 +167,7 @@ exclude = [
   '^https://killerstartups\.com/',
   '^https://www\.platformsdirectory\.com/',
   '^https://www\.toolpilot\.ai/',
+  # 2026-10-05: Uneed's Cloudflare answers 404 for every page to non-browser clients, homepage included,
+  # while a browser loads the homepage and /submit-a-tool normally.
+  '^https://www\.uneed\.best/',
 ]
