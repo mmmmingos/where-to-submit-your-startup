@@ -2,9 +2,7 @@
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
-An open-source library of places to submit your startup: 200+ directories, launch sites, Reddit communities, and niche or regional sites, plus 100+ that are dead, broken, or closed, flagged so you can skip them. It's the most comprehensive list of its kind I've found.
-
-I submit my own site to these places and write down what really happened: whether it's actually free, the catch, the fees, and the wait. Rows I haven't tried yet say what the site itself claims.
+An open-source library of places to submit your startup. It's the most comprehensive list of its kind I've found.
 
 To filter the list, plan a launch, or ask an AI assistant where to submit, use [submitmystartup.com](https://submitmystartup.com/) (planner and MCP server).
 
@@ -18,10 +16,6 @@ To filter the list, plan a launch, or ask an AI assistant where to submit, use [
 | Yes* | Free, with a catch: a badge on your site, a long queue, a gate on who can apply, or a paid skip. |
 | No | Paid only. |
 | Unknown | Not confirmed yet. |
-
-- **Notes:** the free path and its catch, the rules, and the fees. Prices are what the site showed on the date checked.
-- **Last checked:** the last time someone reviewed the site by hand.
-- Free doesn't mean accepted, and rules change. Check the site before you rely on a row or pay for anything.
 
 ## Directories & submission services
 
