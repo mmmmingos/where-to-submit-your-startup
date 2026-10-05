@@ -1,6 +1,7 @@
 # A failed request needs investigation; do not count 403/429 as successful checks.
 timeout = 30
-max_retries = 2
+max_retries = 3
+retry_wait_time = 10
 max_concurrency = 4
 include_mail = false
 
@@ -160,4 +161,10 @@ exclude = [
   '^https://appsolite\.com/',
   '^https://indietools\.io/',
   '^https://indiedirectory\.top/',
+  # 2026-10-05: these refuse GitHub's runners (403, 429 or a timeout) while answering a browser the same day.
+  # Not a sign the sites are healthy; batches still check these rows by hand.
+  '^https://www\.aixploria\.com/',
+  '^https://killerstartups\.com/',
+  '^https://www\.platformsdirectory\.com/',
+  '^https://www\.toolpilot\.ai/',
 ]
