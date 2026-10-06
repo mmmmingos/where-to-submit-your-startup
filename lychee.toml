@@ -183,4 +183,10 @@ exclude = [
   # submit page answered 200 to a browser user agent and to a non-browser one from here the same night, when we
   # submitted there.
   '^https://aitoolsmagazine\.com/',
+  # 2026-10-07: AIToolsHunt answers GitHub's runners with 403 (the site shows a browser check first), while its submit
+  # page answered 200 to a browser user agent and to a non-browser one from here the same night, when we submitted there.
+  '^https://aitoolshunt\.com/',
+  # 2026-10-07: AI NavHub answered GitHub's runners with 503 on three link checks that night (two of them on main),
+  # while its submit page answered 200 to a browser user agent and to a non-browser one from here after the third.
+  '^https://ainavhub\.com/',
 ]
