@@ -179,4 +179,8 @@ exclude = [
   '^https://www\.startupaitools\.com/',
   '^https://toolspedia\.io/',
   '^https://every-ai\.com/',
+  # 2026-10-07: AI Tools Magazine answers GitHub's runners with 403 (its homepage runs a browser check), while its
+  # submit page answered 200 to a browser user agent and to a non-browser one from here the same night, when we
+  # submitted there.
+  '^https://aitoolsmagazine\.com/',
 ]
