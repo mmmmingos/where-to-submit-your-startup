@@ -170,4 +170,7 @@ exclude = [
   # 2026-10-05: Uneed's Cloudflare answers 404 for every page to non-browser clients, homepage included,
   # while a browser loads the homepage and /submit-a-tool normally.
   '^https://www\.uneed\.best/',
+  # 2026-10-07: AI Tools Time answers GitHub's runners with 403, while its submit page answered 200 to a
+  # browser user agent and to a non-browser one the same night, when we tried to submit there.
+  '^https://aitoolstime\.com/',
 ]
