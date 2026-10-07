@@ -288,4 +288,41 @@ exclude = [
   # cross-signed by ISRG Root X1) and the submit page answers 200. Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this
   # line when lychee gets a clean 2xx. This does not mean the site is healthy.
   '^https://auraplusplus\.com/',
+  # 2026-10-08: Thingtesting answered GitHub's runners with 403 on the first link check of PR #100, while its submit page answered 200
+  # from here the same morning, to a browser user agent and a non-browser one, and it loaded normally in a browser that morning, when we
+  # read its rules.
+  '^https://thingtesting\.com/',
+  # 2026-10-08: TrustRadius answered GitHub's runners with 403 on the first link check of PR #100. Every request from here, browser user
+  # agent included, gets Cloudflare's "Just a moment..." check and 403, as the 2026-10-04 queue screen found. It is listed as a B2B review
+  # site we didn't try, so it hasn't been opened in a browser. This does not mean the site is healthy.
+  '^https://www\.trustradius\.com/',
+  # 2026-10-08: intentionally linked under Reported submission problems (PR #100). On GitHub's runners as from here, Noteableai and Wiki
+  # AI Tools answer Cloudflare's 521, Tool Salad answers Cloudflare's 522, and StartupValley News's apply page answers 404. SaaSGPTers'
+  # certificate failed to verify on the runners (unknown issuer), as it does for a Node.js request from here (unable to get local issuer
+  # certificate). Webwiki, now a magazine, answered the runners with 403 while it answered 200 from here. This does not mean the sites
+  # are healthy.
+  '^https://noteableai\.com/',
+  '^https://wikiaitools\.com/',
+  '^https://toolsalad\.com/',
+  '^https://www\.startupvalley\.news/apply-now',
+  '^https://saasgpters\.com/',
+  '^https://www\.webwiki\.com/',
+  # 2026-10-08: TEMPORARY. StrictSeal (an existing row) answered GitHub's runners with 503 on the second link check of PR #100 and its
+  # re-run, and on the link check on main at 20:40 UTC after PR #99 merged, though it passed the first check of PR #100. From here its
+  # submit page answers 307 to its sign-in page, which answers 200. Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this
+  # line when lychee gets a clean 2xx. This does not mean the site is healthy.
+  '^https://strictseal\.com/',
+  # 2026-10-08: TEMPORARY. Simple Lister (an existing row) failed the re-run of the second link check of PR #100 and the third check with
+  # "TLS handshake failed", after passing the first two. From here both of its addresses failed the same morning too (one reset the TLS
+  # connection, the other timed out). Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this line when lychee gets a clean
+  # 2xx. This does not mean the site is healthy.
+  '^https://simplelister\.com/',
+  # 2026-10-08: intentionally linked under Reported submission problems. Ready SaaS Go (an existing row) answered GitHub's
+  # runners with Cloudflare's 522 on the third link check of PR #100, after passing the earlier ones, and it answers 522 from here too.
+  # This does not mean the site is healthy.
+  '^https://readysaasgo\.com/',
+  # 2026-10-08: Startup Sea, a Blogger blog, answered GitHub's runners on the fourth link check of PR #100 with redirects to Google's
+  # "sorry" page and 429, after passing the first three, while it answers 200 from here to a browser user agent and a non-browser one.
+  # The batch's browser loaded it normally that morning, when we submitted there.
+  '^http://www\.startupsea\.com/',
 ]
