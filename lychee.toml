@@ -321,4 +321,8 @@ exclude = [
   # runners with Cloudflare's 522 on the third link check of PR #100, after passing the earlier ones, and it answers 522 from here too.
   # This does not mean the site is healthy.
   '^https://readysaasgo\.com/',
+  # 2026-10-08: Startup Sea, a Blogger blog, answered GitHub's runners on the fourth link check of PR #100 with redirects to Google's
+  # "sorry" page and 429, after passing the first three, while it answers 200 from here to a browser user agent and a non-browser one.
+  # The batch's browser loaded it normally that morning, when we submitted there.
+  '^http://www\.startupsea\.com/',
 ]
