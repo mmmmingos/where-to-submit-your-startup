@@ -325,4 +325,8 @@ exclude = [
   # "sorry" page and 429, after passing the first three, while it answers 200 from here to a browser user agent and a non-browser one.
   # The batch's browser loaded it normally that morning, when we submitted there.
   '^http://www\.startupsea\.com/',
+  # 2026-10-08: Owler answered GitHub's runners with 403 on the first link check of PR #101. From here it answers 403 to every
+  # request too, browser user agent included, while it loaded normally in the batch's browser that morning, when we signed up and
+  # reached its Add Company form.
+  '^https://www\.owler\.com/',
 ]
