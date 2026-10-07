@@ -307,4 +307,9 @@ exclude = [
   '^https://www\.startupvalley\.news/apply-now',
   '^https://saasgpters\.com/',
   '^https://www\.webwiki\.com/',
+  # 2026-10-08: TEMPORARY. StrictSeal (an existing row) answered GitHub's runners with 503 on the second link check of PR #100 and its
+  # re-run, and on the link check on main at 20:40 UTC after PR #99 merged, though it passed the first check of PR #100. From here its
+  # submit page answers 307 to its sign-in page, which answers 200. Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this
+  # line when lychee gets a clean 2xx. This does not mean the site is healthy.
+  '^https://strictseal\.com/',
 ]
