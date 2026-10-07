@@ -260,4 +260,20 @@ exclude = [
   '^https://www\.aitoolhunt\.com/',
   '^https://innovativ\.es/',
   '^https://itslaunched\.com/',
+  # 2026-10-08: LaunchBoard.dev answered GitHub's runners with Vercel's checkpoint and 429 on the first link check of PR #99, as it does
+  # to non-browser requests from here, while it worked in a browser the same night, when we submitted our launch there.
+  '^https://launchboard\.dev/',
+  # 2026-10-08: MAGNiTT and Serchen answered GitHub's runners with 403 on the first link check of PR #99, while each answered 200 to a
+  # request from here the same night (Serchen to a non-browser user agent, MAGNiTT to a browser one), and MAGNiTT loaded normally in a
+  # browser that night, when we read its rules.
+  '^https://magnitt\.com/',
+  '^https://www\.serchen\.com/',
+  # 2026-10-08: SoftwareWorld answered GitHub's runners with 403 on the first link check of PR #99. Every request for its pages from here
+  # gets Cloudflare's "Just a moment..." check and 403, browser user agent included, while its sitemap answers 200, so the site is up. It
+  # is listed as a B2B review site we didn't try, so it hasn't been opened in a browser. This does not mean the site is healthy.
+  '^https://www\.softwareworld\.co/',
+  # 2026-10-08: intentionally linked under Reported submission problems (PR #99). On GitHub's runners as from here, All That SaaS answers
+  # Cloudflare's 522 and New Startups answers Cloudflare's 523. This does not mean the sites are healthy.
+  '^https://allthatsaas\.com/',
+  '^https://www\.new-startups\.com/',
 ]
