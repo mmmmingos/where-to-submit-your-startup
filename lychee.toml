@@ -250,4 +250,14 @@ exclude = [
   # at 18:12 UTC the same day (dodopayments.com itself answers 200). A new bot check, not a removed site; excluded so unrelated PRs
   # can merge. Recheck 2026-10-09: remove this line when lychee gets a clean 2xx. This does not mean the site is healthy.
   '^https://index\.dodopayments\.com/',
+  # 2026-10-08: AI Search answered GitHub's runners with Vercel's checkpoint and 429 on the first link check of PR #98, as it does to
+  # non-browser requests from here (and to curl with a browser user agent), while it loaded normally in a browser the same night,
+  # when we read its submit page.
+  '^https://ai-search\.io/',
+  # 2026-10-08: intentionally linked under Reported submission problems (PR #98). On GitHub's runners as from here, AI Toolhunt
+  # answers Cloudflare's 522, Innovativ.es answers 503 ("no available server"), and It's Launched serves a self-signed certificate.
+  # This does not mean the sites are healthy.
+  '^https://www\.aitoolhunt\.com/',
+  '^https://innovativ\.es/',
+  '^https://itslaunched\.com/',
 ]
