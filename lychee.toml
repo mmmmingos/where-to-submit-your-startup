@@ -199,11 +199,6 @@ exclude = [
   # 2026-10-08: Alpha Digits answered GitHub's runners with 403 on the first link check of PR #92, while its review
   # request page answered 200 to a browser user agent and to non-browser ones from here the same night, when we sent our request.
   '^https://alphadigits\.com/',
-  # 2026-10-08: TEMPORARY. Uno Directory (a listed row whose badge is on our homepage) has served a self-signed
-  # "TRAEFIK DEFAULT CERT" and HTTP 503 since 2026-10-07 12:58 UTC, from here as well as from GitHub's runners: an outage,
-  # not a CI block. Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this line when the site answers, or move
-  # its row to Reported submission problems if it is still down.  This does not mean the site is healthy.
-  '^https://uno\.directory/',
   # 2026-10-08: Taalk and The Startup INC answered GitHub's runners with 403 on the first link check of PR #94, while their
   # submit pages answered 200 to a browser user agent and to non-browser ones from here the same night, after we tried to
   # submit there.
@@ -232,4 +227,27 @@ exclude = [
   # this line when the site answers, or move its row to Reported submission problems if it is still down. This does not mean
   # the site is healthy.
   '^https://sidehunt\.io/',
+  # 2026-10-08: AI Agents Verse and AIChief answered GitHub's runners with Cloudflare's "Just a moment..." page and 403, and AI Just
+  # Better with Vercel's checkpoint and 429, on the first link check of PR #97, as they do to non-browser requests from here, while
+  # all three loaded normally in a browser the same night, when we submitted to AI Agents Verse and AI Just Better and read AIChief's plans.
+  '^https://aiagentsverse\.com/',
+  '^https://aichief\.com/',
+  '^https://aijustbetter\.com/',
+  # 2026-10-08: TopAI.tools answered GitHub's runners with 403 on the first link check of PR #97, while its submit page answered 200
+  # to a browser user agent and to a non-browser one from here the same night, after we read its plans there.
+  '^https://topai\.tools/',
+  # 2026-10-08: intentionally linked under Reported submission problems (PR #97). On GitHub's runners as from here, AI Scout answers
+  # 520, AI Tools Guru and TrustedBy answer Cloudflare's 522, HeyAIworld answers 403 with its Anubis bot check, and AEO Tools and
+  # Toolwave.io time out on their parking hosts. This does not mean the sites are healthy.
+  '^https://aiscout\.net/',
+  '^https://aitoolguru\.com/',
+  '^https://www\.trustedby\.ai/',
+  '^https://heyaiworld\.com/',
+  '^https://www\.aeotools\.space/',
+  '^https://www\.toolwave\.io/',
+  # 2026-10-08: TEMPORARY. Index by Dodo Payments (an existing row) answered both link checks of PR #97 with Vercel's security
+  # checkpoint and 429, homepage included, as it does to non-browser requests from here, though it passed the link check on main
+  # at 18:12 UTC the same day (dodopayments.com itself answers 200). A new bot check, not a removed site; excluded so unrelated PRs
+  # can merge. Recheck 2026-10-09: remove this line when lychee gets a clean 2xx. This does not mean the site is healthy.
+  '^https://index\.dodopayments\.com/',
 ]
