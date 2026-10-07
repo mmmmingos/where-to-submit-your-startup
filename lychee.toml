@@ -227,4 +227,22 @@ exclude = [
   # this line when the site answers, or move its row to Reported submission problems if it is still down. This does not mean
   # the site is healthy.
   '^https://sidehunt\.io/',
+  # 2026-10-08: AI Agents Verse and AIChief answered GitHub's runners with Cloudflare's "Just a moment..." page and 403, and AI Just
+  # Better with Vercel's checkpoint and 429, on the first link check of PR #97, as they do to non-browser requests from here, while
+  # all three loaded normally in a browser the same night, when we submitted to AI Agents Verse and AI Just Better and read AIChief's plans.
+  '^https://aiagentsverse\.com/',
+  '^https://aichief\.com/',
+  '^https://aijustbetter\.com/',
+  # 2026-10-08: TopAI.tools answered GitHub's runners with 403 on the first link check of PR #97, while its submit page answered 200
+  # to a browser user agent and to a non-browser one from here the same night, after we read its plans there.
+  '^https://topai\.tools/',
+  # 2026-10-08: intentionally linked under Reported submission problems (PR #97). On GitHub's runners as from here, AI Scout answers
+  # 520, AI Tools Guru and TrustedBy answer Cloudflare's 522, HeyAIworld answers 403 with its Anubis bot check, and AEO Tools and
+  # Toolwave.io time out on their parking hosts. This does not mean the sites are healthy.
+  '^https://aiscout\.net/',
+  '^https://aitoolguru\.com/',
+  '^https://www\.trustedby\.ai/',
+  '^https://heyaiworld\.com/',
+  '^https://www\.aeotools\.space/',
+  '^https://www\.toolwave\.io/',
 ]
