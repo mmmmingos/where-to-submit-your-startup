@@ -273,12 +273,19 @@ exclude = [
   # is listed as a B2B review site we didn't try, so it hasn't been opened in a browser. This does not mean the site is healthy.
   '^https://www\.softwareworld\.co/',
   # 2026-10-08: intentionally linked under Reported submission problems (PR #99). On GitHub's runners as from here, All That SaaS answers
-  # Cloudflare's 522 and New Startups answers Cloudflare's 523. This does not mean the sites are healthy.
+  # Cloudflare's 522 and New Startups answers Cloudflare's 523, and Crazy About Startups, a holding page that loads very slowly from here
+  # too, timed out on one run. This does not mean the sites are healthy.
   '^https://allthatsaas\.com/',
   '^https://www\.new-startups\.com/',
+  '^https://crazyaboutstartups\.com/',
   # 2026-10-08: TEMPORARY. AI Respo (an existing row) failed both link checks of PR #99 with 403, though it passed the link check on
   # main at 19:47 UTC the same day. From here its submit page also answers 403 to every request, browser user agent included, while
   # the response still carries the submit page and the homepage answers 200: a new block on that page, not a removed site. Excluded so
   # unrelated PRs can merge. Recheck 2026-10-09: remove this line when lychee gets a clean 2xx. This does not mean the site is healthy.
   '^https://airespo\.com/submit-tool/',
+  # 2026-10-08: TEMPORARY. Aura++ (an existing row) failed the third link check of PR #99 and its re-run with "SSL certificate not
+  # trusted", after passing the first two. From here both of its addresses serve a complete, valid chain (Let's Encrypt YR2, then Root YR
+  # cross-signed by ISRG Root X1) and the submit page answers 200. Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this
+  # line when lychee gets a clean 2xx. This does not mean the site is healthy.
+  '^https://auraplusplus\.com/',
 ]
