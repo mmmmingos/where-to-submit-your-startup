@@ -209,4 +209,7 @@ exclude = [
   # submit there.
   '^https://taalk\.com/',
   '^https://thestartupinc\.com/',
+  # 2026-10-08: intentionally linked under Reported submission problems; AI Tools Guide answers every page with its
+  # own "temporarily paused" 503, from here as well as from GitHub's runners. This does not mean the site is healthy.
+  '^https://aitoolsguide\.com/',
 ]
