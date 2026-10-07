@@ -196,4 +196,9 @@ exclude = [
   # checks of PR #88, through a redirect to Google's rate-limit page, while it answered 200 to a browser user agent and to
   # a non-browser one from here the same day.
   '^https://allaitools\.tech/',
+  # 2026-10-08: TEMPORARY. Uno Directory (a listed row whose badge is on our homepage) has served a self-signed
+  # "TRAEFIK DEFAULT CERT" and HTTP 503 since 2026-10-07 12:58 UTC, from here as well as from GitHub's runners: an outage,
+  # not a CI block. Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this line when the site answers, or move
+  # its row to Reported submission problems if it is still down.  This does not mean the site is healthy.
+  '^https://uno\.directory/',
 ]
