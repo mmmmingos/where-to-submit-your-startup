@@ -312,4 +312,13 @@ exclude = [
   # submit page answers 307 to its sign-in page, which answers 200. Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this
   # line when lychee gets a clean 2xx. This does not mean the site is healthy.
   '^https://strictseal\.com/',
+  # 2026-10-08: TEMPORARY. Simple Lister (an existing row) failed the re-run of the second link check of PR #100 and the third check with
+  # "TLS handshake failed", after passing the first two. From here both of its addresses failed the same morning too (one reset the TLS
+  # connection, the other timed out). Excluded so unrelated PRs can merge. Recheck 2026-10-09: remove this line when lychee gets a clean
+  # 2xx. This does not mean the site is healthy.
+  '^https://simplelister\.com/',
+  # 2026-10-08: intentionally linked under Reported submission problems. Ready SaaS Go (an existing row) answered GitHub's
+  # runners with Cloudflare's 522 on the third link check of PR #100, after passing the earlier ones, and it answers 522 from here too.
+  # This does not mean the site is healthy.
+  '^https://readysaasgo\.com/',
 ]
