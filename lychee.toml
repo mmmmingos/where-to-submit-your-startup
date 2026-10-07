@@ -192,7 +192,8 @@ exclude = [
   # 2026-10-07: Look AI Tools answered GitHub's runners with 403 on both link checks of PR #87, while its submit page
   # (which redirects to its sign-in page) answered 200 to a browser user agent and to a non-browser one from here the same day.
   '^https://lookaitools\.com/',
-  # 2026-10-07: All AI Tools .tech (a Reported submission problems row) answered GitHub's runners with 429 on both link checks
-  # of PR #88, through a redirect to Google's rate-limit page, while it answered 200 to a browser user agent and to a non-browser one from here the same day.
-  '^https://allaitools.tech/',
+  # 2026-10-07: All AI Tools .tech (a Reported submission problems row) answered GitHub's runners with 429 on both link
+  # checks of PR #88, through a redirect to Google's rate-limit page, while it answered 200 to a browser user agent and to
+  # a non-browser one from here the same day.
+  '^https://allaitools\.tech/',
 ]
