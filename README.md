@@ -778,6 +778,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://wikiaitools.com/">Wiki AI Tools</a></td><td>AI tools directory that other lists still link at wikiaitools.com; the site is down: Cloudflare answers "Web server is down" (521) on the bare domain and on www, as on 2026-10-04 (observed 2026-10-08).</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://yaatd.com/">Yet Another AI Tool Directory</a></td><td>AI tools directory (YAATD) whose free submit form couldn't be sent on 2026-10-08: its API answered every submit with a server error (HTTP 500, "create_failed", then "rate_limited"), so nothing was created. When it works, the free tier is a 90-day editorial queue with a nofollow link, after an AI check that you're an actual AI tool, and Featured is $49 for 60 days or $259 for a year, live immediately. The site itself is up.</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://yourstack.com/">YourStack</a></td><td>Product recommendation community that other launch lists still link at yourstack.com; the site only says "YourStack is offline at the moment", with a 2022 copyright (observed 2026-10-04).</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://aitrustlist.com/">AITrustList</a></td><td>AITrustList is a data-driven AI tools directory that ranks artificial intelligence products based on verifiable traffic signals and engagement metrics. (observed 2026-10-12).</td><td nowrap>2026-10-12</td></tr>
 </tbody>
 </table>
 
