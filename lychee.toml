@@ -355,4 +355,7 @@ exclude = [
   '^https://where2go\.com/binn/su\.w2g',
   # 2026-10-15: CI gets 521 then 403 from SaaSList while a request from Sydney gets 200 (a bot wall, as with Betabound). Recheck periodically.
   '^https://saaslist\.com/$',
+  # 2026-10-16: Cloudflare 523 (origin unreachable) from CI twice on PR #120 and from Sydney. Recheck on 2026-10-23: if it is still down, the
+  # row moves to Reported submission problems and this line goes; if it loads, this line goes. This does not mean the site is healthy.
+  '^https://aibesttop\.com/submit$',
 ]
