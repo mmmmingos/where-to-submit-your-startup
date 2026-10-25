@@ -399,8 +399,8 @@ exclude = [
   '^https?://(www\.)?shipsquad\.space/',
   # 2026-10-26: intentionally linked under Reported submission problems (overnight batch 10, each checked against its source list; Oye Startups's
   # domain expired earlier): down, expired certificate, not resolving, or timing out. This does not mean the sites are healthy.
-  '^https?://(www.)?alternativeai.io/',
-  '^https?://(www.)?xnavi.ai/',
-  '^https?://(www.)?saasinfopro.com/',
-  '^https?://(www.)?oyestartups.com/',
+  '^https?://(www\.)?alternativeai\.io/',
+  '^https?://(www\.)?xnavi\.ai/',
+  '^https?://(www\.)?saasinfopro\.com/',
+  '^https?://(www\.)?oyestartups\.com/',
 ]
