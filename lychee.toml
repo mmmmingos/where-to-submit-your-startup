@@ -353,4 +353,11 @@ exclude = [
   # 2026-10-25, temporary: Innmind's register page (an existing row, published) answered 503 and 502 on three link checks today and 503 from Sydney in the
   # evening, after 200 from Sydney that afternoon. Recheck on 2026-11-01: still down, its row moves to Reported submission problems; back, this line goes.
   '^https://app\.innmind\.com/register$',
+  # 2026-10-25: 600.tools, Dirs.cc and FeaturedTool (one Mkdirs operator) answer GitHub's runners with 403 while their submit pages answer 200 from
+  # Sydney, to a browser user agent and a non-browser one, the same night we submitted there. Recheck periodically.
+  '^https://600\.tools/',
+  '^https://dirs\.cc/',
+  '^https://featuredtool\.com/',
+  # 2026-10-25: intentionally linked under Reported submission problems; projecthunt.me is a parked domain that times out. This does not mean the site is healthy.
+  '^https://projecthunt\.me/',
 ]
