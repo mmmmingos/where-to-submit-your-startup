@@ -367,4 +367,8 @@ exclude = [
   # AI Tech Suite answers both with Vercel's checkpoint (429). Both loaded in the SubmitMyStartup browser that night. Recheck periodically.
   '^https://maxibestof\.one/',
   '^https://www\.aitechsuite\.com/',
+  # 2026-10-25: bot walls on rows from overnight batch 5. KI-Suche answers with Vercel's checkpoint (429) and Softpedia with Cloudflare's challenge (403),
+  # from GitHub's runners and from Sydney, while both loaded in the SubmitMyStartup browser that night. Recheck periodically.
+  '^https://www\.ki-suche\.io/',
+  '^https://www\.softpedia\.com/',
 ]
