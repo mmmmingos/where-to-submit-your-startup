@@ -363,4 +363,8 @@ exclude = [
   # 2026-10-25: StackShare answers GitHub's runners and non-browser requests from Sydney with Vercel's checkpoint (429), while it loaded in the
   # SubmitMyStartup browser the same night, when we listed there. Recheck periodically. This does not mean the site is healthy.
   '^https://stackshare\.io/',
+  # 2026-10-25: bot walls on rows from overnight batch 4. MaxiBestOf answers GitHub's runners with 403 while its submit page answers 200 from Sydney;
+  # AI Tech Suite answers both with Vercel's checkpoint (429). Both loaded in the SubmitMyStartup browser that night. Recheck periodically.
+  '^https://maxibestof\.one/',
+  '^https://www\.aitechsuite\.com/',
 ]
