@@ -384,4 +384,17 @@ exclude = [
   '^https://(www\.)?webthat\.io/',
   # 2026-10-25: Design Spells answers GitHub's runners with 429 while it loaded in the SubmitMyStartup browser that night. Recheck periodically.
   '^https://(www\.)?designspells\.com/',
+  # 2026-10-25: intentionally linked under Reported submission problems (overnight batch 9, each checked against its source list): parked, for sale,
+  # redirecting to spam, or gone. This does not mean the sites are healthy.
+  '^https?://(www\.)?airegisters\.com/',
+  '^https?://(www\.)?ainavigationsite\.com/',
+  '^https?://(www\.)?aitoolbox\.tools/',
+  '^https?://(www\.)?aitooldr\.com/',
+  '^https?://(www\.)?gptnocode\.com/',
+  '^https?://(www\.)?humanwithai\.top/',
+  '^https?://(www\.)?indieai\.co/',
+  '^https?://(www\.)?takeai\.org/',
+  '^https?://(www\.)?topapps\.ai/',
+  '^https?://(www\.)?toucu\.ai/',
+  '^https?://(www\.)?shipsquad\.space/',
 ]
