@@ -371,4 +371,7 @@ exclude = [
   # from GitHub's runners and from Sydney, while both loaded in the SubmitMyStartup browser that night. Recheck periodically.
   '^https://www\.ki-suche\.io/',
   '^https://www\.softpedia\.com/',
+  # 2026-10-25: Siteinspire answers GitHub's runners and non-browser requests from Sydney with Vercel's checkpoint (429), while it loaded in the
+  # SubmitMyStartup browser that night. Recheck periodically. This does not mean the site is healthy.
+  '^https://www\.siteinspire\.com/',
 ]
