@@ -360,4 +360,7 @@ exclude = [
   '^https://featuredtool\.com/',
   # 2026-10-25: intentionally linked under Reported submission problems; projecthunt.me is a parked domain that times out. This does not mean the site is healthy.
   '^https://projecthunt\.me/',
+  # 2026-10-25: StackShare answers GitHub's runners and non-browser requests from Sydney with Vercel's checkpoint (429), while it loaded in the
+  # SubmitMyStartup browser the same night, when we listed there. Recheck periodically. This does not mean the site is healthy.
+  '^https://stackshare\.io/',
 ]
