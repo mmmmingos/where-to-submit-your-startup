@@ -343,7 +343,8 @@ exclude = [
   '^https://www\.insidr\.ai/submit-tools/$',
   '^https://profithunt\.co/',
   # 2026-10-25: intentionally linked under Reported submission problems. AI Headshot Hub's submit page answers 404 (the homepage loads and links no
-  # way to submit), and shipordie.club no longer resolves, from GitHub's runners, from Sydney and in a browser. This does not mean the sites are healthy.
+  # way to submit), and shipordie.club and builtbyindies.com no longer resolve, from GitHub's runners, from Sydney and in a browser. This does not mean the sites are healthy.
   '^https://aiheadshothub\.com/',
   '^https://shipordie\.club/',
+  '^https://builtbyindies\.com/',
 ]
