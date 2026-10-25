@@ -374,4 +374,14 @@ exclude = [
   # 2026-10-25: Siteinspire answers GitHub's runners and non-browser requests from Sydney with Vercel's checkpoint (429), while it loaded in the
   # SubmitMyStartup browser that night. Recheck periodically. This does not mean the site is healthy.
   '^https://www\.siteinspire\.com/',
+  # 2026-10-25: intentionally linked under Reported submission problems (overnight batch 8, each checked against its source list): AI Top Rank, Aifyles,
+  # Future AGI Tools, SaaSBaba, Insanely Cool Tools and Webthat are parked, unreachable or gone. This does not mean the sites are healthy.
+  '^https://(www\.)?aitoprank\.com/',
+  '^https://(www\.)?aifyles\.com/',
+  '^https://(www\.)?futureagitools\.com/',
+  '^https://(www\.)?saasbaba\.com/',
+  '^https://(www\.)?insanelycooltools\.com/',
+  '^https://(www\.)?webthat\.io/',
+  # 2026-10-25: Design Spells answers GitHub's runners with 429 while it loaded in the SubmitMyStartup browser that night. Recheck periodically.
+  '^https://(www\.)?designspells\.com/',
 ]
