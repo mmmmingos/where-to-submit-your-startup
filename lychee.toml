@@ -403,4 +403,12 @@ exclude = [
   '^https?://(www\.)?xnavi\.ai/',
   '^https?://(www\.)?saasinfopro\.com/',
   '^https?://(www\.)?oyestartups\.com/',
+  # 2026-10-26, temporary: one paid app-review network answers Cloudflare 523 (origin unreachable) to CI and to a local check since this
+  # morning. Its rows are unchanged. The daily session rechecks them: remove this block if they're back, or move the rows to Reported problems.
+  '^https?://(www\.)?appiod\.com/',
+  '^https?://(www\.)?apps400\.com/',
+  '^https?://(www\.)?appslisto\.com/',
+  '^https?://(www\.)?appsmirror\.com/',
+  '^https?://(www\.)?appsthunder\.com/',
+  '^https?://(www\.)?webapprater\.com/',
 ]
