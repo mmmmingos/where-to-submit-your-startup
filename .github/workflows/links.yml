@@ -86,7 +86,9 @@ jobs:
         run: |
           set -euo pipefail
           today=$(date -u +%F)
-          jq -r '[(.error_map // .fail_map // {})[][] | "\(.url)\t\(.status.text // .status.code // "failed" | tostring)"] | unique | .[]' lychee/out.json > now.tsv
+          # lychee-action appends a "[Full Github Actions output](...)" link after the JSON.
+          sed -E 's/^\}\[Full Github Actions output\].*$/}/' lychee/out.json > report.json
+          jq -r '[(.error_map // .fail_map // {})[][] | "\(.url)\t\(.status.text // .status.code // "failed" | tostring)"] | unique | .[]' report.json > now.tsv
           cut -f1 now.tsv | sort -u > now.txt
           echo "Failing links this week: $(wc -l < now.txt)"
           gh label create link-check --color d93f0b --description "Weekly link check results" --force >/dev/null
