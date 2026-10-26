@@ -13,6 +13,9 @@ include_verbatim = false
 # Re-check periodically; remove an exclusion only after lychee gets a clean 2xx.
 # Note: TOML literal strings keep backslashes as-is (one \ before each regex dot).
 exclude = [
+  # The contribution guide's example rows (SUBMISSION_URL, AFFECTED_URL): a pull request's check reads changed
+  # lines without their code fences, so include_verbatim can't skip them there.
+  '(SUBMISSION|AFFECTED)_URL$',
   '^https://www\.g2\.com/',
   '^https://www\.capterra\.com/',
   '^https://www\.getapp\.com/',
