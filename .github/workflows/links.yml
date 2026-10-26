@@ -1,5 +1,11 @@
 name: Link checks
 
+# A pull request or a push checks only the links it adds or changes, so another row's flaky site
+# can't block it. Every Monday the whole list is checked, and one issue (label "link-check") lists
+# what failed: a link that failed two weeks running gets looked at; one that failed once is
+# usually a site's hiccup and is checked again the next week. The issue closes itself when every
+# link passes.
+
 on:
   push:
     branches: [main]
@@ -22,25 +28,105 @@ permissions:
   contents: read
 
 jobs:
-  check-links:
+  check-changed-links:
+    if: github.event_name == 'push' || github.event_name == 'pull_request'
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
+          fetch-depth: 0
           persist-credentials: false
-      - name: Check links
+      - name: Collect the added and changed lines
+        id: changed
+        env:
+          BASE: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
+          HEAD_SHA: ${{ github.event_name == 'pull_request' && github.event.pull_request.head.sha || github.sha }}
+        run: |
+          if [ -z "$BASE" ] || ! git cat-file -e "$BASE^{commit}" 2>/dev/null; then BASE="$HEAD_SHA~1"; fi
+          base=$(git merge-base "$BASE" "$HEAD_SHA")
+          # Written at the repository root, so relative links resolve as they do in README.md.
+          git diff --unified=0 "$base" "$HEAD_SHA" -- README.md CONTRIBUTING.md \
+            | grep '^+' | grep -v '^+++' | cut -c2- > changed-links.md || true
+          count=$(grep -oE 'https?://[^ )"<>]+' changed-links.md | sort -u | wc -l)
+          echo "Links in added or changed lines: $count"
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+      - name: Check the added and changed links
+        if: steps.changed.outputs.count != '0'
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
-          args: --config lychee.toml --verbose --no-progress README.md CONTRIBUTING.md
+          args: --config lychee.toml --verbose --no-progress changed-links.md
           fail: true
           jobSummary: true
           output: lychee/out.md
+
+  check-all-links:
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Check every link
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          args: --config lychee.toml --no-progress --format json README.md CONTRIBUTING.md
+          fail: false
+          jobSummary: false
+          output: lychee/out.json
+      - name: Update the link-check issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+          RUN_URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}
+        run: |
+          set -euo pipefail
+          today=$(date -u +%F)
+          # lychee-action appends a "[Full Github Actions output](...)" link after the JSON.
+          sed -E 's/^\}\[Full Github Actions output\].*$/}/' lychee/out.json > report.json
+          jq -r '[(.error_map // .fail_map // {})[][] | "\(.url)\t\(.status.text // .status.code // "failed" | tostring)"] | unique | .[]' report.json > now.tsv
+          cut -f1 now.tsv | sort -u > now.txt
+          echo "Failing links this week: $(wc -l < now.txt)"
+          gh label create link-check --color d93f0b --description "Weekly link check results" --force >/dev/null
+          issue=$(gh issue list --label link-check --state open --json number --jq '.[0].number // empty')
+          : > before.txt
+          if [ -n "$issue" ]; then
+            gh issue view "$issue" --json body --jq .body | sed -n 's/^<!-- failing: \(.*\) -->$/\1/p' | tr ' ' '\n' | sed '/^$/d' | sort -u > before.txt
+          fi
+          if [ ! -s now.txt ]; then
+            if [ -n "$issue" ]; then gh issue close "$issue" --comment "Every link passed on $today ($RUN_URL)."; fi
+            exit 0
+          fi
+          comm -12 before.txt now.txt > twice.txt
+          comm -13 before.txt now.txt > once.txt
+          list() { while read -r url; do printf -- '- %s (%s)\n' "$url" "$(grep -F "$url"$'\t' now.tsv | head -1 | cut -f2)"; done < "$1"; }
+          {
+            echo "The weekly link check on $today found $(wc -l < now.txt) failing links ([run]($RUN_URL))."
+            echo
+            echo "**Failed two weeks running, to look at ($(wc -l < twice.txt)):** open each one in a browser. A dead site moves to Reported submission problems, a moved one gets its new URL, and one that only refuses GitHub's runners gets a dated exclusion in lychee.toml."
+            echo
+            if [ -s twice.txt ]; then list twice.txt; else echo "None."; fi
+            echo
+            echo "**Failed this week only ($(wc -l < once.txt)):** usually a site's hiccup; checked again next week."
+            echo
+            if [ -s once.txt ]; then list once.txt; else echo "None."; fi
+            echo
+            echo "<!-- failing: $(tr '\n' ' ' < now.txt | sed 's/ $//') -->"
+          } > body.md
+          if [ -n "$issue" ]; then
+            gh issue edit "$issue" --body-file body.md
+          else
+            gh issue create --title "Weekly link check: failing links" --label link-check --body-file body.md
+          fi
       - name: Save report
         if: always()
         uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a # v7.0.1
         with:
           name: link-check-report
-          path: lychee/out.md
+          path: lychee/out.json
           if-no-files-found: warn
           retention-days: 30
