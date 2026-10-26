@@ -63,7 +63,7 @@ Mark missing information explicitly rather than guessing. Disclose if you own, w
 - Preview the README to check column order, links, and formatting.
 - Include sources and preserve review dates unless you performed a new manual review.
 
-GitHub Actions runs lychee on README.md and CONTRIBUTING.md weekly and when either file changes. It checks URL availability, not pricing or submission eligibility. You can also run it locally after installing lychee:
+GitHub Actions runs lychee on the links a pull request adds or changes in README.md and CONTRIBUTING.md, so another entry's flaky site can't block your change. Every Monday it checks every link and keeps one issue, labelled `link-check`, listing what failed; links that fail two weeks running get looked at. It checks URL availability, not pricing or submission eligibility. You can also run it locally after installing lychee:
 
 ```sh
 lychee --config lychee.toml README.md CONTRIBUTING.md
