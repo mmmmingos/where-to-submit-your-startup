@@ -2,34 +2,48 @@
 
 [![Link checks](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml/badge.svg)](https://github.com/mmmmingos/where-to-submit-your-startup/actions/workflows/links.yml)
 
-An open-source library of places to submit your startup. It's the most up-to-date and most comprehensive list of its kind.
+An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-To filter the list or plan a launch, use the planner at [submitmystartup.com](https://submitmystartup.com/).
+**942 places** · 58 free · 448 free with a catch · 177 paid · 228 reported problems · last checked 25 Oct 2026
 
-**Ask your AI agent where to launch.** The list is also a skill for Claude Code, Codex, Cursor, and other agents:
+[![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
+
+<a name="skill"></a>
+<details>
+<summary><b>Add the skill to your AI agent</b></summary>
+
+For Claude Code, Codex, Cursor, and other agents that read skills:
 
 ```sh
 npx skills add mmmmingos/where-to-submit-your-startup
 ```
 
-In Claude Code it is also a plugin, with the MCP server included: `/plugin marketplace add mmmmingos/where-to-submit-your-startup`, then `/plugin install where-to-submit-your-startup@submitmystartup`. In Claude, ChatGPT, and other chat apps, add the free MCP server instead ([setup](https://submitmystartup.com/mcp-server/)). The skill and the server read this list through submitmystartup.com's read-only API, with no account or key.
+In Claude, ChatGPT, and other chat apps, add the free [MCP server](https://submitmystartup.com/mcp-server/) instead. Both read the list through submitmystartup.com's read-only API, with no account or key.
+
+</details>
+
+**What the skill knows about a place.** Ask your agent "Should I launch on LaunchIgniter?" and it answers from a record like this one (from the MCP server on 2026-10-26, shortened):
+
+```json
+{
+  "name": "LaunchIgniter",
+  "free": "Yes*",
+  "cost": "Free, with a catch (see notes); a paid option from $12 USD one-time was seen",
+  "needs": ["an account", "a badge or backlink on your site"],
+  "wait": "Free launch set for 1 to 7 February 2027, after review (seen 2026-09-25)",
+  "accepts": { "products": "any", "audience": "any", "stage": "any", "region": { "scope": "global" } },
+  "cheapestPaid": { "amount": 12, "currency": "USD", "period": "one-time", "name": "Basic Launch" },
+  "notes": "Free Launch ($0) after account signup; homepage badge required for the free path. Paid Basic $12 and Pro $15 optional.",
+  "myAttempt": "In progress: pending Week 5, 2027 (Feb 1-7)",
+  "lastChecked": "2026-09-25"
+}
+```
 
 **Jump to:** [Directories](#directories--submission-services) · [Only for some startups](#only-for-some-startups) · [Reddit](#reddit-communities) · [Problems](#reported-submission-problems) · [Contribute](#contribute)
 
-## How to read the list
-
-| Free? | Meaning |
-| --- | --- |
-| Yes | Free, with no real catch. |
-| Yes* | Free, with a catch: a badge on your site, a long queue, a gate on who can apply, or a paid skip. |
-| No | Paid only. |
-| Unknown | Not confirmed yet. |
-
 ## Directories & submission services
 
-Directories, launch sites, company profiles, review sites, and submission services, A to Z.
-
-Notes, prices, and requirements for each place are on [submitmystartup.com](https://submitmystartup.com/), and through its [MCP server and skill](https://submitmystartup.com/mcp-server/).
+Directories, launch sites, company profiles, review sites, and submission services, A to Z. Free?: **Yes** free · **Yes\*** free with a catch (a badge on your site, a long queue, a gate on who can apply, or a paid skip) · **No** paid only · **Unknown** not confirmed yet.
 
 <table>
 <thead>
@@ -401,8 +415,6 @@ Notes, prices, and requirements for each place are on [submitmystartup.com](http
 
 Places limited to a region, an audience, or a kind of product such as AI. The gate is the catch, so a free path here is Yes*.
 
-Notes, prices, and requirements for each place are on [submitmystartup.com](https://submitmystartup.com/), and through its [MCP server and skill](https://submitmystartup.com/mcp-server/).
-
 <table>
 <thead>
   <tr><th align="left" scope="col" width="230">Site</th><th align="left" scope="col" width="80">Free?</th><th align="left" scope="col" width="120">Last checked</th></tr>
@@ -755,8 +767,6 @@ Notes, prices, and requirements for each place are on [submitmystartup.com](http
 
 Communities that ban promotion or ads are under [Reported submission problems](#reported-submission-problems).
 
-Notes, prices, and requirements for each place are on [submitmystartup.com](https://submitmystartup.com/), and through its [MCP server and skill](https://submitmystartup.com/mcp-server/).
-
 <table>
 <thead>
   <tr><th align="left" scope="col" width="230">Community</th><th align="left" scope="col" width="80">Free?</th><th align="left" scope="col" width="120">Last checked</th></tr>
@@ -784,8 +794,6 @@ Notes, prices, and requirements for each place are on [submitmystartup.com](http
 ## Reported submission problems
 
 Dead sites, broken forms, and communities closed to promotion, so you can skip them. Things change, so a site here may come back.
-
-Notes, prices, and requirements for each place are on [submitmystartup.com](https://submitmystartup.com/), and through its [MCP server and skill](https://submitmystartup.com/mcp-server/).
 
 <table>
 <thead>
