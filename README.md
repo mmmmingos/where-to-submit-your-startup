@@ -129,6 +129,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://directory.top/submit">Directory.Top</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.directree.io/submit">Directree</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://dirs.cc/submit">Dirs.cc</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://discoverlaunches.com/submit">DiscoverLaunches</a></td><td>Yes*</td><td nowrap>2026-10-28</td></tr>
   <tr><td><a href="https://dododirectory.com/submit">DodoDirectory</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://dofollow.tools/submit">Dofollow.Tools</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://domainrating.lol/submit">DomainRating.lol</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
