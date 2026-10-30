@@ -369,6 +369,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://tooldirs.com/submit">ToolDirs</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://toolfame.com/submit">ToolFame</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://toolfolio.com/boosted-listing">Toolfolio</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://toolfound.com/submit">Toolfound</a></td><td>Yes*</td><td nowrap>2026-10-30</td></tr>
   <tr><td><a href="https://toolhub.me/pages/submit/">ToolHub</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.toolkitly.com/">Toolkitly</a></td><td>No</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://toolsnocode.com/">Tools NoCode</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
