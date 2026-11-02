@@ -135,6 +135,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://e27.co/startup/create/profile/">e27</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://earlyhunt.com/submit">EarlyHunt</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://earlylaunch.co/submit/">EarlyLaunch.co</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://earlylore.com/">EarlyLore</a></td><td>Yes*</td><td nowrap>2026-11-02</td></tr>
   <tr><td><a href="https://www.ebool.com/submit">eBool</a></td><td>Yes*</td><td nowrap>2026-09-25</td></tr>
   <tr><td><a href="https://www.elitedir.com/submit-a-listing.html">Elite Directory</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://emojilaunch.com/submit">Emoji Launch</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
