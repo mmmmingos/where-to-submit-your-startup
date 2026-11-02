@@ -275,6 +275,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://resource.fyi/">Resource.fyi</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://retrolaunch.io/contact">Retro Launch</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.revispy.com/launchpad">Revispy Launchpad</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://robodebut.com/submit-with-a-coding-agent">RoboDebut</a></td><td>Yes*</td><td nowrap>2026-11-02</td></tr>
   <tr><td><a href="https://www.s5-style.com/submit/guest/">S5-Style</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://saasbison.com/submit">SaaS Bison</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://saascss.com/">SaaS CSS</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
