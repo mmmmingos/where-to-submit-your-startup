@@ -429,6 +429,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://1payment.tools/">1payment.tools</a></td><td>Unknown</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.360quadrants.com/">360Quadrants</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.addaidirectory.com/">Add AI Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://aidirs.best/">Aidirs</a></td><td>Yes*</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://www.agenthunter.io/submit">AgentHunter</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://agentmrr.com/docs/submit">AgentMRR</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://agentsindex.ai/submit">AgentsIndex</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
