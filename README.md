@@ -309,6 +309,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.sitepromotiondirectory.com/submit.php">Site Promotion Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.siteswebdirectory.com/submit.php">Site Web Directory</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://www.sites-plus.com/submit">Site-Plus</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://siteefy.com/submit-tool?utm_source=submitmystartup">Siteefy</a></td><td>Yes*</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://www.siteinspire.com/">Siteinspire</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.sitelike.org/">SiteLike</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://sourceforge.net/software/vendors/new?site_change=sf&origin=sd">Slashdot</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
