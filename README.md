@@ -675,6 +675,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.provenexpert.com/en-us/register/">Proven Expert</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://publicapis.dev/submit">Public APIs</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.publicprompts.art/submit">Public Prompts</a></td><td>No</td><td nowrap>2026-10-19</td></tr>
+<tr><td><a href="https://pwa.directory/submit">PWA Directory</a></td><td>Yes*</td><td nowrap>2026-11-05</td></tr>
   <tr><td><a href="https://www.rankmyai.com/tool-addition">RankmyAI</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://rankyourai.com/p/submit/">RankYourAI</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.reviano.com/">Reviano</a></td><td>Unknown</td><td nowrap>2026-10-25</td></tr>
@@ -762,6 +763,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://victrays.com/">Victrays</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://waildworld.com/">WaildWorld</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://weliketools.com/submit">We Like Tools</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+<tr><td><a href="https://webapps.directory/submit">WebApps Directory</a></td><td>Yes*</td><td nowrap>2026-11-05</td></tr>
   <tr><td><a href="https://whatisaitools.com/submit">What Is AI Tools</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://whattheai.tech/submit">WhatTheAI</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://woy.ai/submit">Woy.ai</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
