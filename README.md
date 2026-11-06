@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**1048 places** · 72 free · 482 free with a catch · 202 paid · 261 reported problems · last checked 6 Nov 2026
+**1055 places** · 73 free · 484 free with a catch · 203 paid · 264 reported problems · last checked 6 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -457,6 +457,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://aiagentslive.com/agents/submit/1">AI Agents Live</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://trillionagent.com/register-agent/">AI Agents Marketplace</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aiagentsverse.com/submit-ai-agent/">AI Agents Verse</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://aiawesome.com/">AI Awesome</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aicenter.ai/submit-tools">AI Center</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aidepot.co/">AI Depot</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.aidirectori.es/">AI Directories</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -495,6 +496,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://aitooltrek.com/submit">AI Tool Trek</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.aitoolhouse.com/get-featured">AI Toolhouse</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://aitools.inc/submit">AI Tools</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://aitoolscover.com/submit">AI Tools Cover</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitoolsdirectory.com/submit-tool">AI Tools Directory</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aitoolsexplorer.com/submit-ai-tool/">AI Tools Explorer</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aitoolslist.io/submit-ai-tool/">AI Tools List</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
@@ -527,6 +529,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.aigc.cn/submit">AIGC Navigation</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aigo.tools/submit">AIGO.tools</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://aihunt.app/submit">AiHunt</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://ailistify.com/">AIListify</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aimatch.pro/list">AiMatchPro</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aimonstr.com/">AIMonstr</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.ainav.cn/%e6%8f%90%e4%ba%a4%e7%bd%91%e7%ab%99">AInav</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
@@ -646,6 +649,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://glama.ai/mcp/connectors">Glama MCP Connectors</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.gptacademy.co/submit">GPT Academy</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://gpt3demo.com/partner/request">GPT3 Demo</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://gpt4demo.com/">GPT4Demo</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.gptdemo.net/gpt/add-tool?lg=en">GptDemo.net</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.grabon.in/indulge/ai-tools/">GrabOn AI Directory</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://groupify.ai/new-tool-form">GroupifyAI</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
@@ -880,6 +884,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://aicorner.net/submit-tool">AI Corner</a></td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aidir.wiki/">AI Dir</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aidirectory.wiki/">AI Directory</a></td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://ai-futuretools.com/">AI Future Tools</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aiheadshothub.com/">AI Headshot Hub</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://ainavbar.com/">AI Navbar</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aipediahub.com/">AI Pedia Hub</a></td><td nowrap>2026-10-08</td></tr>
@@ -888,6 +893,8 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://airesourcepro.com/">AI Resource Pro</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://aiscout.net/">AI Scout</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://ai-sites.net/">AI Sites Net</a></td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://aisourcehub.com/ai-tools">AI Source Hub</a></td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://aispaces.in/">AI Spaces</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aistartups.net/">AI Startups</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aitoolapp.com/">AI Tool App</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitooldetails.com/">AI Tool Details</a></td><td nowrap>2026-10-04</td></tr>

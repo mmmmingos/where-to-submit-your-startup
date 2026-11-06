@@ -445,4 +445,8 @@ exclude = [
   '^https?://(www\.)?toolsai\.net/',
   '^https?://(www\.)?theaireports\.com/',
   '^https?://(www\.)?topai\.fyi/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 9): AI Source Hub's domain does not exist,
+  # and AI Future Tools now redirects to a gambling site.
+  '^https?://(www\.)?aisourcehub\.com/',
+  '^https?://(www\.)?ai-futuretools\.com/',
 ]
