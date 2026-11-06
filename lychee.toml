@@ -422,4 +422,7 @@ exclude = [
   '^https?://(www\.)?smbtoolset\.com/',
   '^https?://(www\.)?topindie\.dev/',
   '^https?://(www\.)?indielaun\.ch/',
+  # 2026-11-06: Ant Directory answered GitHub's runners with 403 on the link check of the batch 3 PR, while it answered
+  # 200 to a browser user agent from here the same day, when we submitted.
+  '^https://antdirectory\.com/',
 ]
