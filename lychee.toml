@@ -436,4 +436,6 @@ exclude = [
   # 2026-11-06: TopTool answers 429 to non-browser requests (GitHub's runners and curl from here), while the browser
   # loaded its submit page the same day.
   '^https?://(www\.)?toptool\.app/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 6): AI Bucket's HTTPS fails (unsupported protocol).
+  '^https?://(www\.)?aibucket\.io/',
 ]
