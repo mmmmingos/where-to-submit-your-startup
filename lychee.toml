@@ -406,4 +406,8 @@ exclude = [
   '^https?://(www\.)?xnavi\.ai/',
   '^https?://(www\.)?saasinfopro\.com/',
   '^https?://(www\.)?oyestartups\.com/',
+  # 2026-11-06: intentionally linked under Reported submission problems: Oddly List answered HTTP 504 on 2026-10-08 and
+  # all afternoon on 2026-11-06, and store.app's domain no longer resolves (its own nameservers refuse it).
+  '^https://oddlylist\.com/',
+  '^https://store\.app/',
 ]
