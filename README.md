@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**957 places** · 61 free · 460 free with a catch · 177 paid · 228 reported problems · last checked 6 Nov 2026
+**962 places** · 63 free · 463 free with a catch · 177 paid · 228 reported problems · last checked 6 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -157,7 +157,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.flamingodirectory.com/submit.html">Flamingo Directory</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://flattrendz.com/submit-a-site/">Flat Trendz</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://flatui.com/submit-flat-ui-designs/">Flat UI</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
-  <tr><td><a href="https://foundersengineroom.com/join">Founders Engine Room</a></td><td>Yes</td><td nowrap>2026-11-03</td></tr>
+  <tr><td><a href="https://foundersengineroom.com/join">Founders Engine Room</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.founders.page/signup">founders.page</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://www.foundrlist.com/submit">Foundrlist</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://link.fountn.design/submit">Fountn</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
@@ -211,7 +211,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.launchory.app/submit">Launchory</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://launchpadly.co/submit">Launchpadly</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.launchpanda.dev/">LaunchPanda</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
-  <tr><td><a href="https://launchwren.com/submit">LaunchWren</a></td><td>Yes*</td><td nowrap>2026-11-05</td></tr>
+  <tr><td><a href="https://launchwren.com/submit">LaunchWren</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://launchy.tools/submit">Launchy</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://liftoapp.com/submit">Lifto</a></td><td>Yes</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.linkcentre.com/addurl/">Link Centre</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
@@ -275,7 +275,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.qualityinternetdirectory.com/submit.php">Quality Internet Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://radarmakers.com/submit">RadarMakers</a></td><td>Yes*</td><td nowrap>2026-10-24</td></tr>
   <tr><td><a href="https://ramen.tools/">ramen.tools</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
-  <tr><td><a href="https://rankcert.com/home/products/new">RankCert</a></td><td>Yes*</td><td nowrap>2026-11-02</td></tr>
+  <tr><td><a href="https://rankcert.com/home/products/new">RankCert</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://rankinpublic.xyz/launch">RankInPublic.xyz</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://recent.design/">Recent</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://resource.fyi/">Resource.fyi</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -403,6 +403,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.webdesignernews.com/advertise">Web Designer News</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.webguruawards.com/site-submit">Web Guru Awards</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://web-review.com/submit">web-review</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://webapps.directory/submit">WebApps Directory</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://webcatalog.io/en/apps/submit">WebCatalog</a></td><td>Yes</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://webcurate.co/">Webcurate</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.webdesign-inspiration.com/web-design-site/submit">Webdesign Inspiration</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
@@ -685,7 +686,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.provenexpert.com/en-us/register/">Proven Expert</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://publicapis.dev/submit">Public APIs</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.publicprompts.art/submit">Public Prompts</a></td><td>No</td><td nowrap>2026-10-19</td></tr>
-<tr><td><a href="https://pwa.directory/submit">PWA Directory</a></td><td>Yes*</td><td nowrap>2026-11-05</td></tr>
+  <tr><td><a href="https://pwa.directory/submit">PWA Directory</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.rankmyai.com/tool-addition">RankmyAI</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://rankyourai.com/p/submit/">RankYourAI</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.reviano.com/">Reviano</a></td><td>Unknown</td><td nowrap>2026-10-25</td></tr>
@@ -774,7 +775,6 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://victrays.com/">Victrays</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://waildworld.com/">WaildWorld</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://weliketools.com/submit">We Like Tools</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
-<tr><td><a href="https://webapps.directory/submit">WebApps Directory</a></td><td>Yes*</td><td nowrap>2026-11-05</td></tr>
   <tr><td><a href="https://whatisaitools.com/submit">What Is AI Tools</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://whattheai.tech/submit">WhatTheAI</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://woy.ai/submit">Woy.ai</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
