@@ -273,6 +273,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.qualityinternetdirectory.com/submit.php">Quality Internet Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://radarmakers.com/submit">RadarMakers</a></td><td>Yes*</td><td nowrap>2026-10-24</td></tr>
   <tr><td><a href="https://ramen.tools/">ramen.tools</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://rankcert.com/home/products/new">RankCert</a></td><td>Yes*</td><td nowrap>2026-11-02</td></tr>
   <tr><td><a href="https://rankinpublic.xyz/launch">RankInPublic.xyz</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://recent.design/">Recent</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://resource.fyi/">Resource.fyi</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
