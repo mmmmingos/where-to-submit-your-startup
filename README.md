@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**1038 places** · 72 free · 482 free with a catch · 200 paid · 253 reported problems · last checked 6 Nov 2026
+**1048 places** · 72 free · 482 free with a catch · 202 paid · 261 reported problems · last checked 6 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -563,6 +563,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://appscribed.com/submit-ai-tool/">Appscribed</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://arcticstartup.com/">Arctic Startup</a></td><td>Unknown</td><td nowrap>2026-09-29</td></tr>
   <tr><td><a href="https://astrodir.com/">AstroDir</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://atozaitools.com/">AtoZ AI Tools</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://appsandwebsites.com/">Awesome AI &amp; SaaS Tools</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://awesomeaitools.com/submit-your-tool">Awesome AI Tools</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.b2bstack.com.br/">B2B Stack</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -788,6 +789,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.tipseason.com/ai-tools/submit-free">TipSeason</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.toolai.io/submit/tool">Tool AI</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://tooldirectory.ai/submit-tool">Tool Directory</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://www.toolbit.ai/">Toolbit AI</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://toolbloom.ai/en/submit-tool">ToolBloom</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://toolfio.com/submit">Toolfio</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://toolhunter.ai/">ToolHunter.ai</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
@@ -887,9 +889,11 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://aiscout.net/">AI Scout</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://ai-sites.net/">AI Sites Net</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aistartups.net/">AI Startups</a></td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://aitoolapp.com/">AI Tool App</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitooldetails.com/">AI Tool Details</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.aitoollist.org/submit-a-tool">AI Tool List</a></td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.aitoolhunt.com/">AI Toolhunt</a></td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://aitoolkits.net/">AI Toolkits</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitoolsarena.com/">AI Tools Arena</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://aitools.neilpatel.com/submit/">AI Tools by Neil Patel</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aitoolscorner.com/">AI Tools Corner</a></td><td nowrap>2026-10-04</td></tr>
@@ -907,6 +911,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://www.aicyclopedia.com/">AICYCLOPEDIA</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://aifyles.com/">Aifyles</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://aigadget.io/">AIGadget</a></td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://aigendaily.com/">Aigen Daily</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aimiracle.ai/">AIMiracle MAG</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://ainavigationsite.com/">AINavigationSite</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.aisupersmart.com/ai-tools-directory/">AISuperSmart</a></td><td nowrap>2026-10-07</td></tr>
@@ -992,6 +997,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://indielaun.ch/">IndieLaunch</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://indiestack.co/">IndieStack</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://innovativ.es/">Innovativ.es</a></td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://insaneai.tools/">Insane AI Tools</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://insanelycooltools.com/">Insanely Cool Tools</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://instantai.io/">InstantAI</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://itsbetterwithai.com/submit-ai/">It's Better With AI</a></td><td nowrap>2026-11-06</td></tr>
@@ -1088,6 +1094,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://takeai.org/">TakeAI</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://techfaster.com/">Tech Faster</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.theaigeneration.com/add/">The AI Generation</a></td><td nowrap>2026-10-24</td></tr>
+  <tr><td><a href="https://theaireports.com/">The AI Reports</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://thewarehouse.ai/">The AI Warehouse</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://ai-tools.directory/">The Directory for AI Tools</a></td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://thenextaidirectory.com/">The Next AI Directory</a></td><td nowrap>2026-11-06</td></tr>
@@ -1097,12 +1104,15 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://theee.ai/">Theee.ai</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://toolsalad.com/submit">Tool Salad</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://toolsummary.com/">Tool Summary</a></td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://tooladvisor.ai/">ToolAdvisor</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://toolfinder.wiki/">ToolFinder</a></td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://toolhunt.io/">ToolHunt</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://toolshubai.com/">Tools Hub AI</a></td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://toolsai.net/">ToolsAI.net</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.toolwave.io/">Toolwave.io</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.topbestalternatives.com/">Top Best Alternatives</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://toptools.ai/submit">Top Tools</a></td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://topai.fyi/">TopAI.fyi</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://topapps.ai/">TopApps</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://topindie.dev/">TopIndie.dev</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.topionetworks.com/">Topio Networks</a></td><td nowrap>2026-10-14</td></tr>
