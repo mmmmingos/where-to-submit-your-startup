@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**949 places** · 60 free · 453 free with a catch · 177 paid · 228 reported problems · last checked 26 Oct 2026
+**952 places** · 60 free · 456 free with a catch · 177 paid · 228 reported problems · last checked 6 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -82,6 +82,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://awesomeindie.com/submit">Awesome Indie</a></td><td>Yes*</td><td nowrap>2026-09-25</td></tr>
   <tr><td><a href="https://www.awwwards.com/submit/">Awwwards</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.bestcss.in/freesubmit">Best CSS</a></td><td>Yes</td><td nowrap>2026-10-26</td></tr>
+  <tr><td><a href="https://bestdirectories.org/submit">Best Directories</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://bestwebsites.info/en/submit">BestWebsites</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://betabound.com/">Beta Bound</a></td><td>Yes*</td><td nowrap>2026-09-26</td></tr>
   <tr><td><a href="https://betatesting.com/">Beta Testing</a></td><td>No</td><td nowrap>2026-09-24</td></tr>
@@ -314,6 +315,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://sourceforge.net/software/vendors/new?site_change=sf&origin=sd">Slashdot</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://smollaunch.com/">Smol Launch</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.snapmunk.com/submit-your-startup/">SnapMunk</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://softwareontheweb.com/add-product">Software on the Web</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://somuch.com/submit-links/">SoMuch</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://stackshare.io/">StackShare</a></td><td>Yes</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://startap.cc/play">StarTap</a></td><td>Yes</td><td nowrap>2026-10-07</td></tr>
@@ -452,6 +454,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://aijet.cc/submit">AI Jet</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://aijourney.so/submit-ai-tool">AI Journey</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aijustbetter.com/">AI Just Better</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://ailaunch.space/submit?plan=standard">AI Launch Space</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://ailib.ru/en/add-ai/free/">AI Lib</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://www.theailibrary.co/pricing">AI Library</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.aimarketing.directory/submit">AI Marketing Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
