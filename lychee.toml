@@ -438,4 +438,11 @@ exclude = [
   '^https?://(www\.)?toptool\.app/',
   # 2026-11-06: intentionally linked under Reported submission problems (batch 6): AI Bucket's HTTPS fails (unsupported protocol).
   '^https?://(www\.)?aibucket\.io/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 8): two domains for sale, an expired
+  # certificate, a site taken offline (410) and a domain that does not resolve.
+  '^https?://(www\.)?aigendaily\.com/',
+  '^https?://(www\.)?insaneai\.tools/',
+  '^https?://(www\.)?toolsai\.net/',
+  '^https?://(www\.)?theaireports\.com/',
+  '^https?://(www\.)?topai\.fyi/',
 ]
