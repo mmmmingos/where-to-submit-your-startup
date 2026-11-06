@@ -129,6 +129,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://directoryworld.net/">Directory World</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://directory.top/submit">Directory.Top</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.directree.io/submit">Directree</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://dirrove.com/">DirRove</a></td><td>Yes*</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://dirs.cc/submit">Dirs.cc</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://discoverlaunches.com/submit">DiscoverLaunches</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://dododirectory.com/submit">DodoDirectory</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
@@ -213,6 +214,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.launchpanda.dev/">LaunchPanda</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://launchwren.com/submit">LaunchWren</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://launchy.tools/submit">Launchy</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://launchrove.com/">LaunchRove</a></td><td>Yes*</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://liftoapp.com/submit">Lifto</a></td><td>Yes</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.linkcentre.com/addurl/">Link Centre</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.linkvertex.com/submit-a-link/">LinkVertex</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
@@ -301,6 +303,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://saaspo.com/submit">Saaspo</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.saasquirrel.com/submit">SaaSquirrel</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://saassy-board.com/">Saassy Board</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://saasrove.com/">SaaSRove</a></td><td>Yes*</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://www.scrolllaunch.com/">ScrollLaunch</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://tally.so/r/wd90Pd">Seesaw</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://semilaunch.com/submit">SemiLaunch</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
@@ -436,6 +439,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://1payment.tools/">1payment.tools</a></td><td>Unknown</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.360quadrants.com/">360Quadrants</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.addaidirectory.com/">Add AI Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://aidirs.best/">Aidirs</a></td><td>Yes*</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://www.agenthunter.io/submit">AgentHunter</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://agentmrr.com/docs/submit">AgentMRR</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://agentsindex.ai/submit">AgentsIndex</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
@@ -577,6 +581,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://devhunt.org/">DevHunt</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://devpages.io/submit-a-tool">DevPages</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://devsuite.co/submit">DevSuite</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://devrove.com/">DevRove</a></td><td>Yes*</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://devtool.io/submit-tool">DevTool.io</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.dir2ai.com/submit">Dir2AI</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.dodomrr.com/">DodoMRR</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
