@@ -246,7 +246,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://open-launch.com/projects/submit">Open Launch</a></td><td>Yes*</td><td nowrap>2026-10-02</td></tr>
   <tr><td><a href="https://openmakers.io/add-product">Open Makers</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://openhunts.com/projects/submit">OpenHunts</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
-  <tr><td><a href="https://orpetron.com/submit-site/?plan=free">Orpetron</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://orpetron.com/submit-site/?plan=free">Orpetron</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://outbid.lol/">Outbid</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://owwly.com/">Owwly</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://peerlist.io/launchpad">Peerlist Launchpad</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
