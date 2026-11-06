@@ -457,4 +457,7 @@ exclude = [
   # 2026-11-06: DirJournal answered GitHub's runners with 403 on the batch 11 link check, while its free submission page
   # loaded in the browser the same day.
   '^https?://(www\.)?dirjournal\.com/',
+  # 2026-11-07: intentionally linked under Reported submission problems (batch 12): Callupcontact's domain is a parking page
+  # and fails the TLS handshake.
+  '^https?://(www\.)?callupcontact\.com/',
 ]
