@@ -431,4 +431,9 @@ exclude = [
   '^https?://(www\.)?thenextaidirectory\.com/',
   '^https?://(www\.)?yoursaasweb\.com/',
   '^https?://(www\.)?masterlistai\.com/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 5): AIApps.com answered HTTP 502 twice.
+  '^https?://(www\.)?aiapps\.com/',
+  # 2026-11-06: TopTool answers 429 to non-browser requests (GitHub's runners and curl from here), while the browser
+  # loaded its submit page the same day.
+  '^https?://(www\.)?toptool\.app/',
 ]

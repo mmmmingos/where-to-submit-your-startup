@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**997 places** · 65 free · 476 free with a catch · 181 paid · 244 reported problems · last checked 6 Nov 2026
+**1010 places** · 66 free · 479 free with a catch · 185 paid · 249 reported problems · last checked 6 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -335,6 +335,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://startap.cc/play">StarTap</a></td><td>Yes</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://starterbest.com/submit">Starter Best</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://startfa.st/submit">StartFast</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://starthub.zip/submit">starthub.zip</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://startup88.com/">Startup 88</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://startupbeat.com/startup-beat-featured-startup-pitch-guidelines/">StartUp Beat</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://startupbuffer.com/site/submit">Startup Buffer</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -562,9 +563,11 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://beingguru.com/submit-startup/">Being Guru</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.startupaitools.com/submit-ai-tools/">Best AI Tools</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://bestaitoolsforthat.com/">Best AI Tools Directory</a></td><td>Unknown</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://bestfreeaiwebsites.com/submit-tool/">Best Free AI Websites</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://bestofai.io/submit/">Best of AI</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://bestwebdesigntools.com/submit">Best Web Design Tools</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://best-ai.org/submit-tool">Best-AI.org</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
+  <tr><td><a href="https://www.bestaitools.com/tool-suggestion-form/">BestAITools</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.beyondaitools.com/product/submit">Beyond AI Tools</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://bizbot.com/">BizBot</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://brofindai.com/submit">Bro Find AI</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
@@ -579,6 +582,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://confettisaas.com/">ConfettiSaaS</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.content-and-marketing.com/submit-a-tool/">Content &amp; Marketing</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.craked.dev/products">craked.dev</a></td><td>Unknown</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://creati.ai/submit-ai/submit-your-ai/">Creati.ai</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.crowdreviews.com/">CrowdReviews</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://vendor.crozdesk.com/user/signup">CrozDesk</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://curateclick.com/submit?package=free">CurateClick</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
@@ -623,6 +627,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.usefuturestack.com/submit">FutureStack</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="http://fwol.cn/infos_add.php">FWOL</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.geekwire.com/submit-startup/">GeekWire</a></td><td>Yes*</td><td nowrap>2026-09-26</td></tr>
+  <tr><td><a href="https://genai.works/applications">GenAI.Works</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://genify.dev/submit">Genify</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://getlatka.com/add">GetLatka</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://glama.ai/mcp/connectors">Glama MCP Connectors</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -693,6 +698,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://perfectstack.ai/">PerfectStack</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://phototoolfinder.com/submit">PhotoToolFinder</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://library.phygital.plus/tool-submission">Phygital+ AI Library</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://pickaitool.com/submit-listing/">Pick AI Tool</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.platformsdirectory.com/">PlatformsDirectory.com</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://popularaitools.ai/submit-a-tool">PopularAiTools.ai</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://poweredbyai.app/submit-tool">PoweredByAI</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
@@ -746,6 +752,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://techmap.me/">Tech Map</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://techboard.com.au/get-listed/">Techboard</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.techjockey.com/">Techjockey</a></td><td>Unknown</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://techpilot.ai/contact/">TechPilot AI</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.tenereteam.com/submit-tools">TenereTeam</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://thankjohn.com/get-started">Thank John</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://thatsmy.ai/submit-tool">ThatsMyAI</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
@@ -779,6 +786,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://topai.tools/submit">TopAI.tools</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.topaitools4u.site/submit">TopAITools4U</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://topfreeaitools.com/">TopFreeAITools</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
+  <tr><td><a href="https://www.toptool.app/en/submit">TopTool</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://trust-revenue.com/">Trust Revenue</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://trustmrr.com/">TrustMRR</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://business.trustpilot.com/signup">Trustpilot</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -868,6 +876,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://aitoolspin.com/">AI Tools Pin</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.aitoppicks.com/">AI Top Picks</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.aitoprank.com/">AI Top Rank</a></td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://aiapps.com/">AIApps.com</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aibesttop.com/submit">AIBestTop Tools</a></td><td nowrap>2026-10-24</td></tr>
   <tr><td><a href="https://www.aicyclopedia.com/">AICYCLOPEDIA</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://aifyles.com/">Aifyles</a></td><td nowrap>2026-10-25</td></tr>
@@ -971,6 +980,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://app.loopinput.com/">Loop</a></td><td nowrap>2026-09-29</td></tr>
   <tr><td><a href="https://getmakerlog.com/">Makerlog</a></td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://makerthrive.com/">MakerThrive</a></td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://mangoai.co/">Mango AI</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://marketingtoolslist.com/">Marketing Tools List</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://masterlistai.com/">Master List AI</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.microstartups.co/">MicroStartups</a></td><td nowrap>2026-10-04</td></tr>
@@ -1022,6 +1032,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://softwareselecthq.com/">Software Select</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://softwaresupp.com/">SoftwareSupp</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://solopush.com/">Solo Push</a></td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://soverin.ai/">Soverin AI</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://spaceofai.tools/">Space of AI</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://stackviv.ai/">Stackviv</a></td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://starticorn.com/submit">Starticorn</a></td><td nowrap>2026-10-04</td></tr>
@@ -1059,6 +1070,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://toolsalad.com/submit">Tool Salad</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://toolsummary.com/">Tool Summary</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://toolfinder.wiki/">ToolFinder</a></td><td nowrap>2026-10-03</td></tr>
+  <tr><td><a href="https://toolhunt.io/">ToolHunt</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://toolshubai.com/">Tools Hub AI</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.toolwave.io/">Toolwave.io</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.topbestalternatives.com/">Top Best Alternatives</a></td><td nowrap>2026-10-25</td></tr>
@@ -1079,6 +1091,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://www.whatsnewonthenet.com/">What's New on the Net</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://where2go.com/binn/su.w2g?function=form">Where2Go</a></td><td nowrap>2026-10-24</td></tr>
   <tr><td><a href="https://wikiaitools.com/">Wiki AI Tools</a></td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://wisepickai.com/">WisePickAI</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://xnavi.ai/">Xnavi AI</a></td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://yaatd.com/">Yet Another AI Tool Directory</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://yoursaasweb.com/">Your SaaS</a></td><td nowrap>2026-11-06</td></tr>
