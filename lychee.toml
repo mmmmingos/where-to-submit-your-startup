@@ -431,4 +431,6 @@ exclude = [
   '^https?://(www\.)?thenextaidirectory\.com/',
   '^https?://(www\.)?yoursaasweb\.com/',
   '^https?://(www\.)?masterlistai\.com/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 5): AIApps.com answered HTTP 502 twice.
+  '^https?://(www\.)?aiapps\.com/',
 ]
