@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**962 places** · 63 free · 463 free with a catch · 177 paid · 228 reported problems · last checked 6 Nov 2026
+**963 places** · 63 free · 464 free with a catch · 177 paid · 228 reported problems · last checked 6 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -80,6 +80,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://askaiforit.com/submit">Ask AI For It</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://auraplusplus.com/projects/submit">Aura</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://awesomeindie.com/submit">Awesome Indie</a></td><td>Yes*</td><td nowrap>2026-09-25</td></tr>
+  <tr><td><a href="https://awesome.tools/submit">Awesome Tools</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.awwwards.com/submit/">Awwwards</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.bestcss.in/freesubmit">Best CSS</a></td><td>Yes</td><td nowrap>2026-10-26</td></tr>
   <tr><td><a href="https://bestdirectories.org/submit">Best Directories</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
