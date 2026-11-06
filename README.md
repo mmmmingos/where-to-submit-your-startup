@@ -222,6 +222,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://marketingdb.live/submit/plan">MarketingDB</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://mavtools.com/list-my-tool/">MavTools</a></td><td>No</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://maxibestof.one/submit">MaxiBestOf</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://meetnewai.com/">MeetNewAI</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://mergeek.com/zh/publish_project">Mergeek</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.meritdirectory.com/">Merit Directory</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://microlaunch.net/">Microlaunch</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
