@@ -157,6 +157,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.flamingodirectory.com/submit.html">Flamingo Directory</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://flattrendz.com/submit-a-site/">Flat Trendz</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://flatui.com/submit-flat-ui-designs/">Flat UI</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://foundersengineroom.com/join">Founders Engine Room</a></td><td>Yes</td><td nowrap>2026-11-03</td></tr>
   <tr><td><a href="https://www.founders.page/signup">founders.page</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://www.foundrlist.com/submit">Foundrlist</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://link.fountn.design/submit">Fountn</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
