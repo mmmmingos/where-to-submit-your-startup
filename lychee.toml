@@ -425,4 +425,10 @@ exclude = [
   # 2026-11-06: Ant Directory answered GitHub's runners with 403 on the link check of the batch 3 PR, while it answered
   # 200 to a browser user agent from here the same day, when we submitted.
   '^https://antdirectory\.com/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 4): a parked domain, a read-only site,
+  # a domain that does not exist, and one whose name servers refuse it.
+  '^https?://(www\.)?aigadget\.io/',
+  '^https?://(www\.)?thenextaidirectory\.com/',
+  '^https?://(www\.)?yoursaasweb\.com/',
+  '^https?://(www\.)?masterlistai\.com/',
 ]
