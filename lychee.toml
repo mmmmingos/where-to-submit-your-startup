@@ -449,4 +449,9 @@ exclude = [
   # and AI Future Tools now redirects to a gambling site.
   '^https?://(www\.)?aisourcehub\.com/',
   '^https?://(www\.)?ai-futuretools\.com/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 10): Race to Ship timed out and AiExpert.tools
+  # does not resolve. Lapa Ninja answers 403 to non-browser requests and 200 to a browser user agent the same day.
+  '^https?://(www\.)?racetoship\.com/',
+  '^https?://(www\.)?aiexpert\.tools/',
+  '^https?://(www\.)?lapa\.ninja/',
 ]
