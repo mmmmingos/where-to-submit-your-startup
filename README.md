@@ -765,6 +765,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://tyy.ai/submit/">tyy.ai</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://vantaige.io/list-your-ai-tool">Vantaige</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://vibehacker.com/">VibeHacker</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://vibeshelf.pages.dev/submit/">VibeShelf</a></td><td>Yes*</td><td nowrap>2026-11-02</td></tr>
   <tr><td><a href="https://victrays.com/">Victrays</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://waildworld.com/">WaildWorld</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://weliketools.com/submit">We Like Tools</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
