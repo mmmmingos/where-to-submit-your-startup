@@ -454,4 +454,7 @@ exclude = [
   '^https?://(www\.)?racetoship\.com/',
   '^https?://(www\.)?aiexpert\.tools/',
   '^https?://(www\.)?lapa\.ninja/',
+  # 2026-11-06: DirJournal answered GitHub's runners with 403 on the batch 11 link check, while its free submission page
+  # loaded in the browser the same day.
+  '^https?://(www\.)?dirjournal\.com/',
 ]
