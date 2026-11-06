@@ -410,4 +410,19 @@ exclude = [
   # all afternoon on 2026-11-06, and store.app's domain no longer resolves (its own nameservers refuse it).
   '^https://oddlylist\.com/',
   '^https://store\.app/',
+  # 2026-11-06: intentionally linked under Reported submission problems (batch 3): expired or missing domains, a casino
+  # takeover, a redirect to another listed site, an expired certificate, and sites that timed out or failed SSL all afternoon.
+  '^https?://(www\.)?findsaastools\.com/',
+  '^https?://(www\.)?aitoolpro\.work/',
+  '^https?://(www\.)?aitools\.moe/',
+  '^https?://(www\.)?bestfreetools\.io/',
+  '^https?://(www\.)?digitalmarketings\.io/',
+  '^https?://(www\.)?directoryhunt\.org/',
+  '^https?://(www\.)?hao\.logosc\.cn/',
+  '^https?://(www\.)?smbtoolset\.com/',
+  '^https?://(www\.)?topindie\.dev/',
+  '^https?://(www\.)?indielaun\.ch/',
+  # 2026-11-06: Ant Directory answered GitHub's runners with 403 on the link check of the batch 3 PR, while it answered
+  # 200 to a browser user agent from here the same day, when we submitted.
+  '^https://antdirectory\.com/',
 ]
