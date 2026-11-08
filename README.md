@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**1085 places** · 78 free · 499 free with a catch · 208 paid · 269 reported problems · last checked 7 Nov 2026
+**1085 places** · 78 free · 497 free with a catch · 208 paid · 271 reported problems · last checked 8 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -404,7 +404,6 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.toolkitly.com/">Toolkitly</a></td><td>No</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://tools.cafe/submit">Tools Cafe</a></td><td>Yes*</td><td nowrap>2026-11-07</td></tr>
   <tr><td><a href="https://toolsnocode.com/">Tools NoCode</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
-  <tr><td><a href="https://tools.so/submit">Tools.so</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://toolspedia.io/submit-tool/">Toolspedia</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://topdesignking.com/free-submit">Top Design King</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://tracxn.com/listyourstartup">Tracxn</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
@@ -777,7 +776,6 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://similarlabs.com/submit">SimilarLabs</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://simplifyaitools.com/submit-tool/">Simplify AI Tools</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://biz.smartcustomer.com/register">SmartCustomer</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
-  <tr><td><a href="https://smithery.ai/servers/new">Smithery</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.softpedia.com/user/submit.shtml">Softpedia</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://softwareconnect.com/">Software Connect</a></td><td>Unknown</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://vendors.softwarefinder.com/">Software Finder</a></td><td>Unknown</td><td nowrap>2026-10-25</td></tr>
@@ -1099,6 +1097,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://simplelister.com/submit">Simple Lister</a></td><td nowrap>2026-10-24</td></tr>
   <tr><td><a href="https://www.slant.co/">Slant</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://smbtoolset.com/">SMB Toolset</a></td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://smithery.ai/">Smithery</a></td><td nowrap>2026-11-08</td></tr>
   <tr><td><a href="https://softwareselecthq.com/">Software Select</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://softwaresupp.com/">SoftwareSupp</a></td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://solopush.com/">Solo Push</a></td><td nowrap>2026-10-08</td></tr>
@@ -1145,6 +1144,7 @@ Dead sites, broken forms, and communities closed to promotion, so you can skip t
   <tr><td><a href="https://toolfinder.wiki/">ToolFinder</a></td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://toolhunt.io/">ToolHunt</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://toolshubai.com/">Tools Hub AI</a></td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://tools.so/">Tools.so</a></td><td nowrap>2026-11-08</td></tr>
   <tr><td><a href="https://toolsai.net/">ToolsAI.net</a></td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.toolwave.io/">Toolwave.io</a></td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.topbestalternatives.com/">Top Best Alternatives</a></td><td nowrap>2026-10-25</td></tr>
