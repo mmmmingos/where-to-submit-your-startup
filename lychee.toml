@@ -460,4 +460,15 @@ exclude = [
   # 2026-11-07: intentionally linked under Reported submission problems (batch 12): Callupcontact's domain is a parking page
   # and fails the TLS handshake.
   '^https?://(www\.)?callupcontact\.com/',
+  # 2026-11-08: intentionally linked under Reported submission problems: Tools.so closes the connection, 100 AI Apps
+  # fails the TLS handshake and Best Startup Tools' certificate is for another name.
+  '^https?://(www\.)?tools\.so/',
+  '^https?://(www\.)?100apps\.org/',
+  '^https?://(www\.)?beststartuptools\.com/',
+  # 2026-11-08: these answer GitHub's runners (and curl from here) with 403 or 429, while each page loaded in the browser
+  # the same day: Startup Fame and Startuplist Africa (429), AlternativeTo (a Cloudflare check) and AIGC Navigation (403).
+  '^https?://(www\.)?startupfa\.me/',
+  '^https?://(www\.)?startuplist\.africa/',
+  '^https?://(www\.)?alternativeto\.net/',
+  '^https?://(www\.)?aigc\.cn/',
 ]
