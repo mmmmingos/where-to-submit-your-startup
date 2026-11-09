@@ -471,4 +471,20 @@ exclude = [
   '^https?://(www\.)?startuplist\.africa/',
   '^https?://(www\.)?alternativeto\.net/',
   '^https?://(www\.)?aigc\.cn/',
+  # 2026-11-09: these answer GitHub's runners with 403 or 429, while each page loaded in the browser the same day:
+  # Appscribed (403) and EveryDev.ai (429).
+  '^https?://(www\.)?appscribed\.com/',
+  '^https?://(www\.)?everydev\.ai/',
+  # 2026-11-09: WebCatalog's submit link redirects to its sign-in-only account app, which answers signed-out
+  # requests with 404; the page opens when signed in.
+  '^https?://(www\.)?webcatalog\.io/en/apps/submit',
+  # 2026-11-09: intentionally linked under Reported submission problems; the deployment is paused (402).
+  # This does not mean the site is healthy.
+  '^https?://(www\.)?findaitools\.co/',
+  # 2026-11-09: down on the day: IndexFlow and FutureStack answer 402 "Deployment Paused", and Future AI Guide's
+  # submit page has a certificate that expired on 2026-02-13. Rechecked on 2026-11-12: each row moves to Reported
+  # submission problems and its line here goes if it's still down; the line goes either way.
+  '^https?://(www\.)?indexflow\.tech/',
+  '^https?://(www\.)?usefuturestack\.com/',
+  '^https?://tools\.futureaiguide\.com/',
 ]
