@@ -633,7 +633,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://domore.ai/partners">DoMore</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.dynamite-ai.com/submit">Dynamite AI</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.early.tools/submit">early.tools</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
-  <tr><td><a href="https://easysaveai.com/product/submit/">Easy Save AI</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://easysaveai.com/submit">Easy Save AI</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://easywithai.com/submit-tool/">Easy With AI</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://effecthub.net/submit">EffectHub</a></td><td>Yes*</td><td nowrap>2026-10-15</td></tr>
   <tr><td><a href="https://eliteai.tools/tool/submit-new-tool?tab=launch">EliteAI Tools</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
