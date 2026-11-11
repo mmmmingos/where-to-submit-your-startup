@@ -686,6 +686,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.itqlick.com/">ITQlick</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://iuu.ai/submit">Iuu AI</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.ki-suche.io/einreichen">KI-Suche</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://kidcreatortools.com/submit">KidCreatorTools</a></td><td>Yes*</td><td nowrap>2026-11-11</td></tr>
   <tr><td><a href="https://www.lachief.io/">Lachief.io</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.lapa.ninja/">Lapa Ninja</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://launched.tools/submit">launched.tools</a></td><td>Yes*</td><td nowrap>2026-11-07</td></tr>
