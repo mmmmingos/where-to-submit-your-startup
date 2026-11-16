@@ -70,6 +70,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://alternative.tools/pricing">Alternative.tools</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://alternativeto.net/manage-item/">AlternativeTo</a></td><td>Yes*</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://altimateguide.com/request-inclusion">Altimateguide</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
+  <tr><td><a href="https://another.directory/submit">Another Directory</a></td><td>Yes*</td><td nowrap>2026-11-16</td></tr>
   <tr><td><a href="https://antdirectory.com/">Ant Directory</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.applauncher.io/launch/create">App Launcher</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://apprater.net/add">App Rater</a></td><td>Yes</td><td nowrap>2026-09-25</td></tr>
