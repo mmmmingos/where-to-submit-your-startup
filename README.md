@@ -606,6 +606,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.business-software.com/">Business Software</a></td><td>Unknown</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://account.canopy.education/ai-tools">Canopy Directory</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://chatdevelopers.com/">ChatDevelopers.com</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://checked.tools/submit">Checked</a></td><td>Yes*</td><td nowrap>2026-11-19</td></tr>
   <tr><td><a href="https://citedindex.com/submit">CitedIndex</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.comparasoftware.com/">ComparaSoftware</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://comparecamp.com/request-a-review/">CompareCamp</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
