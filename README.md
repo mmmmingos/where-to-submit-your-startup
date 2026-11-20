@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**1097 places** · 77 free · 507 free with a catch · 208 paid · 274 reported problems · last checked 20 Nov 2026
+**1101 places** · 77 free · 511 free with a catch · 208 paid · 274 reported problems · last checked 21 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -269,6 +269,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://openmakers.io/add-product">Open Makers</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://openhunts.com/projects/submit">OpenHunts</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://openupvote.com/submit">OpenUpvote</a></td><td>Yes</td><td nowrap>2026-11-07</td></tr>
+  <tr><td><a href="https://www.oribisoft.com/submit">Oribisoft</a></td><td>Yes*</td><td nowrap>2026-11-21</td></tr>
   <tr><td><a href="https://orpetron.com/submit-site/?plan=free">Orpetron</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://outbid.lol/">Outbid</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://owwly.com/">Owwly</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
@@ -322,6 +323,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.saasquirrel.com/submit">SaaSquirrel</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://saasrove.com/">SaaSRove</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://saassy-board.com/">Saassy Board</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://scoutforge.net/app-register">ScoutForge</a></td><td>Yes*</td><td nowrap>2026-11-21</td></tr>
   <tr><td><a href="https://www.scrolllaunch.com/">ScrollLaunch</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://tally.so/r/wd90Pd">Seesaw</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://semilaunch.com/submit">SemiLaunch</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
@@ -584,6 +586,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://appsmamma.com/submit-your-app/">Apps Mamma</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://appscribed.com/submit-ai-tool/">Appscribed</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://arcticstartup.com/">Arctic Startup</a></td><td>Unknown</td><td nowrap>2026-09-29</td></tr>
+  <tr><td><a href="https://www.artificialintelligencetoolslist.com/post-a-product">Artificial Intelligence Tools List</a></td><td>Yes*</td><td nowrap>2026-11-21</td></tr>
   <tr><td><a href="https://astrodir.com/">AstroDir</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://atozaitools.com/">AtoZ AI Tools</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://appsandwebsites.com/">Awesome AI &amp; SaaS Tools</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
@@ -609,7 +612,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.business-software.com/">Business Software</a></td><td>Unknown</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://account.canopy.education/ai-tools">Canopy Directory</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://chatdevelopers.com/">ChatDevelopers.com</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
-  <tr><td><a href="https://checked.tools/submit">Checked</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
+  <tr><td><a href="https://checked.tools/submit">Checked</a></td><td>Yes*</td><td nowrap>2026-11-21</td></tr>
   <tr><td><a href="https://citedindex.com/submit">CitedIndex</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.comparasoftware.com/">ComparaSoftware</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://comparecamp.com/request-a-review/">CompareCamp</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
@@ -728,6 +731,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.nocode.tech/">NoCode.Tech</a></td><td>Unknown</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.nocodefinder.com/submit-no-code-tool">NoCodeFinder</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://registry.modelcontextprotocol.io/">Official MCP Registry</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://okeiai.com/submit">OkeiAI</a></td><td>Yes*</td><td nowrap>2026-11-21</td></tr>
   <tr><td><a href="https://omr.com/en/reviews">OMR Reviews</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://opensaas.directory/">Open SaaS Directory</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.opensourcealternatives.to/submit">Open Source Alternatives</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
