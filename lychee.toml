@@ -481,10 +481,13 @@ exclude = [
   # 2026-11-09: intentionally linked under Reported submission problems; the deployment is paused (402).
   # This does not mean the site is healthy.
   '^https?://(www\.)?findaitools\.co/',
-  # 2026-11-09: down on the day: IndexFlow and FutureStack answer 402 "Deployment Paused", and Future AI Guide's
-  # submit page has a certificate that expired on 2026-02-13. Rechecked on 2026-11-12: each row moves to Reported
-  # submission problems and its line here goes if it's still down; the line goes either way.
+  # 2026-11-20: intentionally linked under Reported submission problems: IndexFlow and FutureStack answer 402
+  # "DEPLOYMENT_DISABLED" (402 "Deployment Paused" on 2026-11-09), and Future AI Guide's submit page still has an
+  # expired certificate. This does not mean the sites are healthy.
   '^https?://(www\.)?indexflow\.tech/',
   '^https?://(www\.)?usefuturestack\.com/',
   '^https?://tools\.futureaiguide\.com/',
+  # 2026-11-20: EU-Startups failed the weekly link check two weeks running: CI receives 403, while its directory
+  # page returns 200 in a normal request on 2026-11-20.
+  '^https?://(www\.)?eu-startups\.com/',
 ]
