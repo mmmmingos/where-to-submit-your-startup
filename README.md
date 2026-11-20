@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**1098 places** · 77 free · 508 free with a catch · 208 paid · 274 reported problems · last checked 20 Nov 2026
+**1097 places** · 77 free · 507 free with a catch · 208 paid · 274 reported problems · last checked 20 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -287,7 +287,6 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.productinspire.com/register">Product Inspire</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.productlaunchify.com/dashboard">Product Launchify</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://productwatch.io/">Product Watch</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
-  <tr><td><a href="https://productburst.com/">ProductBurst</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://productfame.com/products/submit">ProductFame</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://productivity.directory/s/submit">Productivity Directory</a></td><td>No</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://www.promoteproject.com/submit-startup">PromoteProject</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -681,7 +680,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.howtobuysaas.com/">How to Buy SaaS</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://hrefgo.com/pricing">Hrefgo</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://tally.so/r/w2poXD">Inc42</a></td><td>Yes*</td><td nowrap>2026-09-26</td></tr>
-  <tr><td><a href="https://indiehustles.com/submit">IndieHustles</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://indiehustles.com/submit">IndieHustles</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://infrabase.ai/submit">Infrabase</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.insidr.ai/submit-tools/">Insidr AI Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://intelligenttools.co/submit">Intelligent Tools</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
@@ -692,7 +691,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.ki-suche.io/einreichen">KI-Suche</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://kidcreatortools.com/submit">KidCreatorTools</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://www.lachief.io/">Lachief.io</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
-  <tr><td><a href="https://www.lapa.ninja/">Lapa Ninja</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://www.lapa.ninja/">Lapa Ninja</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://launched.tools/submit">launched.tools</a></td><td>Yes*</td><td nowrap>2026-11-07</td></tr>
   <tr><td><a href="https://www.launchpact.io/">LaunchPact</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://launchpadindia.co/submit">LaunchPad India</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
