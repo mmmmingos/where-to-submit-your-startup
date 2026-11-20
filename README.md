@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**1091 places** · 77 free · 501 free with a catch · 208 paid · 274 reported problems · last checked 20 Nov 2026
+**1098 places** · 77 free · 508 free with a catch · 208 paid · 274 reported problems · last checked 20 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -70,7 +70,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://alternative.tools/pricing">Alternative.tools</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://alternativeto.net/manage-item/">AlternativeTo</a></td><td>Yes*</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://altimateguide.com/request-inclusion">Altimateguide</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
-  <tr><td><a href="https://another.directory/submit">Another Directory</a></td><td>Yes*</td><td nowrap>2026-11-16</td></tr>
+  <tr><td><a href="https://another.directory/submit">Another Directory</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://antdirectory.com/">Ant Directory</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.applauncher.io/launch/create">App Launcher</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://apprater.net/add">App Rater</a></td><td>Yes</td><td nowrap>2026-09-25</td></tr>
@@ -108,7 +108,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.clapstorm.com/submit">Clapstorm</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.cloudfindr.co/list-your-app">Cloudfindr</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.codehype.ai/submit">CodeHype</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
-  <tr><td><a href="https://collabe.io/">Collabe</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://collabe.io/">Collabe</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://support.crunchbase.com/hc/en-us/articles/115011823988-How-do-I-create-a-Crunchbase-profile">Crunchbase</a></td><td>Yes</td><td nowrap>2026-09-26</td></tr>
   <tr><td><a href="https://www.cssdesignawards.com/submit">CSS Design Awards</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://cssnectar.com/suggest-site/">CSS Nectar</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
@@ -193,6 +193,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://indiehackerstacks.com/">IndieHackerStacks</a></td><td>Yes</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://indiehub.best/submit">IndieHub</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://indiehunt.io/submit">IndieHunt</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://indielineup.com/submit/">IndieLineup</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://www.indielogs.com/">IndieLogs</a></td><td>Yes</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.indieproducts.io/">IndieProducts.io</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.indietool.io/">IndieTool</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
@@ -294,7 +295,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.qualityinternetdirectory.com/submit.php">Quality Internet Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://radarmakers.com/submit">RadarMakers</a></td><td>Yes*</td><td nowrap>2026-10-24</td></tr>
   <tr><td><a href="https://ramen.tools/">ramen.tools</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
-  <tr><td><a href="https://rankcert.com/home/products/new">RankCert</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://rankcert.com/home/products/new">RankCert</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://rankinpublic.xyz/launch">RankInPublic.xyz</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://recent.design/">Recent</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://resource.fyi/">Resource.fyi</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -343,7 +344,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://sourceforge.net/software/vendors/new?site_change=sf&origin=sd">Slashdot</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://smollaunch.com/">Smol Launch</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.snapmunk.com/submit-your-startup/">SnapMunk</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
-  <tr><td><a href="https://softwareontheweb.com/add-product">Software on the Web</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://softwareontheweb.com/add-product">Software on the Web</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://sololaunches.com/">Solo Launches</a></td><td>No</td><td nowrap>2026-11-07</td></tr>
   <tr><td><a href="https://somuch.com/submit-links/">SoMuch</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://stackshare.io/">StackShare</a></td><td>Yes</td><td nowrap>2026-10-25</td></tr>
@@ -392,6 +393,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://tekpon.com/get-listed/">Tekpon</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://thehackstack.com/add-product">The Hack Stack</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://thestartupinc.com/submit-startup/">The Startup INC</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://themicrosaasdir.com/submit/">TheMicroSaaSDir</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://thesaasdir.com/submit/">TheSaaSDir</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.tinylaunch.com/">Tiny Launch</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.tinystartups.com/submit">Tiny Startups</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
@@ -493,7 +495,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://aijourney.so/submit-ai-tool">AI Journey</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aijumble.com/">AI Jumble</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aijustbetter.com/">AI Just Better</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
-  <tr><td><a href="https://ailaunch.space/submit?plan=standard">AI Launch Space</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://ailaunch.space/submit?plan=standard">AI Launch Space</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://ailib.ru/en/add-ai/free/">AI Lib</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://www.theailibrary.co/pricing">AI Library</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://www.aimarketing.directory/submit">AI Marketing Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
@@ -619,7 +621,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://creati.ai/submit-ai/submit-your-ai/">Creati.ai</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.crowdreviews.com/">CrowdReviews</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://vendor.crozdesk.com/user/signup">CrozDesk</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
-  <tr><td><a href="https://curateclick.com/submit?package=free">CurateClick</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://curateclick.com/submit?package=free">CurateClick</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://www.cuspera.com/">Cuspera</a></td><td>Unknown</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://dang.ai/">Dang.ai</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://datalook.io/submit-tool">DataLook.io</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
@@ -813,6 +815,10 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.theainavigator.com/submit-an-ai-tool">The AI Navigator</a></td><td>Yes*</td><td nowrap>2026-10-26</td></tr>
   <tr><td><a href="https://www.thetoolbus.ai/ai-tools/submit">The Tool Bus</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://theaisurf.com/pricing-plan/">TheAISurf</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://theaitoolsdir.com/submit/">TheAIToolsDir</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
+  <tr><td><a href="https://thedevtoolsdir.com/submit/">TheDevToolsDir</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
+  <tr><td><a href="https://thedevtoolsindex.com/submit/">TheDevToolsIndex</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
+  <tr><td><a href="https://thedevtoolslist.com/submit/">TheDevToolsList</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://theresanaiforthat.com/launch/">There's An AI For That</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://thesaasdirectory.com/create-listing/">TheSaaSDirectory</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://thingtesting.com/submit-brand">Thingtesting</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
