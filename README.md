@@ -521,7 +521,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://aitogrow.com/">AI to Grow</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aitoolboard.com/submit">AI Tool Board</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aitoolcenter.com/submit">AI Tool Center</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
-  <tr><td><a href="https://www.gptdemo.net/gpt/add-tool?lg=en">AI Tool Hub</a></td><td>No</td><td nowrap>2026-11-22</td></tr>
+  <tr><td><a href="https://www.aitoolhub.net/">AI Tool Hub</a></td><td>No</td><td nowrap>2026-11-22</td></tr>
   <tr><td><a href="https://www.aitoolnet.com/submit">AI Tool Net</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://aitoolselection.com/submit-tools/">AI Tool Selection</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitooltrek.com/submit">AI Tool Trek</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
