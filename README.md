@@ -4,7 +4,7 @@
 
 An open-source library of places to submit your startup: the most up-to-date and most comprehensive list of its kind. Notes, prices, and requirements for every place are on [submitmystartup.com](https://submitmystartup.com/), where the planner filters the list, and in the skill, which your AI agent can ask.
 
-**1116 places** · 82 free · 516 free with a catch · 210 paid · 277 reported problems · last checked 22 Nov 2026
+**1120 places** · 82 free · 520 free with a catch · 210 paid · 277 reported problems · last checked 22 Nov 2026
 
 [![Planner](https://img.shields.io/badge/Planner-submitmystartup.com-2563eb)](https://submitmystartup.com/planner/) [![Skill](https://img.shields.io/badge/Skill-for_your_AI_agent-111827)](#skill) [![MCP](https://img.shields.io/badge/MCP-server_setup-7c3aed)](https://submitmystartup.com/mcp-server/)
 
@@ -215,6 +215,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.kickproduct.com/">Kick Product</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://land-book.com/websites/new">Land-book</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.landingfolio.com/submit">Landingfolio</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://larklaunch.com/">LarkLaunch</a></td><td>Yes*</td><td nowrap>2026-11-22</td></tr>
   <tr><td><a href="https://trylaunch.ai/submit">Launch AI</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.launch-list.org/submit/product">Launch List</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://tools.launchllama.co/submit">Launch Llama</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
@@ -233,6 +234,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://launchpadly.co/submit">Launchpadly</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.launchpanda.dev/">LaunchPanda</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://launchrove.com/">LaunchRove</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://launchtory.com/">Launchtory</a></td><td>Yes*</td><td nowrap>2026-11-22</td></tr>
   <tr><td><a href="https://launchwren.com/submit">LaunchWren</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://launchy.tools/submit">Launchy</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://lddir.com/">LD Directory</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
@@ -281,8 +283,9 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://orpetron.com/submit-site/?plan=free">Orpetron</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://outbid.lol/">Outbid</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://owwly.com/">Owwly</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://www.pavelaunch.com/">PaveLaunch</a></td><td>Yes*</td><td nowrap>2026-11-22</td></tr>
   <tr><td><a href="https://peerlist.io/launchpad">Peerlist Launchpad</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
-  <tr><td><a href="https://peerpush.com/submit">PeerPush</a></td><td>Yes*</td><td nowrap>2026-10-02</td></tr>
+  <tr><td><a href="https://peerpush.com/submit">PeerPush</a></td><td>Yes*</td><td nowrap>2026-11-22</td></tr>
   <tr><td><a href="https://phyco.org/submit">Phyco</a></td><td>Yes</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://pitchwall.co/submit">Pitchwall</a></td><td>Yes*</td><td nowrap>2026-10-02</td></tr>
   <tr><td><a href="https://postyourstartup.com/">Post Your Startup</a></td><td>Yes*</td><td nowrap>2026-11-07</td></tr>
@@ -310,6 +313,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://retrolaunch.io/contact">Retro Launch</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.revispy.com/launchpad">Revispy Launchpad</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://robodebut.com/submit-with-a-coding-agent">RoboDebut</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
+  <tr><td><a href="https://roozna.com/">Roozna</a></td><td>Yes*</td><td nowrap>2026-11-22</td></tr>
   <tr><td><a href="https://www.s5-style.com/submit/guest/">S5-Style</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://saasbison.com/submit">SaaS Bison</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://saascss.com/">SaaS CSS</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
