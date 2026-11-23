@@ -501,4 +501,9 @@ exclude = [
   '^https?://(www\.)?findproductized\.co/',
   '^https?://(www\.)?listai\.cc/',
   '^https?://(www\.)?fuelup\.co/',
+  # 2026-11-23: CI receives 403 from Best of the Web and Open Hub, which sit behind a Cloudflare check, and from
+  # Brownbook on one of two runs, while each page opened in the browser the same day (we submitted to Brownbook).
+  '^https?://(www\.)?botw\.org/',
+  '^https?://(www\.)?openhub\.net/',
+  '^https?://(www\.)?brownbook\.net/',
 ]
