@@ -609,6 +609,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://aitoolgo.com/">AiToolGo</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitoolly.com/submit">AIToolly</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://aitoolmate.com/submit/">AiToolMate</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://aitoolpier.com/submit">AIToolPier</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://aitools.fyi/submit">aitools.fyi</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://aitools.sh/submit-a-tool/">AITools.sh</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitoolscapital.com/submit-tool/">AIToolsCapital</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
