@@ -72,7 +72,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://alphadigits.com/submit-app-for-review/">Alpha Digits</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://althunt.io/new">Alt Hunt</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://alternative.me/">Alternative.me</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
-  <tr><td><a href="https://alternative.tools/pricing">Alternative.tools</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://alternative.tools/pricing">Alternative.tools</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://alternativeto.net/manage-item/">AlternativeTo</a></td><td>Yes*</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://altimateguide.com/request-inclusion">Altimateguide</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
   <tr><td><a href="https://another.directory/submit">Another Directory</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
@@ -169,7 +169,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.ezilon.com/">Ezilon</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.f6s.com/submitmystartup.com">F6S</a></td><td>Yes*</td><td nowrap>2026-09-26</td></tr>
   <tr><td><a href="https://fastlaunch.io/projects/submit">FastLaunch</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
-  <tr><td><a href="https://fazier.com/launch">Fazier</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://fazier.com/launch">Fazier</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://featuredtool.com/submit">FeaturedTool</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://fellowmakers.app/join">FellowMakers</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://fewertools.com/submit/">Fewertools</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
@@ -393,7 +393,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://startupbuffer.com/site/submit">Startup Buffer</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://startupdope.com/submit">Startup Dope</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://startupeurope.net/">Startup Europe</a></td><td>Yes</td><td nowrap>2026-10-08</td></tr>
-  <tr><td><a href="https://startupfa.me/">Startup Fame</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://startupfa.me/">Startup Fame</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://www.startupfa.st/submit">Startup Fast</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.startupguys.net/submit-startup/">Startup Guys</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://www.startupinspire.com/">Startup Inspire</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
@@ -617,7 +617,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://aitoolswiki.com/submit-tool">AiToolsWiki</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://aitoolzi.com/submit">AIToolzi</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://aitoptools.com/claim-your-tool/">AITopTools</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
-  <tr><td><a href="https://aitrustlist.com/submit">AITrustList</a></td><td>Yes*</td><td nowrap>2026-10-14</td></tr>
+  <tr><td><a href="https://aitrustlist.com/submit">AITrustList</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://aiwget.com/submit">AIWget</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.aixploria.com/en/">Aixploria</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.aixuanfeng.com/links/">Aixuanfeng</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
@@ -747,7 +747,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://launchpadindia.co/submit">LaunchPad India</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://www.libhunt.com/repo/submit">LibHunt</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://linezine.com/list-your-tool">LineZine AI Tool Directory</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
-  <tr><td><a href="https://listmysaas.xyz/submit">List My SaaS</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://listmysaas.xyz/submit">List My SaaS</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://listoffreeware.com/submit-new-freeware/">List Of Freeware</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
   <tr><td><a href="https://www.listedai.co/submit">ListedAI</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://listmyai.net/submit-ai-tools">Listmyai</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
@@ -882,7 +882,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.tooljunction.io/list-your-product">Tool Junction</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.toolbit.ai/">Toolbit AI</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://toolbloom.ai/en/submit-tool">ToolBloom</a></td><td>No</td><td nowrap>2026-10-25</td></tr>
-  <tr><td><a href="https://toolfio.com/submit">Toolfio</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
+  <tr><td><a href="https://toolfio.com/submit">Toolfio</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://toolhunter.ai/">ToolHunter.ai</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.toolify.ai/submit">Toolify.ai</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://toolio.ai/submit">Toolio AI</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
