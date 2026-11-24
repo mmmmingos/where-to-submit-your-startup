@@ -517,4 +517,6 @@ exclude = [
   '^https?://(www\.)?intelligenttools\.co/',
   '^https?://(www\.)?wdawards\.com/',
   '^https?://(www\.)?cloudfindr\.co/',
+  # 2026-11-24: CI receives 403 from Discoverly, while its submit page worked in a browser the same day (we submitted).
+  '^https?://(www\.)?discoverly\.tech/',
 ]
