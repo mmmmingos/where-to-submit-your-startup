@@ -852,6 +852,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.startuplist.africa/submit-startup">Startuplist Africa</a></td><td>Yes*</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://startups-list.com/cities">Startups-List</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://startups.watch/">Startups.watch</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://learn.ynteractive.com/for-makers">Stepthrough</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://www.stork.ai/submit">Stork.ai</a></td><td>No</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://www.superaitools.io/submit-a-tool">Super AI Tools</a></td><td>Yes</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://t0ai.com/submit">T0AI</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
