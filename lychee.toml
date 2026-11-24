@@ -506,4 +506,15 @@ exclude = [
   '^https?://(www\.)?botw\.org/',
   '^https?://(www\.)?openhub\.net/',
   '^https?://(www\.)?brownbook\.net/',
+  # 2026-11-24: intentionally linked under Reported submission problems: Retro Launch answers Framer's 404 and
+  # IndieProducts.io Vercel's 402 (both on 2026-11-20 and 2026-11-24), and The Indie Wall and ZeroMRR don't resolve.
+  '^https?://(www\.)?retrolaunch\.io/',
+  '^https?://(www\.)?indieproducts\.io/',
+  '^https?://(www\.)?theindiewall\.net/',
+  '^https?://(www\.)?zeromrr\.app/',
+  # 2026-11-24: CI is refused by Intelligent Tools, WD Awards (its server answers 403) and Cloudfindr (a Cloudflare
+  # check), while each page loaded in the browser the same day.
+  '^https?://(www\.)?intelligenttools\.co/',
+  '^https?://(www\.)?wdawards\.com/',
+  '^https?://(www\.)?cloudfindr\.co/',
 ]
