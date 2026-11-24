@@ -316,6 +316,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://productivity.directory/s/submit">Productivity Directory</a></td><td>No</td><td nowrap>2026-10-03</td></tr>
   <tr><td><a href="https://www.promoteproject.com/submit-startup">PromoteProject</a></td><td>Yes*</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://proofstories.io/submit/">ProofStories</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
+  <tr><td><a href="https://pushmyproject.com/submit">pushmyproject.com</a></td><td>Yes</td><td nowrap>2026-11-23</td></tr>
   <tr><td><a href="https://www.qualityinternetdirectory.com/submit.php">Quality Internet Directory</a></td><td>Yes*</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://radarmakers.com/submit">RadarMakers</a></td><td>Yes*</td><td nowrap>2026-10-24</td></tr>
   <tr><td><a href="https://ramen.tools/">ramen.tools</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
