@@ -883,6 +883,7 @@ Places limited to a region, an audience, or a kind of product such as AI. The ga
   <tr><td><a href="https://www.theainavigator.com/submit-an-ai-tool">The AI Navigator</a></td><td>Yes*</td><td nowrap>2026-10-26</td></tr>
   <tr><td><a href="https://www.thenextai.com/submit-ai-tool/">The Next AI</a></td><td>Yes</td><td nowrap>2026-11-23</td></tr>
   <tr><td><a href="https://www.thetoolbus.ai/ai-tools/submit">The Tool Bus</a></td><td>Yes*</td><td nowrap>2026-10-25</td></tr>
+  <tr><td><a href="https://theusefulmedia.com/apps/submit/">The Useful Apps</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
   <tr><td><a href="https://theaisurf.com/pricing-plan/">TheAISurf</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://theaitoolsdir.com/submit/">TheAIToolsDir</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
   <tr><td><a href="https://thedevtoolsdir.com/submit/">TheDevToolsDir</a></td><td>Yes*</td><td nowrap>2026-11-20</td></tr>
