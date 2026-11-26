@@ -523,4 +523,7 @@ exclude = [
   '^https?://(www\.)?faslaunch\.com/',
   # 2026-11-26: CI receives 403 from FindUpApp, while its submit page loaded in a browser the same day.
   '^https?://(www\.)?findupapp\.com/',
+  # 2026-11-27: intentionally linked under Reported submission problems: AI Agents Verse answers Cloudflare's 525
+  # (SSL handshake failed), on 2026-11-20 and 2026-11-27.
+  '^https?://(www\.)?aiagentsverse\.com/',
 ]
