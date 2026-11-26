@@ -519,4 +519,8 @@ exclude = [
   '^https?://(www\.)?cloudfindr\.co/',
   # 2026-11-24: CI receives 403 from Discoverly, while its submit page worked in a browser the same day (we submitted).
   '^https?://(www\.)?discoverly\.tech/',
+  # 2026-11-26: intentionally linked under Reported submission problems: FasLaunch's deployment is paused (402).
+  '^https?://(www\.)?faslaunch\.com/',
+  # 2026-11-26: CI receives 403 from FindUpApp, while its submit page loaded in a browser the same day.
+  '^https?://(www\.)?findupapp\.com/',
 ]
