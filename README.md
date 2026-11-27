@@ -288,6 +288,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.makermove.com/promote">Maker Move</a></td><td>No</td><td nowrap>2026-10-08</td></tr>
   <tr><td><a href="https://makerhunt.io/submit">MakerHunt</a></td><td>No</td><td nowrap>2026-10-04</td></tr>
   <tr><td><a href="https://makerlist.io/">Makerlist.io</a></td><td>Yes*</td><td nowrap>2026-10-08</td></tr>
+  <tr><td><a href="https://themakerora.com">Makerora</a></td><td>Yes*</td><td nowrap>2026-11-27</td></tr>
   <tr><td><a href="https://maqtoob.com/software-submit-page/">Maqtoob</a></td><td>Yes</td><td nowrap>2026-11-22</td></tr>
   <tr><td><a href="https://www.marketinginternetdirectory.com/submit.php">Marketing Internet Directory</a></td><td>Yes*</td><td nowrap>2026-10-06</td></tr>
   <tr><td><a href="https://marketingdb.live/submit/plan">MarketingDB</a></td><td>Yes*</td><td nowrap>2026-11-24</td></tr>
