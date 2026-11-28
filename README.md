@@ -94,7 +94,7 @@ Directories, launch sites, company profiles, review sites, and submission servic
   <tr><td><a href="https://www.bestcss.in/freesubmit">Best CSS</a></td><td>Yes</td><td nowrap>2026-10-26</td></tr>
   <tr><td><a href="https://bestdirectories.org/submit">Best Directories</a></td><td>Yes*</td><td nowrap>2026-11-06</td></tr>
   <tr><td><a href="https://bestsites.si/en/submit">BestSites</a></td><td>Yes*</td><td nowrap>2026-11-27</td></tr>
-  <tr><td><a href="https://bestsky.tools/submit">BestskyTools</a></td><td>Yes*</td><td nowrap>2026-11-28</td></tr>
+  <tr><td><a href="https://bestsky.tools/dashboard/tools/submit">BestskyTools</a></td><td>Yes*</td><td nowrap>2026-11-28</td></tr>
   <tr><td><a href="https://bestwebsites.info/en/submit">BestWebsites</a></td><td>No</td><td nowrap>2026-10-07</td></tr>
   <tr><td><a href="https://betabound.com/">Beta Bound</a></td><td>Yes*</td><td nowrap>2026-09-26</td></tr>
   <tr><td><a href="https://betatesting.com/">Beta Testing</a></td><td>No</td><td nowrap>2026-09-24</td></tr>
